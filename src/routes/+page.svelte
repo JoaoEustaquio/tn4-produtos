@@ -8,7 +8,7 @@
         {
             title: "GAMER 1690 + RX 550",
             image: "gabinete1690.jpg",
-            text: "Computador GAMER de ENTRADA!\n\n💥 LEAGUE OF LEGENDS (60FPS)\n🌎 MINECRAFT (60/70FPS)\n🟥 ROBLOX (60/70FPS)\n\n*Processador:* i5 2ª GERAÇÃO\n*Memória RAM:* 2x8GB DDR3\n*Placa de Vídeo:* RX 550 4GB\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER 2 FANS RGB NA FRENTE\n*Fonte:* 500W\n\n +*KIT GAMER:* 🖥️ MONITOR 16 POLEGADAS, ⌨️ TECLADO, 🖱️ MOUSE, MOUSEPAD E 🎧 HEADSET\n\n*R$ 2590,00* em até 10x sem juros!"
+            text: "Computador GAMER de ENTRADA!\n\n💥 LEAGUE OF LEGENDS (60FPS)\n🌎 MINECRAFT (60/70FPS)\n🟥 ROBLOX (60/70FPS)\n\n*Processador:* i5 2ª GERAÇÃO\n*Memória RAM:* 2x8GB DDR3\n*Placa de Vídeo:* RX 550 4GB\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER 2 FANS RGB NA FRENTE\n*Fonte:* 500W\n\n +*KIT GAMER:* 🖥️ MONITOR 16 POLEGADAS, ⌨️ TECLADO, 🖱️ MOUSE, MOUSEPAD E 🎧 HEADSET\n\n*R$ 2.690,00* em até 10x sem juros!"
         },
         {
             title: "GAMER RYZEN 5 5600G",
