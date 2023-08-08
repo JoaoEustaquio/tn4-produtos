@@ -1,5 +1,5 @@
 <script lang="ts">
-  import CopyButton from "$lib/CopyButton.svelte";
+    import CopyButton from "$lib/CopyButton.svelte"
 
     const monitors = [
         { title: "15P", price: "R$ 259,00" },
@@ -68,7 +68,12 @@
 
     }
 
-    function 
+    function allMonitors() {
+        var finalString = "🖥 MONITORES SEMINOVOS:\n\n"
+
+        monitors.forEach((monitor, i) => { finalString += `*${monitor.title}* por *${monitor.price}*` + ((i + 1) < monitors.length ? "\n" : "") })
+        navigator.clipboard.writeText(finalString)
+    }
 </script>
 
 <div class="p-8">
@@ -77,7 +82,7 @@
         <div>
             <div class="flex justify-between items-center mb-4">
                 <h1 class="text-xl font-bold">🖥️ MONITORES SEMINOVOS</h1>
-                <button class="button">COPIAR</button>
+                <CopyButton on:click={() => allMonitors()} />
             </div>
             <table class="border border-neutral-300 w-full">
                 {#each monitors as monitor}
