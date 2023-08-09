@@ -48,12 +48,12 @@
         {
             title: "GAMER RYZEN 5 5600G",
             image: "maquina_ryzen_5.png",
-            text: "Computador GAMER!\n\n💥 LEAGUE OF LEGENDS (100FPS+)\n🚔 GTA RP (40/60FPS)\n🌎 MINECRAFT (150FPS+)\n🔫 WARZONE (40/65FPS)\n🦙 FORTNITE (60/120FPS)\n\n*Processador:* RYZEN 5 5600G\n*Memória RAM:* 16GB DDR4\n*Placa de Vídeo:* VEGA 7 (INTEGRADO)\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER 4 FANS RGB NA FRENTE\n*Fonte:* 500W\n\n*R$ 2990,00* em até 10x sem juros!",
+            text: "Computador GAMER!\n\n💥 LEAGUE OF LEGENDS (100FPS+)\n🚔 GTA RP (40/80FPS)\n🌎 MINECRAFT (150FPS+)\n🔫 WARZONE (40/65FPS)\n🦙 FORTNITE (60/120FPS)\n\n*Processador:* RYZEN 5 5600G\n*Memória RAM:* 16GB DDR4\n*Placa de Vídeo:* VEGA 7 (INTEGRADO)\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER 4 FANS RGB NA FRENTE\n*Fonte:* 500W\n\n*R$ 2990,00* em até 10x sem juros!",
         },
         {
             title: "GAMER I7 3 GERAÇÃO",
             image: "gabinete1690.png",
-            text: "Computador GAMER!\n\n💥 LEAGUE OF LEGENDS (100FPS+)\n🚔 GTA RP (40/60FPS)\n🌎 MINECRAFT (150FPS+)\n🔫 WARZONE (40/65FPS)\n🦙 FORTNITE (60/120FPS)\n\n*Processador:* i7 3ª GERAÇÃO\n*Memória RAM:* 8GB DDR3\n*Placa de Vídeo:* RX 580 8GB\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER 2 FANS RGB NA FRENTE\n*Fonte:* 500W\n\n*R$ 2.690,00* em até 10x sem juros!",
+            text: "Computador GAMER!\n\n💥 LEAGUE OF LEGENDS (100FPS+)\n🚔 GTA RP (40/80FPS)\n🌎 MINECRAFT (150FPS+)\n🔫 WARZONE (40/65FPS)\n🦙 FORTNITE (60/120FPS)\n\n*Processador:* i7 3ª GERAÇÃO\n*Memória RAM:* 8GB DDR3\n*Placa de Vídeo:* RX 580 8GB\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER 2 FANS RGB NA FRENTE\n*Fonte:* 500W\n\n*R$ 2.690,00* em até 10x sem juros!",
         }
     ]
 
@@ -77,21 +77,28 @@
     }
 </script>
 
+<svelte:head>
+    <title>TN4-TECH PRODUTOS</title>
+</svelte:head>
+
 <div class="p-8">
 
-    <div class="grid grid-cols-3 gap-4 mb-8">
+    <div class="grid grid-cols-2 gap-4 mb-8">
         <div>
             <div class="flex justify-between items-center mb-4">
                 <h1 class="text-xl font-bold">🖥️ MONITORES SEMINOVOS</h1>
-                <CopyButton on:click={() => allMonitors()}>COPIAR</CopyButton>
+                <CopyButton on:click={() => allMonitors()} class="space-x-2">
+                    <IconCopy />
+                    <span class="text-sm tracking-wider">COPIAR TODOS</span>
+                </CopyButton>
             </div>
             <table class="border border-neutral-300 w-full">
                 {#each monitors as monitor}
                     <tr class="group border border-neutral-300">
-                        <th class="text-left border border-neutral-300 p-2 w-1/3 bg-neutral-100">{monitor.title}</th>
+                        <th class="text-left border border-neutral-300 p-2 bg-neutral-100">{monitor.title}</th>
                         <td class="p-2 flex justify-between items-center">
                             <span>{monitor.price}</span>
-                            <CopyButton class="text-white bg-black rounded p-1">
+                            <CopyButton on:click={() => navigator.clipboard.writeText(`🖥 *MONITOR SEMINOVO ${monitor.title}* por *${monitor.price}*`)} class="text-white bg-black rounded-sm p-1">
                                 <IconCopy />
                             </CopyButton>
                         </td>
@@ -103,28 +110,21 @@
         <div>
             <div class="flex justify-between items-center mb-4">
                 <h1 class="text-xl font-bold">🎮 PLACAS DE VÍDEO</h1>
-                <CopyButton on:click={() => allGPUs()}>COPIAR</CopyButton>
+                <CopyButton on:click={() => allGPUs()} class="space-x-2">
+                    <IconCopy />
+                    <span class="text-sm tracking-wider">COPIAR TODOS</span>
+                </CopyButton>
             </div>
             <table class="border border-neutral-300 w-full">
                 {#each gpus as gpu}
                     <tr class="border border-neutral-300">
-                        <th class="text-left border border-neutral-300 p-2 w-1/3 bg-neutral-100">{gpu.title}</th>
-                        <td class="p-2">{gpu.price}</td>
-                    </tr>
-                {/each}
-            </table>
-        </div>
-
-        <div>
-            <div class="flex justify-between items-center mb-4">
-                <h1 class="text-xl font-bold">💻 NOTEBOOKS</h1>
-                <CopyButton on:click={() => allGPUs()}>COPIAR</CopyButton>
-            </div>
-            <table class="border border-neutral-300 w-full">
-                {#each gpus as gpu}
-                    <tr class="border border-neutral-300">
-                        <th class="text-left border border-neutral-300 p-2 w-1/3 bg-neutral-100">{gpu.title}</th>
-                        <td class="p-2">{gpu.price}</td>
+                        <th class="text-left border border-neutral-300 p-2 bg-neutral-100">{gpu.title}</th>
+                        <td class="p-2 flex justify-between items-center">
+                            <span>{gpu.price}</span>
+                            <CopyButton on:click={() => navigator.clipboard.writeText(`🎮 *${gpu.title}* por *${gpu.price}*`)} class="text-white bg-black rounded-sm p-1">
+                                <IconCopy />
+                            </CopyButton>
+                        </td>
                     </tr>
                 {/each}
             </table>
@@ -142,7 +142,7 @@
                     {product.text}
                 </code>
 
-                <CopyButton class="w-full" on:click={() => copyToClipboard(product)}>COPIAR</CopyButton>
+                <CopyButton class="w-full tracking-wider text-sm" on:click={() => copyToClipboard(product)}>COPIAR</CopyButton>
             </div>
         {/each}
     </div>

@@ -1,4 +1,6 @@
 <script lang="ts">
+    import IconCheck from "$lib/icons/check.svelte"
+    import IconCopy from "$lib/icons/copy.svelte"
     import { createEventDispatcher } from "svelte";
 
     let disabled = false
@@ -17,7 +19,8 @@
 </script>
 
 <button disabled={disabled} on:click={handleClick} class={className + " button"}>
-    {#if disabled} ✅
-    {:else} <slot />
+    {#if disabled} <IconCheck />
+    {:else}
+        <slot />
     {/if}
 </button>
