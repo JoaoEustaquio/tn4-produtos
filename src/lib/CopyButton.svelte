@@ -17,5 +17,7 @@
 </script>
 
 <button disabled={disabled} on:click={handleClick} class={className + " button"}>
-    {disabled && "✅" || "COPIAR"}
+    {#if disabled} ✅
+    {:else} <slot />
+    {/if}
 </button>

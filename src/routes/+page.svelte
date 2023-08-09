@@ -1,5 +1,6 @@
 <script lang="ts">
     import CopyButton from "$lib/CopyButton.svelte"
+    import IconCopy from "$lib/icons/copy.svelte"
 
     const monitors = [
         { title: "15P", price: "R$ 259,00" },
@@ -37,22 +38,22 @@
         {
             title: "GAMER 1690 + RX 550",
             image: "gabinete1690.png",
-            text: "Computador GAMER de ENTRADA!\n\n💥 LEAGUE OF LEGENDS (60FPS)\n🌎 MINECRAFT (60/70FPS)\n🟥 ROBLOX (60/70FPS)\n\n*Processador:* i5 2ª GERAÇÃO\n*Memória RAM:* 8GB DDR3\n*Placa de Vídeo:* RX 550 4GB\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER 2 FANS RGB NA FRENTE\n*Fonte:* 500W\n\n +*KIT GAMER:* 🖥️ MONITOR 16 POLEGADAS, ⌨️ TECLADO, 🖱️ MOUSE, MOUSEPAD E 🎧 HEADSET\n\n*R$ 2.590,00* em até 10x sem juros!",
+            text: "Computador GAMER de ENTRADA!\n\n💥 LEAGUE OF LEGENDS (60FPS)\n🌎 MINECRAFT (60/70FPS)\n🟥 ROBLOX (60/70FPS)\n 🚔 GTA RP (40/80FPS)\n🔫 CSGO/VALORANT (60/90FPS)\n\n*Processador:* i5 2ª GERAÇÃO\n*Memória RAM:* 8GB DDR3\n*Placa de Vídeo:* RX 550 4GB\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER 2 FANS RGB NA FRENTE\n*Fonte:* 500W\n\n +*KIT GAMER:* 🖥️ MONITOR 16 POLEGADAS, ⌨️ TECLADO, 🖱️ MOUSE, MOUSEPAD E 🎧 HEADSET\n\n*R$ 2.590,00* em até 10x sem juros!",
         },
         {
             title: "PC GAMER 1990",
             image: "gabinete1690.png",
-            text: "Computador GAMER de ENTRADA!\n\n💥 LEAGUE OF LEGENDS (60FPS)\n🌎 MINECRAFT (60/70FPS)\n🟥 ROBLOX (60/70FPS)\n\n*Processador:* i5 2ª GERAÇÃO\n*Memória RAM:* 8GB DDR3\n*Placa de Vídeo:* RX 550 4GB\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER 2 FANS RGB NA FRENTE\n*Fonte:* 500W\n\n*R$ 1.990,00* em até 10x sem juros!",
+            text: "Computador GAMER de ENTRADA!\n\n💥 LEAGUE OF LEGENDS (60FPS)\n🌎 MINECRAFT (60/70FPS)\n🟥 ROBLOX (60/70FPS)\n 🚔 GTA RP (40/80FPS)\n🔫 CSGO/VALORANT (60/90FPS)\n\n*Processador:* i5 2ª GERAÇÃO\n*Memória RAM:* 8GB DDR3\n*Placa de Vídeo:* RX 550 4GB\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER 2 FANS RGB NA FRENTE\n*Fonte:* 500W\n\n*R$ 1.990,00* em até 10x sem juros!",
         },
         {
             title: "GAMER RYZEN 5 5600G",
             image: "maquina_ryzen_5.png",
-            text: "Computador GAMER!\n\n💥 LEAGUE OF LEGENDS (100FPS+)\n🔫 GTA V (40/60FPS)\n🌎 MINECRAFT (150FPS+)\n🔫 WARZONE (40/65FPS)\n🦙 FORTNITE (60/120FPS)\n\n*Processador:* RYZEN 5 5600G\n*Memória RAM:* 16GB DDR4\n*Placa de Vídeo:* VEGA 7 (INTEGRADO)\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER 4 FANS RGB NA FRENTE\n*Fonte:* 500W\n\n*R$ 2990,00* em até 10x sem juros!",
+            text: "Computador GAMER!\n\n💥 LEAGUE OF LEGENDS (100FPS+)\n🚔 GTA RP (40/60FPS)\n🌎 MINECRAFT (150FPS+)\n🔫 WARZONE (40/65FPS)\n🦙 FORTNITE (60/120FPS)\n\n*Processador:* RYZEN 5 5600G\n*Memória RAM:* 16GB DDR4\n*Placa de Vídeo:* VEGA 7 (INTEGRADO)\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER 4 FANS RGB NA FRENTE\n*Fonte:* 500W\n\n*R$ 2990,00* em até 10x sem juros!",
         },
         {
             title: "GAMER I7 3 GERAÇÃO",
             image: "gabinete1690.png",
-            text: "Computador GAMER!\n\n💥 LEAGUE OF LEGENDS (100FPS+)\n🔫 GTA V (40/60FPS)\n🌎 MINECRAFT (150FPS+)\n🔫 WARZONE (40/65FPS)\n🦙 FORTNITE (60/120FPS)\n\n*Processador:* i7 3ª GERAÇÃO\n*Memória RAM:* 8GB DDR3\n*Placa de Vídeo:* RX 580 8GB\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER 2 FANS RGB NA FRENTE\n*Fonte:* 500W\n\n*R$ 2.690,00* em até 10x sem juros!",
+            text: "Computador GAMER!\n\n💥 LEAGUE OF LEGENDS (100FPS+)\n🚔 GTA RP (40/60FPS)\n🌎 MINECRAFT (150FPS+)\n🔫 WARZONE (40/65FPS)\n🦙 FORTNITE (60/120FPS)\n\n*Processador:* i7 3ª GERAÇÃO\n*Memória RAM:* 8GB DDR3\n*Placa de Vídeo:* RX 580 8GB\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER 2 FANS RGB NA FRENTE\n*Fonte:* 500W\n\n*R$ 2.690,00* em até 10x sem juros!",
         }
     ]
 
@@ -78,17 +79,22 @@
 
 <div class="p-8">
 
-    <div class="grid grid-cols-2 gap-4 mb-8">
+    <div class="grid grid-cols-3 gap-4 mb-8">
         <div>
             <div class="flex justify-between items-center mb-4">
                 <h1 class="text-xl font-bold">🖥️ MONITORES SEMINOVOS</h1>
-                <CopyButton on:click={() => allMonitors()} />
+                <CopyButton on:click={() => allMonitors()}>COPIAR</CopyButton>
             </div>
             <table class="border border-neutral-300 w-full">
                 {#each monitors as monitor}
-                    <tr class="border border-neutral-300">
+                    <tr class="group border border-neutral-300">
                         <th class="text-left border border-neutral-300 p-2 w-1/3 bg-neutral-100">{monitor.title}</th>
-                        <td class="p-2">{monitor.price}</td>
+                        <td class="p-2 flex justify-between items-center">
+                            <span>{monitor.price}</span>
+                            <CopyButton class="text-white bg-black rounded p-1">
+                                <IconCopy />
+                            </CopyButton>
+                        </td>
                     </tr>
                 {/each}
             </table>
@@ -97,7 +103,22 @@
         <div>
             <div class="flex justify-between items-center mb-4">
                 <h1 class="text-xl font-bold">🎮 PLACAS DE VÍDEO</h1>
-                <CopyButton on:click={() => allGPUs()}  />
+                <CopyButton on:click={() => allGPUs()}>COPIAR</CopyButton>
+            </div>
+            <table class="border border-neutral-300 w-full">
+                {#each gpus as gpu}
+                    <tr class="border border-neutral-300">
+                        <th class="text-left border border-neutral-300 p-2 w-1/3 bg-neutral-100">{gpu.title}</th>
+                        <td class="p-2">{gpu.price}</td>
+                    </tr>
+                {/each}
+            </table>
+        </div>
+
+        <div>
+            <div class="flex justify-between items-center mb-4">
+                <h1 class="text-xl font-bold">💻 NOTEBOOKS</h1>
+                <CopyButton on:click={() => allGPUs()}>COPIAR</CopyButton>
             </div>
             <table class="border border-neutral-300 w-full">
                 {#each gpus as gpu}
@@ -121,7 +142,7 @@
                     {product.text}
                 </code>
 
-                <CopyButton class="w-full" on:click={() => copyToClipboard(product)} />
+                <CopyButton class="w-full" on:click={() => copyToClipboard(product)}>COPIAR</CopyButton>
             </div>
         {/each}
     </div>
