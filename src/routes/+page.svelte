@@ -33,7 +33,7 @@
         {
             title: "PC GAMER 1990",
             image: "gabinete1690.png",
-            text: "Computador GAMER de ENTRADA!\n\n💥 LEAGUE OF LEGENDS (60FPS)\n🌎 MINECRAFT (60/70FPS)\n🟥 ROBLOX (60/70FPS)\n 🚔 GTA RP (40/80FPS)\n🔫 CSGO/VALORANT (60/90FPS)\n\n*Processador:* i5 3ª GERAÇÃO\n*Memória RAM:* 8GB DDR3\n*Placa de Vídeo:* RX 550 4GB\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER 2 FANS RGB NA FRENTE\n*Fonte:* 500W\n\n*R$ 1.990,00* em até 10x sem juros!",
+            text: "Computador GAMER de ENTRADA!\n\n💥 LEAGUE OF LEGENDS (60FPS)\n🌎 MINECRAFT (60/70FPS)\n🏎 ROCKET LEAGUE (60/70FPS)\n 🚔 GTA RP (40/80FPS)\n🔫 CSGO/VALORANT (60/90FPS)\n\n*Processador:* i5 3ª GERAÇÃO\n*Memória RAM:* 8GB DDR3\n*Placa de Vídeo:* RX 550 4GB\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER 2 FANS RGB NA FRENTE\n*Fonte:* 500W\n\n*R$ 1.990,00* em até 10x sem juros!",
         },
         {
             title: "GAMER 1690",
@@ -168,7 +168,7 @@
             <div class="space-y-4">
                 <img src={product.image} class="rounded-md w-full h-64 object-contain border border-gray-200 bg-gray-50" alt={product.title}>
                 <h1 class="font-bold text-xl truncate">{product.title}</h1>
-                <code class="block w-full h-64 overflow-y-scroll whitespace-pre-line bg-gray-100 border border-gray-300 p-2 rounded">
+                <code class="font-mono-emoji block w-full h-64 overflow-y-scroll whitespace-pre-line bg-gray-100 border border-gray-300 p-2 rounded">
                     {product.text}
                 </code>
 
