@@ -1,7 +1,7 @@
 <script lang="ts">
+  import { page } from "$app/stores";
   import CopyButton from "$lib/CopyButton.svelte";
   import IconCopy from "$lib/icons/copy.svelte";
-  
 
   const products = [
     {
