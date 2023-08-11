@@ -1,4 +1,6 @@
 <script lang="ts">
+import CopyButton from "$lib/CopyButton.svelte"
+
     const products = [
         {
             title: "(NT0022)LENOVO I7-4 8GB SSD256",
@@ -31,7 +33,13 @@
             text: "💻 NOTEBOOK DELL VOSTRO\n\n*Processador:* i7 10ª GERAÇÃO\n*Memória RAM:* 16GB\n*Armazenamento:* SSD 256GB\n\nDE ~R$ 4.590,00~ *POR APENAS R$3.990,00* em até 10x sem juros!"
         }
     ]
+
+    function copyToClipboard(product: { text: string }) {
+        navigator.clipboard.writeText(product.text)
+    }
+
 </script>
+
 
 <div class="p-8">
     <h1 class="text-xl font-bold mb-4">💻 Notebooks</h1>
@@ -44,7 +52,7 @@
                     {product.text}
                 </code>
 
-                <!-- <CopyButton class="w-full tracking-wider text-sm" on:click={() => copyToClipboard(product)}>COPIAR</CopyButton> -->
+                <CopyButton class="w-full tracking-wider text-sm" on:click={() => copyToClipboard(product)}>COPIAR</CopyButton>
             </div>
         {/each}
     </div>
