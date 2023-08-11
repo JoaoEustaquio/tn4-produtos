@@ -42,11 +42,7 @@
 </script>
 
 <div class="p-8">
-  <CopyButton class="space-x-2">
-    <IconCopy />
-    <span class="text-sm tracking-wider"> ⬅</span>
-  </CopyButton>
-  <span class="text-sm tracking-wider"> ⬅</span>
+    <a href="/"> ⬅ Home</a>
   <h1 class="text-xl font-bold mb-4">💻 Notebooks</h1>
   <div class="grid grid-cols-4 gap-8">
     {#each products as product}

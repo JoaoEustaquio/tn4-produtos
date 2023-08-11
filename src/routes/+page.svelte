@@ -2,6 +2,7 @@
     import CopyButton from "$lib/CopyButton.svelte"
     import IconCopy from "$lib/icons/copy.svelte"
     
+    
     const monitors = [
         { title: "15P", price: "R$ 259,00" },
         { title: "16P", price: "R$ 300,00" },
@@ -84,10 +85,7 @@
 <div class="p-8">
 
     <div>
-        <CopyButton on:click={() => allMonitors()} class="space-x-2">
-            <IconCopy />
-            <span class="text-sm tracking-wider">NOTEBOOKS</span>
-        </CopyButton>
+        <a href="/notebooks"> 💻 Notebooks</a>
     </div>
 
 
