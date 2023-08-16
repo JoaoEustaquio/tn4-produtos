@@ -11,7 +11,7 @@
     {
       title: "PC GAMER 1690",
       image: "gabinete1990.png",
-      text: "Computador GAMER de ENTRADA!\n\n💥 LEAGUE OF LEGENDS (60FPS)\n🌎 MINECRAFT (60/70FPS)\n🏎 ROCKET LEAGUE (60/70FPS)\n 🚔 GTA RP (40/80FPS)\n🔫 CSGO/VALORANT (60/90FPS)\n\n*Processador:* i5 3ª GERAÇÃO\n*Memória RAM:* 8GB DDR3\n*Placa de Vídeo:* GT 730 4GB\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER 2 FANS RGB NA FRENTE\n*Fonte:* 500W\n\n*R$ 1.990,00* em até 10x sem juros!",
+      text: "Computador GAMER de ENTRADA!\n\n💥 LEAGUE OF LEGENDS (60FPS)\n🌎 MINECRAFT (60/70FPS)\n🏎 ROCKET LEAGUE (40/60FPS)\n 🚔 GTA RP (40/80FPS)\n🔫 CSGO/VALORANT (60/90FPS)\n\n*Processador:* i5 3ª GERAÇÃO\n*Memória RAM:* 8GB DDR3\n*Placa de Vídeo:* GT 730 4GB\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER 2 FANS RGB NA FRENTE\n*Fonte:* 500W\n\n*R$ 1.690,00* em até 10x sem juros!",
     },
     {
       title: "PC GAMER 1990",
@@ -31,8 +31,7 @@
     {
       title: "GAMER RYZEN 5 5600G",
       image: "maquina_ryzen_5.png",
-      text: "Computador GAMER!\n\n💥 LEAGUE OF LEGENDS (100FPS+)\n🚔 GTA RP (40/80FPS)\n🌎 MINECRAFT (150FPS+)\n🔫 WARZONE (40/65FPS)\n🦙 FORTNITE (60/120FPS)\n\n*Processador:* RYZEN 5 5600G\n*Memória RAM:* 16GB DDR4\n*Placa de Vídeo:* VEGA 7 (INTEGRADO)\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER 4 FANS RGB NA FRENTE\n*Fonte:* 500W\n\nDE ~R$ 2.990,00~ POR APENAS *R$ 2.590,00* em até 10x sem juros!",
-    },
+      text: "Computador GAMER!\n\n💥 LEAGUE OF LEGENDS (100FPS+)\n🚔 GTA RP (40/80FPS)\n🌎 MINECRAFT (150FPS+)\n🔫 WARZONE (40/65FPS)\n🦙 FORTNITE (60/120FPS)\n\n*Processador:* RYZEN 5 5600G\n*Memória RAM:* 16GB DDR4\n*Placa de Vídeo:* VEGA 7 (INTEGRADO)\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER 4 FANS RGB NA FRENTE\n*Fonte:* 500W\n\nDE ~R$ 2.990,00~ POR APENAS *R$ 2.590,00* em até 10x sem juros!",    },
     {
       title: "GAMER I7 3 GERAÇÃO",
       image: "gabinete1690.png",
