@@ -2,7 +2,6 @@
     import CopyButton from "$lib/CopyButton.svelte"
     import IconCopy from "$lib/icons/copy.svelte"
     
-    
     const monitors = [
         { title: "15P", price: "R$ 259,00" },
         { title: "16P", price: "R$ 300,00" },
@@ -50,11 +49,12 @@
 </svelte:head>
 
 <div class="p-8">
-
     <div>
         <a href="/notebooks">💻 Notebooks</a>
         <span> | </span>
         <a href="/pc_gamer">🎮 PC Gamer</a>
+        <span> | </span>
+        <a href="/frete">🚚 Medidas Frete</a>
     </div>      
 
     <div class="grid grid-cols-2 gap-4 mb-8">
