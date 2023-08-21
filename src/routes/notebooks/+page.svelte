@@ -5,32 +5,37 @@
 
   const products = [
     {
-      title: "(NT0022)LENOVO I7-4 8GB SSD256",
+      title: "(NT0007)HP PROBOOK RYZEN 3 - 8GB DDR4 - NVME 256GB",
+      image: "ryzen_3_8_256.png",
+      text: "💻 NOTEBOOK HP PROBOOK\n\n*Processador:* Ryzen 3(C/Placa de Vídeo Integrada)\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* NVME 256GB\n\nPOR APENAS *R$1.790,00* em até 10x sem juros!",
+    },
+    {
+      title: "(NT0022)LENOVO I7-4 - 8GB - SSD256",
       image: "i7_4_16.png",
       text: "💻 NOTEBOOK DELL\n\n*Processador:* i7 4ª GERAÇÃO\n*Memória RAM:* 8GB\n*Armazenamento:* SSD 256GB\n\nDE ~2.990,00~ *POR APENAS R$2.590,00* em até 10x sem juros!",
     },
     {
-      title: "(NT0038)LENOVO I5-8 16GB NVME256",
+      title: "(NT0038)LENOVO I5-8 - 16GB - NVME256",
       image: "i5_8_256.png",
       text: "💻 NOTEBOOK LENOVO THINKPAD\n\n*Processador:* i5 8ª GERAÇÃO\n*Memória RAM:* 16GB\n*Armazenamento:* NVME 256GB\n\nDE ~R$3.290,00~ *POR APENAS R$2.790,00* em até 10x sem juros!",
     },
     {
-      title: "(NT0046)DELL I7-8 8GB SSD256",
+      title: "(NT0046)DELL I7-8 - 8GB - SSD256",
       image: "i7_8_256.png",
       text: "💻 NOTEBOOK DELL LATITUDE\n\n*Processador:* i7 8ª GERAÇÃO\n*Memória RAM:* 8GB\n*Armazenamento:* SSD 256GB\n\nDE ~R$3.390,00~ *POR APENAS R$2.890,00* em até 10x sem juros!",
     },
     {
-      title: "(NT0039)LENOVO I7-8 8GB NVME512",
+      title: "(NT0039)LENOVO I7-8 - 8GB - NVME - 512GB",
       image: "i7_8_512.png",
       text: "💻 NOTEBOOK LENOVO THINKPAD\n\n*Processador:* i7 8ª GERAÇÃO\n*Memória RAM:* 8GB\n*Armazenamento:* NVME 512GB\n\nDE ~R$3.690,00~ *POR APENAS R$3.190,00* em até 10x sem juros!",
     },
     {
-      title: "(NT0036)VOSTRO I5-11 8GB SSD256",
+      title: "(NT0036)VOSTRO I5-11 - 8GB - SSD256",
       image: "i5_11_8.png",
       text: "💻 NOTEBOOK DELL VOSTRO\n\n*Processador:* i5 11ª GERAÇÃO\n*Memória RAM:* 8GB\n*Armazenamento:* SSD 256GB\n\nDE ~R$3.990,00~ *POR APENAS R$3.690,00* em até 10x sem juros!",
     },
     {
-      title: "(NT0030)VOSTRO I7-10 16GB SSD256",
+      title: "(NT0030)VOSTRO I7-10 - 16GB - SSD256",
       image: "i7_10_16_256.png",
       text: "💻 NOTEBOOK DELL VOSTRO\n\n*Processador:* i7 10ª GERAÇÃO\n*Memória RAM:* 16GB\n*Armazenamento:* SSD 256GB\n\nDE ~R$ 4.590,00~ *POR APENAS R$3.990,00* em até 10x sem juros!",
     },
