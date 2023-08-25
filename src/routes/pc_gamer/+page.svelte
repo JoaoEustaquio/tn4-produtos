@@ -34,7 +34,7 @@
     {
       title: "GAMER I7 3 GERAÇÃO",
       image: "gabinete1690.png",
-      text: "💥 LEAGUE OF LEGENDS (100FPS+)\n🌎 MINECRAFT (150FPS+)\n🔫 VALORANT (50/70FPS)\n\n*Processador:* i7 3ª GERAÇÃO\n*Memória RAM:* 8GB DDR3\n*Placa de Vídeo:*GT 740 4GB\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER 2 FANS RGB NA FRENTE\n*Fonte:* 500W\n\n*R$ 1.490,00* em até 10x sem juros!",
+      text: "💥 LEAGUE OF LEGENDS (100FPS+)\n🌎 MINECRAFT (150FPS+)\n🔫 VALORANT (50/70FPS)\n\n*Processador:* i7 3ª GERAÇÃO\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER 2 FANS RGB NA FRENTE\n*Fonte:* 500W\n\n*R$ 1.490,00* em até 10x sem juros!",
     },
     {
       title: "GAMER I7 3 GERAÇÃO + GT 740",
