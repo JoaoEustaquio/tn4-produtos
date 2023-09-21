@@ -10,6 +10,11 @@
       text: "💻 NOTEBOOK HP PROBOOK\n\n*Processador:* Ryzen 3(C/Placa de Vídeo Integrada)\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* NVME 256GB\n\nPOR APENAS *R$1.790,00* em até 10x sem juros!",
     },
     {
+      title: "(NT0008)LENOVO B330 | CORE I3-7020U - 8GB DDR4 - SSD 256GB - TELA 15",
+      image: "I3_7020U.png",
+      text: "💻 LENOVO B330 \n\n*Processador:* i3-7020U (3ª Geração)\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 256GB\n\nPOR APENAS *R$2.290,00* em até 10x sem juros!",
+    },
+    {
       title: "(NT0022)LENOVO I7-4 - 8GB - SSD256",
       image: "i7_4_16.png",
       text: "💻 NOTEBOOK DELL\n\n*Processador:* i7 4ª GERAÇÃO\n*Memória RAM:* 8GB\n*Armazenamento:* SSD 256GB\n\nDE ~2.990,00~ *POR APENAS R$2.590,00* em até 10x sem juros!",
