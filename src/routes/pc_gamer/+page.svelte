@@ -5,12 +5,12 @@
     {
       title: "PC GAMER 1190",
       image: "gabinete1690.png",
-      text: "💥 LEAGUE OF LEGENDS (30/40FPS)\n🌎 MINECRAFT (30/50FPS)\n🟥 ROBLOX (30/50FPS)\n🔫 VALORANT (40/60FPS)\n\n*Processador:* I5-3470 3.20GHz\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER TGT C/DUAS FANS *CONTROLAVEL*\n*Fonte:* 500W\n\n*R$ 1.190,00* em até 10x sem juros!",
+      text: "💥 LEAGUE OF LEGENDS (30/40FPS)\n🌎 MINECRAFT (30/50FPS)\n🟥 ROBLOX (30/50FPS)\n🔫 VALORANT (40/60FPS)\n\n*Processador:* I5-3470 3.20GHz\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER TGT C/DUAS FANS\n*Fonte:* 500W\n\n*R$ 1.190,00* em até 10x sem juros!",
     },
     {
       title: "PC GAMER 1.190 (Gabinete Hayom)",
       image: "gabinete1990_v2.png",
-      text: "💥 LEAGUE OF LEGENDS (30/40FPS)\n🌎 MINECRAFT (30/50FPS)\n🟥 ROBLOX (30/50FPS)\n🔫 VALORANT (40/60FPS)\n\n*Processador:* I5-3470 3.20GHz\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER HAYOM com LED FRONTAL\n*Fonte:* 500W\n\n*R$ 1.290,00* em até 10x sem juros!",
+      text: "💥 LEAGUE OF LEGENDS (30/40FPS)\n🌎 MINECRAFT (30/50FPS)\n🟥 ROBLOX (30/50FPS)\n🔫 VALORANT (40/60FPS)\n\n*Processador:* I5-3470 3.20GHz\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER HAYOM com LED FRONTAL *CONTROLAVEL*\n*Fonte:* 500W\n\n*R$ 1.290,00* em até 10x sem juros!",
     },
     {
       title: "PC GAMER + GT 740 (1690)",
