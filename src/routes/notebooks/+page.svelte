@@ -20,9 +20,9 @@
       text: "💻 NOTEBOOK DELL\n\n*Processador:* i7 4ª GERAÇÃO\n*Memória RAM:* 8GB\n*Armazenamento:* SSD 256GB\n\nDE ~2.990,00~ *POR APENAS R$2.590,00* em até 10x sem juros!",
     },
     {
-      title: "(NT0046)DELL I7-8 - 8GB - SSD256",
+      title: "(NT0046)DELL I7-6 - 8GB - SSD256",
       image: "i7_8_256.png",
-      text: "💻 NOTEBOOK DELL LATITUDE\n\n*Processador:* i7 8ª GERAÇÃO\n*Memória RAM:* 8GB\n*Armazenamento:* SSD 256GB\n\nDE ~R$3.390,00~ *POR APENAS R$2.890,00* em até 10x sem juros!",
+      text: "💻 NOTEBOOK DELL LATITUDE\n\n*Processador:* i7 6ª GERAÇÃO\n*Memória RAM:* 8GB\n*Armazenamento:* SSD 256GB\n\nDE ~R$3.390,00~ *POR APENAS R$2.890,00* em até 10x sem juros!",
     },
     {
       title: "(NT0039)LENOVO I7-8 - 8GB - NVME - 512GB",
