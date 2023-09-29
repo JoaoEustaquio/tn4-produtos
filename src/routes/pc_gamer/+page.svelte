@@ -3,7 +3,7 @@
 
   const products = [
     {
-      title: "PC GAMER 1190",
+      title: "PC GAMER R$1.190,00",
       image: "gabinete1690.png",
       text: "💥 LEAGUE OF LEGENDS (30/40FPS)\n🌎 MINECRAFT (30/50FPS)\n🟥 ROBLOX (30/50FPS)\n🔫 VALORANT (40/60FPS)\n\n*Processador:* I5-3470 3.20GHz\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER TGT C/DUAS FANS\n*Fonte:* 500W\n\n*R$ 1.190,00* em até 10x sem juros!",
     },
@@ -13,9 +13,9 @@
       text: "💥 LEAGUE OF LEGENDS (30/40FPS)\n🌎 MINECRAFT (30/50FPS)\n🟥 ROBLOX (30/50FPS)\n🔫 VALORANT (40/60FPS)\n\n*Processador:* I5-3470 3.20GHz\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER HAYOM com LED FRONTAL *CONTROLAVEL*\n*Fonte:* 500W\n\n*R$ 1.290,00* em até 10x sem juros!",
     },
     {
-      title: "PC GAMER + GT 740 (1690)",
+      title: "PC GAMER + R5 230 4GB (1690)",
       image: "gabinete1990.png",
-      text: "💥 LEAGUE OF LEGENDS (60FPS)\n🌎 MINECRAFT (60/70FPS)\n🏎 ROCKET LEAGUE (40/60FPS)\n🔫 CSGO/VALORANT (60/90FPS)\n\n*Processador:* I5-3470 3.20GHz\n*Memória RAM:* 8GB DDR3\n*Placa de Vídeo:* GT 740 4GB\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER TGT C/DUAS FANS\n*Fonte:* 500W\n\n*R$ 1.690,00* em até 10x sem juros!",
+      text: "💥 LEAGUE OF LEGENDS (60FPS)\n🌎 MINECRAFT (60/70FPS)\n🏎 ROCKET LEAGUE (40/60FPS)\n🔫 CSGO/VALORANT (60/90FPS)\n\n*Processador:* I5-3470 3.20GHz\n*Memória RAM:* 8GB DDR3\n*Placa de Vídeo:* R5 230 4GB\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER TGT C/DUAS FANS\n*Fonte:* 500W\n\n*R$ 1.690,00* em até 10x sem juros!",
     },
     {
       title: "PC GAMER + RX 550 (1990)",
@@ -42,9 +42,9 @@
       text: "💥 LEAGUE OF LEGENDS (100FPS+)\n🌎 MINECRAFT (150FPS+)\n🔫 VALORANT (50/70FPS)\n\n*Processador:* i7 3ª GERAÇÃO\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER TGT C/DUAS FANS\n*Fonte:* 500W\n\n*R$ 1.490,00* em até 10x sem juros!",
     },
     {
-      title: "GAMER I7 3 GERAÇÃO + GT 740",
+      title: "GAMER I7 3 GERAÇÃO + R5 230 4GB",
       image: "gabinete1990.png",
-      text: "💥 LEAGUE OF LEGENDS (100FPS+)\n🚔 GTA RP (40/80FPS)\n🌎 MINECRAFT (150FPS+)\n🔫 VALORANT (60/100FPS)\n\n*Processador:* i7 3ª GERAÇÃO\n*Memória RAM:* 8GB DDR3\n*Placa de Vídeo:* GT 740 4GB\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER TGT C/DUAS FANS\n*Fonte:* 500W\n\n*R$ 1.990,00* em até 10x sem juros!",
+      text: "💥 LEAGUE OF LEGENDS (100FPS+)\n🚔 GTA RP (40/80FPS)\n🌎 MINECRAFT (150FPS+)\n🔫 VALORANT (60/100FPS)\n\n*Processador:* i7 3ª GERAÇÃO\n*Memória RAM:* 8GB DDR3\n*Placa de Vídeo:* R5 230 4GB\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER TGT C/DUAS FANS\n*Fonte:* 500W\n\n*R$ 1.990,00* em até 10x sem juros!",
     },
   ]
 
