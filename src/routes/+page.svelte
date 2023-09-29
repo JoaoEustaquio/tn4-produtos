@@ -19,8 +19,8 @@
         { title: "RX 550 4GB", price: "R$ 890,00" },
         { title: "GTX 1650 4GB VENTUS", price: "R$ 1.290,00" },
         { title: "RTX 3050 8GB VENTUS 2X", price: "R$ 2.190,00" },
-        { title: "RTX 3060 8GB PEGASUS", price: "R$ 3.090,00" }
-        { title: "RTX 4060 SPIDER-VERSE", price: "R$ 3.290,00" }
+        { title: "RTX 3060 8GB PEGASUS", price: "R$ 3.090,00" },
+        { title: "RTX 4060 SPIDER-VERSE", price: "R$ 3.290,00" },
         { title: "RTX 4060 TI", price: "R$ 3.990,00" }
     ]
 
