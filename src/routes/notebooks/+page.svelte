@@ -5,7 +5,14 @@
 
   const products = [
     {
-      title: "(NT0008)LENOVO B330 | CORE I3-7020U - 8GB DDR4 - SSD 256GB - TELA 15",
+      title:
+        "(NT0118 )LENOVO L450 | CORE I5-5300U - 8GB DDR4 - SSD 240GB - TELA 15",
+      image: "i5_5300U.png",
+      text: "💻 LENOVO L450 \n\n*Processador:* i5-5300U (5ª Geração)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 240GB\n BATERIA *NOVA*\n\nPOR APENAS *R$1.690,00* em até 10x sem juros!",
+    },
+    {
+      title:
+        "(NT0008)LENOVO B330 | CORE I3-7020U - 8GB DDR4 - SSD 256GB - TELA 15",
       image: "I3_7020U.png",
       text: "💻 LENOVO B330 \n\n*Processador:* i3-7020U (3ª Geração)\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 256GB\n\nPOR APENAS *R$2.290,00* em até 10x sem juros!",
     },
@@ -42,7 +49,7 @@
 </script>
 
 <div class="p-8">
-    <a href="/"> ⬅ Home</a>
+  <a href="/"> ⬅ Home</a>
   <h1 class="text-xl font-bold mb-4">💻 Notebooks</h1>
   <div class="grid grid-cols-4 gap-8">
     {#each products as product}
