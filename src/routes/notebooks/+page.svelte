@@ -5,11 +5,6 @@
 
   const products = [
     {
-      title: "(NT0007)HP PROBOOK RYZEN 3 - 8GB DDR4 - NVME 256GB",
-      image: "ryzen_3_8_256.png",
-      text: "💻 NOTEBOOK HP PROBOOK\n\n*Processador:* Ryzen 3(C/Placa de Vídeo Integrada)\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* NVME 256GB\n\nPOR APENAS *R$1.790,00* em até 10x sem juros!",
-    },
-    {
       title: "(NT0008)LENOVO B330 | CORE I3-7020U - 8GB DDR4 - SSD 256GB - TELA 15",
       image: "I3_7020U.png",
       text: "💻 LENOVO B330 \n\n*Processador:* i3-7020U (3ª Geração)\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 256GB\n\nPOR APENAS *R$2.290,00* em até 10x sem juros!",
