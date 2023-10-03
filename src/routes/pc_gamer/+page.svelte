@@ -13,9 +13,9 @@
       text: "💥 LEAGUE OF LEGENDS (30/40FPS)\n🌎 MINECRAFT (30/50FPS)\n🟥 ROBLOX (30/50FPS)\n🔫 VALORANT (40/60FPS)\n\n*Processador:* I5-3470 3.20GHz\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER HAYOM com LED FRONTAL *CONTROLAVEL*\n*Fonte:* 500W\n\n*R$ 1.290,00* em até 10x sem juros!",
     },
     {
-      title: "PC GAMER + R5 230 2GB (1690)",
+      title: "I5 de 3ª + 16GB + RX 550",
       image: "gabinete1990.png",
-      text: "💥 LEAGUE OF LEGENDS (60FPS)\n🌎 MINECRAFT (60/70FPS)\n🏎 ROCKET LEAGUE (40/60FPS)\n🔫 CSGO/VALORANT (60/90FPS)\n\n*Processador:* I5-3470 3.20GHz\n*Memória RAM:* 8GB DDR3\n*Placa de Vídeo:* R5 230 2GB\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER TGT C/DUAS FANS\n*Fonte:* 500W\n\n*R$ 1.690,00* em até 10x sem juros!",
+      text: "💥 LEAGUE OF LEGENDS (60FPS)\n🌎 MINECRAFT (60/150FPS)\n🌎 MINECRAFT (60/130FPS)\n🌎 MINECRAFT (60/130FPS)\n🚔 GTA RP (40/80FPS)\n🔫 CSGO/VALORANT (60/150FPS)\n\n*Processador:* I5-3470 3.20GHz\n*Memória RAM:* 2x8GB(16GB) DDR3\n*Placa de Vídeo:* RX 550 4GB\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER TGT C/DUAS FANS\n*Fonte:* 500W\n\n*R$ 1.940,00* em até 10x sem juros!",
     },
     {
       title: "PC GAMER + RX 550 (1790)",
