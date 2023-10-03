@@ -15,7 +15,7 @@
     {
       title: "I5 de 3ª + 16GB + RX 550",
       image: "gabinete1990.png",
-      text: "💥 LEAGUE OF LEGENDS (60FPS)\n🌎 MINECRAFT (60/150FPS)\n🌎 MINECRAFT (60/130FPS)\n🌎 MINECRAFT (60/130FPS)\n🚔 GTA RP (40/80FPS)\n🔫 CSGO/VALORANT (60/150FPS)\n\n*Processador:* I5-3470 3.20GHz\n*Memória RAM:* 2x8GB(16GB) DDR3\n*Placa de Vídeo:* RX 550 4GB\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER TGT C/DUAS FANS\n*Fonte:* 500W\n\n*R$ 1.940,00* em até 10x sem juros!",
+      text: "💥 LEAGUE OF LEGENDS (60FPS)\n🌎 MINECRAFT (60/150FPS)\n🟥 ROBLOX (60/120FPS)\n🚔 GTA RP (40/80FPS)\n🔫 CSGO/VALORANT (60/150FPS)\n\n*Processador:* I5-3470 3.20GHz\n*Memória RAM:* 2x8GB(16GB) DDR3\n*Placa de Vídeo:* RX 550 4GB\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER TGT C/DUAS FANS\n*Fonte:* 500W\n\n*R$ 1.940,00* em até 10x sem juros!",
     },
     {
       title: "PC GAMER + RX 550 (1790)",
