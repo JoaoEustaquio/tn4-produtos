@@ -14,7 +14,7 @@
       title:
         "(NT0008)LENOVO B330 | CORE I3-7020U - 8GB DDR4 - SSD 256GB - TELA 15",
       image: "I3_7020U.png",
-      text: "💻 LENOVO B330 \n\n*Processador:* i3-7020U (3ª Geração)\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 256GB\n\nPOR APENAS *R$2.290,00* em até 10x sem juros!",
+      text: "💻 LENOVO B330 \n\n*Processador:* i3-7020U (7ª Geração)\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 256GB\n\nPOR APENAS *R$2.290,00* em até 10x sem juros!",
     },
     {
       title: "(NT0022)LENOVO I7-4 - 8GB - SSD256",
