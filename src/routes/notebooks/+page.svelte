@@ -39,7 +39,7 @@
     {
       title: "(NT0030)VOSTRO I7-10 - 16GB - SSD256",
       image: "i7_10_16_256.png",
-      text: "💻 NOTEBOOK DELL VOSTRO\n\n*Processador:* i7 10ª GERAÇÃO\n*Memória RAM:* 16GB\n*Armazenamento:* SSD 256GB\n\nDE ~R$ 4.590,00~ *POR APENAS R$3.990,00* em até 10x sem juros!",
+      text: "💻 NOTEBOOK DELL VOSTRO\n\n*Processador:* i7 10ª GERAÇÃO\n*Memória RAM:* 16GB\n*Armazenamento:* SSD 256GB\n*Placa de Vídeo*: MX 230\n\nDE ~R$ 4.590,00~ *POR APENAS R$3.990,00* em até 10x sem juros!",
     },
   ];
 
