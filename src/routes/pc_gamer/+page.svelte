@@ -9,7 +9,7 @@
     },
     {
       title: "SETUP COMPLETO R$1.690,00",
-      image: "KIT1690.png",
+      image: "kit1690.png",
       text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n\n*Processador:* I5-3550 3.20GHz\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER TGT C/DUAS FANS\n*Fonte:* 500W\n\n +*KIT GAMER:* 🖥️ MONITOR SEMINOVO 19' POLEGADAS, ⌨️ TECLADO, 🖱️ MOUSE, MOUSEPAD 🎧 HEADSET\n\n*R$ 1.690,00* em até 10x sem juros!",
     },
     {
@@ -19,7 +19,7 @@
     },
     {
       title: "SETUP i5 3ª + RX 550 - R$2.290,00",
-      image: "KIT1690.png",
+      image: "kit1690.png",
       text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n 🚔 GTA RP\n🔫 CSGO/VALORANT\n\n*Processador:* I5-3550 3.20GHz\n*Memória RAM:* 8GB DDR3\n*Placa de Vídeo:* RX 550 4GB\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER TGT C/DUAS FANS\n*Fonte:* 500W\n\n +*KIT GAMER:* 🖥️ MONITOR SEMINOVO 19' POLEGADAS, ⌨️ TECLADO, 🖱️ MOUSE, MOUSEPAD E 🎧 HEADSET\n\n*R$ 2.290,00* em até 10x sem juros!",
     },
     {
