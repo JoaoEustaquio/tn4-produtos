@@ -3,7 +3,7 @@
 
   const products = [
     {
-      title: "(PC0002)PC GAMER R$1.190,00",
+      title: "Test(PC0002)PC GAMER R$1.190,00",
       image: "Gabinete1690.png",
       text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n\n*Processador:* I5-3550 3.20GHz\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER TGT C/DUAS FANS\n*Fonte:* 500W\n\n*R$ 1.190,00* em até 10x sem juros!",
     },
