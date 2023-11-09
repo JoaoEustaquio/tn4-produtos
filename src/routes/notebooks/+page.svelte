@@ -11,12 +11,6 @@
       text: "💻 LENOVO L450 \n\n*Processador:* i5-5300U (5ª Geração)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 240GB\n BATERIA *NOVA*\nAcompanha Fonte e Adaptador Mini DP P/ HDMI\n\nPOR APENAS *R$1.690,00* em até 10x sem juros!",
     },
     {
-      title:
-        "(NT0008)LENOVO B330 | CORE I3-7020U - 8GB DDR4 - SSD 256GB - TELA 15",
-      image: "I3_7020U.png",
-      text: "💻 LENOVO B330 \n\n*Processador:* i3-7020U (7ª Geração)\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 256GB\n\nPOR APENAS *R$2.290,00* em até 10x sem juros!",
-    },
-    {
       title: "(NT0022)LENOVO I7-4 - 8GB - SSD256",
       image: "i7_4_16.png",
       text: "💻 NOTEBOOK DELL\n\n*Processador:* i7 4ª GERAÇÃO\n*Memória RAM:* 8GB\n*Armazenamento:* SSD 256GB\n\nDE ~2.990,00~ *POR APENAS R$2.590,00* em até 10x sem juros!",
@@ -35,11 +29,6 @@
       title: "(NT0036)VOSTRO I5-11 - 8GB - SSD256",
       image: "i5_11_8.png",
       text: "💻 NOTEBOOK DELL VOSTRO\n\n*Processador:* i5 11ª GERAÇÃO\n*Memória RAM:* 8GB\n*Armazenamento:* SSD 256GB\n\nDE ~R$3.990,00~ *POR APENAS R$3.690,00* em até 10x sem juros!",
-    },
-    {
-      title: "(NT0030)VOSTRO I7-10 - 16GB - SSD256",
-      image: "i7_10_16_256.png",
-      text: "💻 NOTEBOOK DELL VOSTRO\n\n*Processador:* i7 10ª GERAÇÃO\n*Memória RAM:* 16GB\n*Armazenamento:* SSD 256GB\n*Placa de Vídeo*: MX 230\n\nDE ~R$ 4.590,00~ *POR APENAS R$3.990,00* em até 10x sem juros!",
     },
   ];
 
