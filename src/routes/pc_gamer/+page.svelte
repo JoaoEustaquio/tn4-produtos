@@ -25,7 +25,7 @@
     {
       title: "(PC0001)GAMER RYZEN 5600G",
       image: "Ryzen5600G.png",
-      text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 5600G\n*Memória RAM:* 16GB DDR4\n*Placa de Vídeo:* VEGA 7 (INTEGRADO)\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER 4 FANS RGB NA FRENTE\n*Fonte:* 500W\n\nDE ~R$ 2.990,00~ POR APENAS *R$ 2.690,00* em até 10x sem juros!"
+      text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🦙 FORTNITE\n\n*Placa Mãe:* A520\n*Processador:* RYZEN 5 5600G\n*Memória RAM:* 16GB DDR4\n*Placa de Vídeo:* VEGA 7 (INTEGRADO)\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER 4 FANS RGB NA FRENTE\n*Fonte:* 500W\n\nDE ~R$ 2.990,00~ POR APENAS *R$ 2.690,00* em até 10x sem juros!"
     },
     {
       title: "🖥🖱SETUP GAMER RYZEN 5 5600G",
@@ -61,6 +61,11 @@
       title: "RYZEN 5600G + RTX 3050",
       image: "5600G.RTX3050.png",
       text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 5600G\n*Placa Mãe:* A520\n*Memória RAM:* 16GB DDR4\n*Placa de Vídeo:* RTX 3050 8GB\n*Armazenamento:* SSD 512GB\n*Gabinete:* GAMER 4 FANS RGB NA FRENTE\n*Fonte:* 500W\n\nPOR APENAS *R$ 4.990,00* em até 10x sem juros!"
+    },
+    {
+      title: "PC GAMER AQUARIO",
+      image: "3600.RX570.png",
+      text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🦙 FORTNITE\n\n*Placa Mãe: B450 (C/4 BANCOS DE MEMORIA)\n*Processador:* RYZEN 5 3600\n*Memória RAM:* 16GB DDR4 2666Hz\n*Placa de Vídeo:* RX 580 8GB\n*Armazenamento:* SSD 512GB\n*Gabinete:* GAMER 'AQUARIO' C/6 FANS RGB\n*Fonte:* 500W\n\nPOR APENAS *R$ 4.290,00* em até 10x sem juros!"
     },
   ]
 
