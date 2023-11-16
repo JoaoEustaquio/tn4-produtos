@@ -65,7 +65,7 @@
     {
       title: "PC GAMER AQUARIO",
       image: "3600.RX570.png",
-      text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🦙 FORTNITE\n\n*Placa Mãe: B450 (C/4 BANCOS DE MEMORIA)\n*Processador:* RYZEN 5 3600\n*Memória RAM:* 16GB DDR4 2666Hz\n*Placa de Vídeo:* RX 580 8GB\n*Armazenamento:* SSD 512GB\n*Gabinete:* GAMER 'AQUARIO' C/6 FANS RGB\n*Fonte:* 500W\n\nPOR APENAS *R$ 4.290,00* em até 10x sem juros!"
+      text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🦙 FORTNITE\n\n*Placa Mãe: B450 (C/4 BANCOS DE MEMORIA)\n*Processador:* RYZEN 5 3600\n*Memória RAM:* 16GB DDR4 2666Hz\n*Placa de Vídeo:* RX 570 8GB\n*Armazenamento:* SSD 512GB\n*Gabinete:* GAMER 'AQUARIO' C/6 FANS RGB\n*Fonte:* 500W\n\nPOR APENAS *R$ 4.290,00* em até 10x sem juros!"
     },
   ]
 
