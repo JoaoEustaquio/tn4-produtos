@@ -14,7 +14,7 @@
     },
     {
       title: "i5 3ª + RX 550 - R$1.790,00",
-      image: "gabinete1990.png",
+      image: "i5-3.png",
       text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🚔 GTA RP\n🔫 CSGO/VALORANT\n\n*Processador:* I5 de 3ª Geração\n*Memória RAM:* 8GB DDR3\n*Placa de Vídeo:* RX 550 4GB\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER TGT C/DUAS FANS\n*Fonte:* 500W\n\n*R$ 1.790,00* em até 10x sem juros!",
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       title: "GAMER I7 3 GERAÇÃO",
-      image: "gabinete1990.png",
+      image: "i5-3.png",
       text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🔫 VALORANT (50/70FPS)\n\n*Processador:* i7 3ª GERAÇÃO\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n*Gabinete:* GAMER TGT C/DUAS FANS\n*Fonte:* 500W\n\n*R$ 1.490,00* em até 10x sem juros!",
     },
     {
