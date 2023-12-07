@@ -63,9 +63,14 @@
       text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 5600\n*Placa Mãe:* A520\n*Memória RAM:* 16GB DDR4\n*Placa de Vídeo:* RTX 3050 8GB\n*Armazenamento:* SSD 480GB *OU* 512GB\n*Gabinete:* GAMER C/ 3 FANS RGB FRONTAIS\n*Fonte:* 500W\n\nPOR APENAS *R$ 5.090,00* em até 10x sem juros!"
     },
     {
-      title: "PC GAMER AQUÁRIO",
+      title: "PC GAMER AQUÁRIO BRANCO",
       image: "3600.RX570.png",
       text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🦙 FORTNITE\n\n*Placa Mãe: B450 (C/4 BANCOS DE MEMORIA)\n*Processador:* RYZEN 5 4500\n*Memória RAM:* 16GB DDR4 2666Hz\n*Placa de Vídeo:* RX 570 8GB\n*Armazenamento:* SSD 480GB *OU* 512GB\n*Gabinete:* GAMER 'AQUARIO' C/6 FANS RGB\n*Fonte:* 500W\n\nPOR APENAS *R$ 4.490,00* em até 10x sem juros!"
+    },
+    {
+      title: "PC GAMER AQUÁRIO PRETO",
+      image: "4500.1650.png",
+      text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🦙 FORTNITE\n\n*Placa Mãe: B450 MX-S BIOSTAR (C/4 BANCOS DE MEMORIA)\n*Processador:* RYZEN 5 4500\n*Memória RAM:* 2X8GB(16GB) DDR4 3200MHZ FURY RGB\n*Placa de Vídeo:* GTX 1660 SUPER 6GB\n*Armazenamento:* NVME 256GB\n*Gabinete:* GAMER AQUARIO LIKETECH C/5 FANS ARGB\n*Fonte:* 500W FORTREK\n\nPOR APENAS *R$ 5.490,00* em até 10x sem juros!"
     },
   ]
 
