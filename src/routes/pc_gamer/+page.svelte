@@ -65,7 +65,7 @@
     {
       title: "PC GAMER AQUÁRIO BRANCO",
       image: "3600.RX570.png",
-      text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🦙 FORTNITE\n\n*Placa Mãe: B450 (C/4 BANCOS DE MEMORIA)\n*Processador:* RYZEN 5 4500\n*Memória RAM:* 16GB DDR4 2666Hz\n*Placa de Vídeo:* RX 570 8GB\n*Armazenamento:* SSD 480GB *OU* 512GB\n*Gabinete:* GAMER 'AQUARIO' C/6 FANS RGB\n*Fonte:* 500W\n\nPOR APENAS *R$ 4.490,00* em até 10x sem juros!"
+      text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🦙 FORTNITE\n\n*Placa Mãe: B450 (C/4 BANCOS DE MEMORIA)\n*Processador:* RYZEN 5 4500\n*Memória RAM:* 16GB DDR4 2666Hz\n*Placa de Vídeo:* GTX 1660 SUPER 6GB\n*Armazenamento:* SSD 480GB *OU* 512GB\n*Gabinete:* GAMER 'AQUARIO' C/6 FANS RGB\n*Fonte:* 500W Branca\n*Water Cooler Rise* Mode Branco 240MM *com DISPLAY de TEMPERATURA*\n\nPOR APENAS *R$ 5.790,00* em até 10x sem juros!"
     },
     {
       title: "PC GAMER AQUÁRIO PRETO",
