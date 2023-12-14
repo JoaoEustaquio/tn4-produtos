@@ -15,12 +15,13 @@
     ]
 
     const gpus = [
-        { title: "R5 230 2GB", price: "R$ 290,00" },
         { title: "RX 550 4GB", price: "R$ 790,00" },
         { title: "GTX 1650 4GB VENTUS", price: "R$ 1.290,00" },
-        { title: "RTX 3050 8GB VENTUS 2X", price: "R$ 2.190,00" },
+        { title: "RX 570 8GB", price: "R$ 1.390,00" },
+        { title: "GTX 1660 4GB VENTUS", price: "R$ 1.790,00" },
+        { title: "RTX 3050 8GB VENTUS 2X", price: "R$ 1.990,00" },
         { title: "RTX 3060 8GB PEGASUS", price: "R$ 2.390,00" },
-        { title: "RTX 4060 SPIDER-VERSE", price: "R$ 3.290,00" },
+        { title: "RTX 4060 8GB", price: "R$ 2.790,00" },
         { title: "RTX 4060 TI", price: "R$ 3.990,00" }
     ]
 
