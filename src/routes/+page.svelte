@@ -60,7 +60,7 @@
     <div class="grid grid-cols-2 gap-4 mb-8">
         <div>
             <div class="flex justify-between items-center mb-4">
-                <h1 class="text-xl font-bold">🖥️ MONITORES SEMINOVOS</h1>
+                <h1 class="text-xl font-bold">🖥️ MONITORES</h1>
                 <CopyButton on:click={() => allMonitors()} class="space-x-2">
                     <IconCopy />
                     <span class="text-sm tracking-wider">COPIAR TODOS</span>
