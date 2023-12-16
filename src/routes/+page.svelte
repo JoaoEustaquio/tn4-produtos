@@ -37,7 +37,7 @@
     }
 
     function allMonitors() {
-        var finalString = "🖥 MONITORES SEMINOVOS:\n\n"
+        var finalString = "🖥 MONITORES:\n\n"
 
         monitors.forEach((monitor, i) => { finalString += `*${monitor.title}* por *${monitor.price}*` + ((i + 1) < monitors.length ? "\n" : "") })
         navigator.clipboard.writeText(finalString)
