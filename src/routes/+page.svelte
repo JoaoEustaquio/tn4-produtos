@@ -4,13 +4,10 @@
     
     const monitors = [
         { title: "(LC0068) Monitor 17' 75Hz", price: "R$ 390,00" },
-        { title: "(LC0069) Monitor 20' 75Hz", price: "R$ 540,00" },
         { title: "(LC0071) Monitor 21,5' 75Hz", price: "R$ 650,00" },
         { title: "(LC0072) Monitor 23,6'75Hz", price: "R$ 790,00" },
-        { title: "(LC0066) Monitor 23,6'*CURVO* 75Hz", price: "R$ 990,00" },
         { title: "(LC0067) Monitor 24' 144Hz", price: "R$ 1.190,00" },
         { title: "(LC0064) Monitor 23.6' *CURVO* 180Hz", price: "R$ 1.390,00" },
-        { title: "(LC0062) Monitor 31.6' Husky *CURVO* 165Hz", price: "R$ 1.990,00" },
     ]
 
     const gpus = [
