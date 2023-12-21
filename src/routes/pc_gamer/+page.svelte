@@ -70,7 +70,7 @@
     {
       title: "PC GAMER AQUÁRIO PRETO",
       image: "4500.1650.png",
-      text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🦙 FORTNITE\n\n*Placa Mãe: B450 MX-S BIOSTAR (C/4 BANCOS DE MEMORIA)\n*Processador:* RYZEN 5 4500\n*Memória RAM:* 2X8GB(16GB) DDR4 3200MHZ FURY RGB\n*Placa de Vídeo:* GTX 1660 SUPER 6GB\n*Armazenamento:* NVME 256GB\n*Gabinete:* GAMER AQUARIO LIKETECH C/5 FANS ARGB\n*Fonte:* 500W FORTREK\n\nPOR APENAS *R$ 5.490,00* em até 10x sem juros!"
+      text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🦙 FORTNITE\n\n*Placa Mãe: B550 BIOSTAR (C/4 BANCOS DE MEMORIA)\n*Processador:* RYZEN 5 4500\n*Memória RAM:* 2X8GB(16GB) DDR4 3200MHZ FURY RGB\n*Placa de Vídeo:* GTX 1660 SUPER 6GB\n*Armazenamento:* NVME 256GB\n*Gabinete:* GAMER AQUARIO LIKETECH C/5 FANS ARGB\n*Fonte:* 500W FORTREK\n\nPOR APENAS *R$ 5.490,00* em até 10x sem juros!"
     },
   ]
 
