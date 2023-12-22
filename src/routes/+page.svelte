@@ -3,13 +3,13 @@
     import IconCopy from "$lib/icons/copy.svelte"
     
     const monitors = [
-        { title: "(LC0068) Monitor 17' 75Hz", price: "R$ 390,00" },
-        { title: "(LC0071) Monitor 21,5' 75Hz", price: "R$ 650,00" },
-        { title: "(LC0072) Monitor 23,6'75Hz", price: "R$ 790,00" },
-        { title: "(LC0067) Monitor 24' 144Hz", price: "R$ 1.190,00" },
-        { title: "(LC0064) Monitor 23.6' *CURVO* 180Hz", price: "R$ 1.390,00" },
-        { title: "(LC0063) MONITOR GAMER HUSKY 27' *CURVO* 165Hz", price: "R$ R$1.690,00" },
-        { title: "(LC0039) MONITOR GAMER DUEX 27' *CURVO* 240Hz", price: "R$ R$1.690,00" },
+        { title: "(LC0068) 17' 75Hz", price: "R$ 390,00" },
+        { title: "(LC0071) 21,5' 75Hz", price: "R$ 650,00" },
+        { title: "(LC0072) 23,6'75Hz", price: "R$ 790,00" },
+        { title: "(LC0067) 24' 144Hz", price: "R$ 1.190,00" },
+        { title: "(LC0064) 23.6' *CURVO* 180Hz", price: "R$ 1.390,00" },
+        { title: "(LC0063) GAMER HUSKY 27' *CURVO* 165Hz", price: "R$ R$1.690,00" },
+        { title: "(LC0039) GAMER DUEX 27' *CURVO* 240Hz", price: "R$ R$1.790,00" },
     ]
 
     const gpus = [
@@ -71,7 +71,7 @@
                         <th class="text-left border border-neutral-300 p-2 bg-neutral-100">{monitor.title}</th>
                         <td class="p-2 flex justify-between items-center">
                             <span>{monitor.price}</span>
-                            <CopyButton on:click={() => navigator.clipboard.writeText(`🖥 *MONITOR SEMINOVO ${monitor.title}* por *${monitor.price}*`)} class="text-white bg-black rounded-sm p-1">
+                            <CopyButton on:click={() => navigator.clipboard.writeText(`🖥 *MONITOR ${monitor.title}* por *${monitor.price}*`)} class="text-white bg-black rounded-sm p-1">
                                 <IconCopy />
                             </CopyButton>
                         </td>
