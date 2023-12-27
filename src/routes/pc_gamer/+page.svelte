@@ -63,6 +63,11 @@
       text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 5600\n*Placa Mãe:* A520\n*Memória RAM:* 16GB DDR4\n*Placa de Vídeo:* RTX 3050 8GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER C/ 3 FANS RGB FRONTAIS\n*Fonte:* 500W\n\nPOR APENAS *R$ 5.090,00* em até 10x sem juros!"
     },
     {
+      title: "RYZEN 9 3900 + RTX 3050",
+      image: "Ryzen9.3050.png",
+      text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🦙 FORTNITE\n\n*Processador:* RYZEN 9 3900\n*Placa Mãe:* B550\n*Memória RAM:* 16GB DDR4 FURY RGB\n*Placa de Vídeo:* RTX 3050 8GB\n*Armazenamento:* NVME 500GB\n*Gabinete:* GAMER C/ 3 FANS RGB FRONTAIS\n*Fonte:* 700W 80 PLUS\n\nPOR APENAS *R$ 6.990,00* em até 10x sem juros!"
+    },
+    {
       title: "PC GAMER AQUÁRIO PRETO",
       image: "4500.1650.png",
       text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🦙 FORTNITE\n\n*Placa Mãe: B450 BIOSTAR\n*Processador:* RYZEN 5 4500\n*Memória RAM:* 2X8GB(16GB) DDR4 3200MHZ FURY RGB\n*Placa de Vídeo:* GTX 1660 SUPER 6GB\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER AQUARIO LIKETECH C/5 FANS ARGB\n*Fonte:* 500W FORTREK\n\nPOR APENAS *R$ 5.490,00* em até 10x sem juros!"
