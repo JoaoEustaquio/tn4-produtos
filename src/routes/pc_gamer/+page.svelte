@@ -70,7 +70,7 @@
     {
       title: "(PC0006) RYZEN 9 3900 + RTX 3050",
       image: "Ryzen9.3050.png",
-      text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🦙 FORTNITE\n\n*Processador:* RYZEN 9 3900\n*Placa Mãe:* B550\n*Memória RAM:* 16GB DDR4 FURY RGB\n*Placa de Vídeo:* RTX 3050 8GB\n*Armazenamento:* NVME 500GB\n*Gabinete:* GAMER C/ 3 FANS RGB FRONTAIS\n*Fonte:* 700W 80 PLUS\n\nPOR APENAS *R$ 6.990,00* em até 10x sem juros!"
+      text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🦙 FORTNITE\n\n*Processador:* RYZEN 9 3900\n*Placa Mãe:* B550\n*Memória RAM:* 16GB DDR4\n*Placa de Vídeo:* RTX 3050 8GB\n*Armazenamento:* NVME 500GB\n*Gabinete:* GAMER C/ 3 FANS RGB FRONTAIS\n*Fonte:* 700W 80 PLUS\n\nPOR APENAS *R$ 6.990,00* em até 10x sem juros!"
     },
   ]
 
