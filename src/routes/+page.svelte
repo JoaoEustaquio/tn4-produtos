@@ -10,6 +10,7 @@
         { title: "(LC0067) 24' 144Hz", price: "R$ 1.190,00" },
         { title: "(LC0064) 23.6' *CURVO* 180Hz", price: "R$ 1.390,00" },
         { title: "(LC0074) GAMER Bluecase 27' *CURVO* 165Hz", price: "R$ 1.590,00" },
+        { title: "(LC0040) GAMER Bluecase 27' HIPERVIEW BRANCO *CURVO* 165Hz", price: "R$ R$1.690,00" },
         { title: "(LC0063) GAMER HUSKY 27' *CURVO* 165Hz", price: "R$ R$1.690,00" },
         { title: "(LC0039) GAMER DUEX 27' *CURVO* 240Hz", price: "R$ R$1.790,00" },
         { title: "(LC0051M) GAMER MANCER VALAK 31.5' *CURVO* 165Hz", price: "R$ R$2.190,00" },
