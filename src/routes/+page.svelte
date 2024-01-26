@@ -20,8 +20,8 @@
         { title: "GTX 1650 4GB VENTUS", price: "R$ 1.290,00" },
         { title: "RX 570 8GB", price: "R$ 1.390,00" },
         { title: "RX 580 8GB", price: "R$ 1.590,00" },
-        { title: "GTX 1660 6GB VENTUS", price: "R$ 1.790,00" },
-        { title: "RTX 3050 8GB VENTUS 2X", price: "R$ 1.990,00" },
+        { title: "GTX 1660 6GB", price: "R$ 1.790,00" },
+        { title: "RTX 3050 8GB", price: "R$ 1.990,00" },
         { title: "RTX 3060 8GB PEGASUS", price: "R$ 2.390,00" },
         { title: "RTX 4060 8GB", price: "R$ 2.790,00" },
         { title: "RTX 4060 TI", price: "R$ 3.990,00" }
