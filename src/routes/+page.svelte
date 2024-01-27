@@ -55,7 +55,9 @@
     <div>
         <a href="/notebooks">💻 Notebooks</a>
         <span> | </span>
-        <a href="/pc_gamer">🎮 PC Gamer</a>
+        <a href="/amd">🔴AMD🔴</a>
+        <span> | </span>
+        <a href="/intel">🔹Intel🔹</a>
         <span> | </span>
         <a href="/frete">🚚 Medidas Frete</a>
     </div>      
