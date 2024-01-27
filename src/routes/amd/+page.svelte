@@ -19,7 +19,7 @@
     },
     {
       title: "SETUP COMPLETO Ryzen Athlon 3000G",
-      image: "KitAthlon + RX550.png",
+      image: "KitAthlon+RX550.png",
       text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n 🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n\n*Processador:* ATHLON 3000G\n*Memória RAM:* 8GB DDR4 2666Htz\n*Placa de Vídeo:* RX 550 4GB\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER HAYOM C/ LED RGB\n*Fonte:* 500W\n\n +*KIT GAMER:* 🖥️ MONITOR 17' POLEGADAS *NOVO*, ⌨️ TECLADO, 🖱️ MOUSE, MOUSEPAD E 🎧 HEADSET\n\n*R$ 2.690,00* em até 10x sem juros!",
     },
     {
