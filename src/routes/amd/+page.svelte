@@ -56,8 +56,6 @@
 
 <div class="p-8">
   <a href="/"> ⬅ Home</a>
-  <span> | </span>
-  <a href="/setupA">Setup Completo</a>
   <h1 class="text-xl font-bold mb-4">⚙️ MÁQUINAS PRONTAS (PC)</h1>
   <div class="grid grid-cols-4 gap-8">
     {#each products as product}
