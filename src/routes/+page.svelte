@@ -4,9 +4,10 @@
     
     const monitors = [
         { title: "(LC0068) 17' 75Hz", price: "R$ 390,00" },
+        { title: "(LC0042) 19' 75Hz Bluecae", price: "R$ 490,00" },
         { title: "(LC0071) 21,5' 75Hz", price: "R$ 650,00" },
         { title: "(LC0072) 23,5' 75Hz", price: "R$ 790,00" },
-        { title: "(LC0049) 24' 75Hz HQ", price: "R$ 949,99" },
+        { title: "(LC0049) 24' 75Hz HQ", price: "R$ 790,00" },
         { title: "(LC0041) 23,8' 100Hz", price: "R$ 990,00" },
         { title: "(LC0067) 24' 144Hz", price: "R$ 1.190,00" },
         { title: "(LC0064) 23.6' *CURVO* 180Hz", price: "R$ 1.390,00" },
