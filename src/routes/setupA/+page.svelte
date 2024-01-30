@@ -1,0 +1,49 @@
+<script lang="ts">
+  import CopyButton from "$lib/CopyButton.svelte"
+
+  const products = [
+    {
+      title: "SETUP COMPLETO Ryzen Athlon 3000G",
+      image: "KitAthlon+RX550.png",
+      text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n 🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n\n*Placa Mãe:* A520\n*Processador:* ATHLON 3000G\n*Memória RAM:* 8GB DDR4 2666Htz\n*Placa de Vídeo:* RX 550 4GB\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER HAYOM C/ LED RGB\n*Fonte:* 500W\n\n +*KIT GAMER:* 🖥️ MONITOR 17' POLEGADAS *NOVO*, ⌨️ TECLADO, 🖱️ MOUSE, MOUSEPAD E 🎧 HEADSET\n\n*R$ 2.690,00* em até 10x sem juros!",
+    },
+    {
+      title: "(PC0014)🖥🖱SETUP GAMER RYZEN 5 5600G",
+      image: "SetupRyzen5600.png",
+      text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE(GRÁFICOS Médios/Baixos)\n🦙 FORTNITE\n\n*Placa Mãe:* A520\n*Processador:* RYZEN 5 5600G\n*Memória RAM:* 2x8GB(16GB) DDR4\n*Placa de Vídeo:* VEGA 7 (INTEGRADO)\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER C/ 3 FANS RGB RGB FRONTAIS\n*Fonte:* 500W\n+ Monitor de 17'' POL. 75Htz\n+ Kit Gamer(Teclado, Mouse, Mousepad e Headset)\n\nPOR APENAS *R$ 3.290,00* em até 10x sem juros!"
+    },
+  ]
+
+  function copyToClipboard(product: { text: string }) {
+    navigator.clipboard.writeText(product.text)
+  }
+</script>
+
+<div class="p-8">
+  <a href="/"> ⬅ Home</a>
+  <span> | </span>
+  <a href="/amd">PC</a>
+  <h1 class="text-xl font-bold mb-4">⚙️ MÁQUINAS PRONTAS (SETUP)</h1>
+  <div class="grid grid-cols-4 gap-8">
+    {#each products as product}
+      <div class="space-y-4">
+        <img
+          src={product.image}
+          class="rounded-md w-full h-64 object-contain border border-gray-200 bg-gray-50"
+          alt={product.title}
+        />
+        <h1 class="font-bold text-xl truncate">{product.title}</h1>
+        <code
+          class="font-mono-emoji block w-full h-64 overflow-y-scroll whitespace-pre-line bg-gray-100 border border-gray-300 p-2 rounded"
+        >
+          {product.text}
+        </code>
+
+        <CopyButton
+          class="w-full tracking-wider text-sm"
+          on:click={() => copyToClipboard(product)}>COPIAR</CopyButton
+        >
+      </div>
+    {/each}
+  </div>
+</div>
