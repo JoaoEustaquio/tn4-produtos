@@ -11,11 +11,6 @@
       text: "💻 LENOVO L450 \n\n*Processador:* i5-5300U (5ª Geração)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 240GB\n BATERIA *NOVA*\nAcompanha Fonte e Adaptador Mini DP P/ HDMI\n\nPOR APENAS *R$1.690,00* em até 10x sem juros!",
     },
     {
-      title: "(NT0009)Dell Inspiron 15 - 8GB - SSD 256GB",
-      image: "Inspiron15.png",
-      text: "💻 NOTEBOOK DELL INSPIRON 15\n\n*Processador:* Intel I5-7200U (7ª Geração)\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 256GB\n\n*POR APENAS R$2.490,00* em até 10x sem juros!",
-    },
-    {
       title: "(NT0022)LENOVO I7-4 - 8GB - SSD256",
       image: "i7_4_16.png",
       text: "💻 NOTEBOOK DELL\n\n*Processador:* i7 4ª GERAÇÃO\n*Memória RAM:* 8GB\n*Armazenamento:* SSD 256GB\n\nDE ~2.990,00~ *POR APENAS R$2.590,00* em até 10x sem juros!",
