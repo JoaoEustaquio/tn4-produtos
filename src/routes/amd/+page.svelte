@@ -7,11 +7,7 @@
       image: "Athlon3000G.png",
       text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 CSGO 2\n\n*Placa Mãe:* A520\n*Processador:* Athlon 3000G\n*Placa de Vídeo* VEGA 3 (INTEGRADA)\n*Memória RAM:* 2x8GB(16GB) DDR4\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER HAYOM C/ LED RGB\n*Fonte:* 500W\n\n*R$ 1.890,00* em até 10x sem juros!",
     },
-    {
-      title: "Ryzen 5 4500 + RX 580",
-      image: "R4500+RX580.png",
-      text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 CSGO 2\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Placa Mãe:* A320\n*Processador:* Ryzen 5 4500\n*Placa de Vídeo* RX 580 8GB\n*Memória RAM:* 2x8GB(16GB) DDR4\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER Bluecase SKYGATE C/3FANS *CONTROLÁVEIS*\n*Fonte:* 500W\n\n*R$ 1.890,00* em até 10x sem juros!",
-    },
+
     {
       title: "(PC0017) PC GAMER RYZEN 4600G",
       image: "Ryzen4600G.png",
@@ -26,6 +22,11 @@
       title: "RYZEN 4500 + GTX 1650",
       image: "4500+1650.png",
       text: "💥 LEAGUE OF LEGENDS\sssn🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 4500\n*Placa Mãe:* A320\n*Memória RAM:* 2x8GB DDR4\n*Placa de Vídeo:* GTX 1650 4GB\n*Armazenamento:* SSD 512GB\n*Gabinete:* GAMER HAYOM C/3 FANS RGB\n*Fonte:* 500W\n\nPOR APENAS *R$ 3.590,00* em até 10x sem juros!",
+    },
+    {
+      title: "Ryzen 5 4500 + RX 580",
+      image: "R4500+RX580.png",
+      text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 CSGO 2\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Placa Mãe:* A320\n*Processador:* Ryzen 5 4500\n*Placa de Vídeo* RX 580 8GB\n*Memória RAM:* 2x8GB(16GB) DDR4\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER Bluecase SKYGATE C/3FANS *CONTROLÁVEIS*\n*Fonte:* 500W\n\n*R$ 4.190,00* em até 10x sem juros!",
     },
     {
       title: "RYZEN 4500 + 16GB 2666 + GTX 1650S",
