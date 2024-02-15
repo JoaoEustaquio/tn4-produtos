@@ -51,7 +51,7 @@
     {
       title: "Ryzen 5 4500 + RX 580",
       image: "4500.RX580v2.png",
-      text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 CSGO 2\n🔫 WARZONE\n🦙 FORTNITE\n\n*Placa Mãe:* B550 Duex Branca\n*Processador:* Ryzen 5 4500 C/Air Cooler RGB *CONTROLÁVEL*\n*Placa de Vídeo* RX 580 8GB\n*Memória RAM:* 2x16GB(32GB) REDRAGON SOLAR RGB DDR4\n*Armazenamento:* SSD 512GB\n*Gabinete:* GAMER AERO ONE BRANCO C/3FANS \n*Fonte:* 500W\n\n*R$ 5.390,00* em até 10x sem juros!",
+      text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 CSGO 2\n🔫 WARZONE\n🦙 FORTNITE\n\n*Placa Mãe:* B550 Duex Branca\n*Processador:* Ryzen 5 4500 C/Air Cooler RGB *CONTROLÁVEL*\n*Placa de Vídeo* RX 580 8GB\n*Memória RAM:* 2x8GB(16GB) REDRAGON SOLAR RGB DDR4\n*Armazenamento:* SSD 512GB\n*Gabinete:* GAMER AERO ONE BRANCO C/3FANS \n*Fonte:* 500W\n\n*R$ 5.390,00* em até 10x sem juros!",
     },
   ];
 
