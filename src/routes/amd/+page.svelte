@@ -53,11 +53,6 @@
       image: "4500.RX580v2.png",
       text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 CSGO 2\n🔫 WARZONE\n🦙 FORTNITE\n\n*Placa Mãe:* B550 Duex Branca\n*Processador:* Ryzen 5 4500 C/Air Cooler RGB *CONTROLÁVEL*\n*Placa de Vídeo* RX 580 8GB\n*Memória RAM:* 2x16GB(32GB) REDRAGON SOLAR RGB DDR4\n*Armazenamento:* SSD 512GB\n*Gabinete:* GAMER AERO ONE BRANCO C/3FANS \n*Fonte:* 500W\n\n*R$ 5.390,00* em até 10x sem juros!",
     },
-    {
-      title: "(PC0006) RYZEN 5 5600 + RTX 4060",
-      image: "Ryzen5.3050.png",
-      text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 5600\n*Placa Mãe:* B550\n*Memória RAM:* 2x8GB (16GB) DDR4\n*Placa de Vídeo:* RTX 4060 8GB\n*Armazenamento:* NVME 500GB\n*Gabinete:* GAMER C/ 3 FANS RGB FRONTAIS\n*Fonte:* 700W 80 PLUS\n\nPOR APENAS *R$ 6.690,00* em até 10x sem juros!",
-    },
   ];
 
   function copyToClipboard(product: { text: string }) {
