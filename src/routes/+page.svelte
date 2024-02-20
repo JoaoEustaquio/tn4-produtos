@@ -23,6 +23,7 @@
         { title: "RX 580 8GB", price: "R$ 1.590,00" },
         { title: "RTX 3050 8GB", price: "R$ 1.990,00" },
         { title: "RTX 3060 8GB PEGASUS", price: "R$ 2.390,00" },
+        { title: "RTX 3060 8GB ZOTAC", price: "R$ 2.490,00" },
         { title: "RTX 4060 8GB", price: "R$ 2.790,00" },
         { title: "RTX 4060 TI", price: "R$ 3.990,00" },
         { title: "RTX 4070 MSI WHITE", price: "R$ 5.290,00" },
