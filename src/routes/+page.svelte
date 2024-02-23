@@ -4,9 +4,7 @@
     
     const monitors = [
         { title: "(LC0042) 19' 75Hz Bluecase", price: "R$ 490,00" },
-        { title: "(LC0071) 21,5' 75Hz", price: "R$ 650,00" },
         { title: "(LC0072) 23,5' 75Hz", price: "R$ 790,00" },
-        { title: "(LC0049) 24' 75Hz HQ", price: "R$ 790,00" },
         { title: "(LC0041) 23,8' 100Hz", price: "R$ 990,00" },
         { title: "(LC0067) 24' 144Hz", price: "R$ 1.190,00" },
         { title: "(LC0073) 23.8' *CURVO* 180Hz BRANCO", price: "R$ 1.490,00" },
@@ -23,7 +21,7 @@
         { title: "RX 580 8GB", price: "R$ 1.590,00" },
         { title: "RTX 3050 6GB", price: "R$ 1.990,00" },
         { title: "RTX 3060 8GB PEGASUS", price: "R$ 2.390,00" },
-        { title: "RTX 3060 8GB ZOTAC", price: "R$ 2.490,00" },
+        { title: "RTX 3060 12GB ZOTAC", price: "R$ 2.490,00" },
         { title: "RTX 4060 8GB", price: "R$ 2.790,00" },
         { title: "RTX 4060 TI", price: "R$ 3.990,00" },
         { title: "RTX 4070 MSI WHITE", price: "R$ 5.290,00" },
