@@ -4,7 +4,6 @@
     
     const monitors = [
         { title: "(LC0042) 19' 75Hz Bluecase", price: "R$ 490,00" },
-        { title: "(LC0072) 23,5' 75Hz", price: "R$ 790,00" },
         { title: "(LC0041) 23,8' 100Hz", price: "R$ 990,00" },
         { title: "(LC0067) 24' 144Hz", price: "R$ 1.190,00" },
         { title: "(LC0073) 23.8' *CURVO* 180Hz BRANCO", price: "R$ 1.490,00" },
