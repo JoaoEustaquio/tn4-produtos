@@ -44,7 +44,7 @@
     },
     {
       title: "RYZEN 5600 + RTX 3050",
-      image: ".png",
+      image: "4500+RX580.png",
       text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 4500\n*Placa Mãe:* B550 DUEX\n*Memória RAM:* 2X8GB DDR4 RISE MODE 320Mhz\n*Water Cooler* Rise Mode Aura ICE RGB C/ VISOR LCD PERSONALIZAVEL*\n*Placa de Vídeo:* RX 580 8GB\n*Armazenamento:* SSD 512GB\n*Gabinete:* GAMER Fortrek Cruiser C/ 3 FANS Controláveis + Fita LED RGB\n*Fonte:* 500W *BRANCA*\n\nPOR APENAS *R$ 5.990,00* em até 10x sem juros!",
     },
   ];
