@@ -23,11 +23,6 @@
       text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 4500\n*Placa Mãe:* A320\n*Memória RAM:* 2x8GB DDR4\n*Placa de Vídeo:* GTX 1650 4GB\n*Armazenamento:* SSD 512GB\n*Gabinete:* GAMER ERASER\n*Fonte:* 500W\n\nPOR APENAS *R$ 3.590,00* em até 10x sem juros!",
     },
     {
-      title: "Ryzen 5 4500 + RX 580",
-      image: "R4500+RX580.png",
-      text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 CSGO 2\n🔫 WARZONE\n🦙 FORTNITE\n\n*Placa Mãe:* A320\n*Processador:* Ryzen 5 4500\n*Placa de Vídeo* RX 580 8GB\n*Memória RAM:* 2x8GB(16GB) DDR4\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER Bluecase SKYGATE C/3FANS *CONTROLÁVEIS*\n*Fonte:* 500W\n\n*R$ 4.190,00* em até 10x sem juros!",
-    },
-    {
       title: "RYZEN 4500 + 16GB 2666 + RX 580 ASROCK",
       image: "3600.GTX1660S.png",
       text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* RYZEN 5 4500\n*Placa Mãe:* A520\n*Memória RAM:* 16GB DDR4 2666Hz\n*Placa de Vídeo:* RX 580 8GB ASROCK\n*Armazenamento:* SSD 512GB\n*Gabinete:* GAMER C/ 3 FANS RGB FRONTAIS\n*Fonte:* 500W\n\nPOR APENAS *R$ 4.190,00* em até 10x sem juros!",
@@ -46,11 +41,6 @@
       title: "RYZEN 5600 + RTX 3050",
       image: "5600G.RTX3050.png",
       text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 5600\n*Placa Mãe:* A520\n*Memória RAM:* 16GB DDR4\n*Placa de Vídeo:* RTX 3050 8GB\n*Armazenamento:* SSD 512GB\n*Gabinete:* GAMER C/ 3 FANS RGB FRONTAIS\n*Fonte:* 500W\n\nPOR APENAS *R$ 5.090,00* em até 10x sem juros!",
-    },
-    {
-      title: "Ryzen 5 4500 + RX 580",
-      image: "4500.RX580v2.png",
-      text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 CSGO 2\n🔫 WARZONE\n🦙 FORTNITE\n\n*Placa Mãe:* B550 Duex Branca\n*Processador:* Ryzen 5 4500 C/Air Cooler RGB *CONTROLÁVEL*\n*Placa de Vídeo* RX 580 8GB\n*Memória RAM:* 2x8GB(16GB) REDRAGON SOLAR RGB DDR4\n*Armazenamento:* SSD 512GB\n*Gabinete:* GAMER AERO ONE BRANCO C/3FANS \n*Fonte:* 500W\n\n*R$ 5.390,00* em até 10x sem juros!",
     },
   ];
 
