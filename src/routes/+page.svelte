@@ -4,13 +4,14 @@
     
     const monitors = [
         { title: "(LC0042) 19' 75Hz Bluecase", price: "R$ 490,00" },
+        { title: "(LC0071) 21.5' 75Hz Bluecase", price: "R$ 650,00" },
+        { title: "(LC0072) 23.6' 75Hz Bluecase", price: "R$ 790,00" },
         { title: "(LC0041) 23,8' 100Hz", price: "R$ 990,00" },
         { title: "(LC0067) 24' 144Hz", price: "R$ 1.190,00" },
         { title: "(LC0073) 23.8' *CURVO* 180Hz BRANCO", price: "R$ 1.490,00" },
         { title: "(LC0074) GAMER Bluecase 27' *CURVO* 165Hz", price: "R$ 1.590,00" },
         { title: "(LC0040) GAMER Bluecase 27' HIPERVIEW BRANCO *CURVO* 165Hz", price: "R$ R$1.690,00" },
         { title: "(LC0039) GAMER DUEX 27' *CURVO* 240Hz", price: "R$ R$1.790,00" },
-        { title: "(LC0059) GAMER SUPERFRAME ELEGANCE SERIES WHITE 30' *CURVO, ULTRAWIDE*", price: "R$ R$2.290,00" },
     ]
 
     const gpus = [
