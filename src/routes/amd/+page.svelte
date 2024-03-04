@@ -20,7 +20,7 @@
     {
       title: "Nº4 - (PC0025) RYZEN 4500 + GTX 1650",
       image: "4500+1650.png",
-      text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 4500\n*Placa Mãe:* A320\n*Memória RAM:* 2x8GB DDR4\n*Placa de Vídeo:* GTX 1650 4GB\n*Armazenamento:* SSD 512GB\n*Gabinete:* GAMER ERASER\n*Fonte:* 500W\n\nPOR APENAS *R$ 3.590,00* em até 10x sem juros!",
+      text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 4500\n*Placa Mãe:* A520\n*Memória RAM:* 2x8GB DDR4\n*Placa de Vídeo:* GTX 1650 4GB\n*Armazenamento:* SSD 512GB\n*Gabinete:* GAMER ERASER\n*Fonte:* 500W\n\nPOR APENAS *R$ 3.590,00* em até 10x sem juros!",
     },
     {
       title: "Nº5 - RYZEN 4500 + 16GB 2666 + RX 580 ASROCK",
