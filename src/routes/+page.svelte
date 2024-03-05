@@ -3,7 +3,7 @@
     import IconCopy from "$lib/icons/copy.svelte"
     
     const monitors = [
-        { title: "(LC0009) 17' 75Hz 3GREEN", price: "R$ 450,00" },
+        { title: "(LC0009) 17' 75Hz 3GREEN", price: "R$ 390,00" },
         { title: "(LC0042) 19' 75Hz Bluecase", price: "R$ 490,00" },
         { title: "(LC0071) 21.5' 75Hz Bluecase", price: "R$ 650,00" },
         { title: "(LC0072) 23.6' 75Hz Bluecase", price: "R$ 790,00" },
