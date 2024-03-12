@@ -26,6 +26,11 @@
       text: "💻 NOTEBOOK LENOVO THINKPAD\n\n*Processador:* i7 8ª GERAÇÃO\n*Memória RAM:* 8GB\n*Armazenamento:* NVME 512GB\n\nDE ~R$3.690,00~ *POR APENAS R$3.190,00* em até 10x sem juros!",
     },
     {
+      title: "(NT0039) NOTEBOOK HP ZBOOK - XEON E-2176",
+      image: "HPZBOOK.png",
+      text: "💻 NOTEBOOK HP ZBOOK\n\n*Processador:* XEON E-2176\n*Memória RAM:* 16GB (DDR4)\n*Armazenamento:*SSD 256GB\n*Placa de Vídeo:* NVIDIA QUADRO P600 \n\nDE ~R$5.490,00~ *POR APENAS R$4.990,00* em até 10x sem juros!",
+    },
+    {
       title: "(NT0040)ACER NITRO RYZEN 5 - 8GB DDR5 - NVME 512GB - RTX 3050",
       image: "AcerNitro.png",
       text: "💻 Notebook Gamer Acer Nitro 5 (Novo na caixa)\n\n*Processador:* AMD Ryzen 5 7535HS 6 núcleos (12 threads)\n*Memória RAM:* 8GB DDR5 - Expansível até 32GB DDR5 de até 4800 MHz\n*Armazenamento:* NVME 512GB PCIe 4.0 x4 M.2 2280\n*Placa de Vídeo:*NVIDIA® GeForce® RTX 3050 com 4 GB de memória dedicada GDDR6 (TGP de 60W)\n🔈2x alto-falantes estéreo - DTS® X:Ultra Áudio e Acer TrueHarmony™\n⌨️ Teclado retro iluminado na cor vermelha\n\n*POR APENAS R$7.490,00* em até 10x sem juros!",
