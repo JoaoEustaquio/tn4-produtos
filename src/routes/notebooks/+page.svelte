@@ -5,12 +5,6 @@
 
   const products = [
     {
-      title:
-        "(NT0055)LENOVO L450 | CORE I5-5300U - 8GB DDR4 - SSD 240GB - TELA 15",
-      image: "i5_5300U.png",
-      text: "💻 LENOVO L450 \n\n*Processador:* i5-5300U (5ª Geração)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 240GB\n BATERIA *NOVA*\nAcompanha Fonte e Adaptador Mini DP P/ HDMI\n\nPOR APENAS *R$1.690,00* em até 10x sem juros!",
-    },
-    {
       title: "(NT0022)LENOVO I7-4 - 8GB - SSD256",
       image: "i7_4_16.png",
       text: "💻 NOTEBOOK DELL\n\n*Processador:* i7 4ª GERAÇÃO\n*Memória RAM:* 8GB\n*Armazenamento:* SSD 256GB\n\nDE ~2.990,00~ *POR APENAS R$2.590,00* em até 10x sem juros!",
