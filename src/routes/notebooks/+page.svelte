@@ -5,9 +5,9 @@
 
   const products = [
     {
-      title: "(NT0062)POSITIVO MASTER N190I- I3 DE 3ª, 8GB, SSD256, *BATERIA NOVA*",
+      title: "(NT0062)POSITIVO MASTER N190I- I3 DE 3ª, 8GB, SSD120, *BATERIA NOVA*",
       image: "POSITIVO-I33110M.png",
-      text: "💻 NOTEBOOK POSITIVO MASTER N190I\n\n*Processador:* i3-3110M (3ª GERAÇÃO)\n*Memória RAM:* 8GB\n*Armazenamento:* SSD 240GB\n*ACOMPANHA FONTE*\n*BATERIA NOVA*\n\n*POR APENAS R$1.190,00* em até 10x sem juros!",
+      text: "💻 NOTEBOOK POSITIVO MASTER N190I\n\n*Processador:* i3-3110M (3ª GERAÇÃO)\n*Memória RAM:* 8GB\n*Armazenamento:* SSD 120GB\n*ACOMPANHA FONTE*\n*BATERIA NOVA*\n\n*POR APENAS R$1.190,00* em até 10x sem juros!",
     },
     {
       title: "(NT0063)LENOVO B40-70 - I3 DE 4ª, 8GB, SSD256",
