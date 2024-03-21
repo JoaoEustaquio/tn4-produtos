@@ -4,31 +4,92 @@
   import IconCopy from "$lib/icons/copy.svelte";
 
   const products = [
+    // R$0.0000,00
+    // {
+    //   title: "(CODE)NOTEBOOK ",
+    //   image: ".png",
+    //   text: "💻 NOTEBOOK ...\n\n*Processador:* \n*Memória RAM:* \n*Armazenamento:*\n(Acompanha Fonte)\n\n*POR APENAS R$0.000,00* em até 10x sem juros!",
+    // },
+
+    // R$1.190,00
     {
-      title: "(NT0062)POSITIVO MASTER N190I- I3 DE 3ª, 8GB, SSD120, *BATERIA NOVA*",
+      title: "(NT0062)POSITIVO MASTER N190I",
       image: "POSITIVO-I33110M.png",
       text: "💻 NOTEBOOK POSITIVO MASTER N190I\n\n*Processador:* i3-3110M (3ª GERAÇÃO)\n*Memória RAM:* 8GB\n*Armazenamento:* SSD 120GB\n*ACOMPANHA FONTE*\n*BATERIA NOVA*\n\n*POR APENAS R$1.190,00* em até 10x sem juros!",
     },
+
+    // R$1.290,00
     {
-      title: "(NT0063)LENOVO B40-70 - I3 DE 4ª, 8GB, SSD256",
+      title: "(NT0063)LENOVO B40-70",
       image: "LENOVO-I34005U.png",
       text: "💻 NOTEBOOK LENOVO B40-70\n\n*Processador:* i3-4005U (4ª GERAÇÃO)\n*Memória RAM:* 8GB\n*Armazenamento:* SSD 240GB\n*ACOMPANHA FONTE*\n\n*POR APENAS R$1.290,00* em até 10x sem juros!",
     },
+
+    // R$1.490,00
     {
-      title: "(NT0022)LENOVO I7-4 - 8GB - SSD256",
+      title: "(NT0066)NOTEBOOK LENOVO IDEAPAD B320-14IKB",
+      image: "IDEAPAD-B320_I3-6.png",
+      text: "💻 NOTEBOOK LENOVO IDEAPAD B320-14IKB\n\n*Processador:* I3-6006U (6ª Geração)\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD de 204GB\n(Acompanha Fonte)\n\n*POR APENAS R$1.490,00* em até 10x sem juros!",
+    },
+
+    // R$1.890,00
+    {
+      title: "(NT0067)NOTEBOOK HP CORE 240 G6",
+      image: "HP-CORE-240_I5-7.png",
+      text: "💻 NOTEBOOK HP CORE 240 G6\n\n*Processador:* I5-7200U (7ª Geração)\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD de 240GB\n(Acompanha Fonte)\n\n*POR APENAS R$1.890,00* em até 10x sem juros!",
+    },
+
+
+    // R$2.390,00
+    {
+      title: "(NT0061)HP PROBOOK 440 G5",
+      image: "PROBOOK-440-G5_I5-8.png",
+      text: "💻 NOTEBOOK HP PROBOOK 440 G5\n\n*Processador:* I5-8250U (8ª Geração)\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD de 240GB\n(Acompanha Fonte)\n\n*POR APENAS R$2.390,00* em até 10x sem juros!",
+    },
+
+    // R$2.590,00
+    {
+      title: "(NT0022)LENOVO I7-4",
       image: "i7_4_16.png",
       text: "💻 NOTEBOOK DELL\n\n*Processador:* i7 4ª GERAÇÃO\n*Memória RAM:* 8GB\n*Armazenamento:* SSD 256GB\n\nDE ~2.990,00~ *POR APENAS R$2.590,00* em até 10x sem juros!",
     },
+
+    // R$2.890,00
     {
       title: "(NT0046)DELL I7-6 - 8GB - SSD256",
       image: "i7_8_256.png",
       text: "💻 NOTEBOOK DELL LATITUDE\n\n*Processador:* i7 6ª GERAÇÃO\n*Memória RAM:* 8GB\n*Armazenamento:* SSD 256GB\n\nDE ~R$3.390,00~ *POR APENAS R$2.890,00* em até 10x sem juros!",
     },
+
+    // R$3.190,00
     {
       title: "(NT0039)LENOVO I7-8 - 8GB - NVME - 512GB",
       image: "i7_8_512.png",
       text: "💻 NOTEBOOK LENOVO THINKPAD\n\n*Processador:* i7 8ª GERAÇÃO\n*Memória RAM:* 8GB\n*Armazenamento:* NVME 512GB\n\nDE ~R$3.690,00~ *POR APENAS R$3.190,00* em até 10x sem juros!",
     },
+
+    // R$3.3290,00
+    {
+      title: "(NT0039)NOTEBOOK THINKPAD T490",
+      image: "THINKPAD-T490_i7-8.png",
+      text: "💻 NOTEBOOK THINKPAD T490\n\n*Processador:* I7-8665U (8ª Geração)\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 240GB\n(Acompanha Fonte)\n\n*POR APENAS R$3.290,00* em até 10x sem juros!",
+    },
+
+    // R$3.390,00
+    {
+      title: "(NT0068)NOTEBOOK THINKPAD E490",
+      image: "THINKPAD-E490_i7-8.png",
+      text: "💻 NOTEBOOK THINKPAD E490\n\n*Processador:* i7-8565U (8ª Geração)\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 240GB\n*Placa de Vídeo*: RX 550X 2GB\n(Acompanha Fonte)\n\n*POR APENAS R$3.390,00* em até 10x sem juros!",
+    },
+
+    // R$3.490,00
+    {
+      title: "(NT0065)NOTEBOOK THINKPAD E14",
+      image: "THINKPAD-E14_i5-10.png",
+      text: "💻 NOTEBOOK THINKPAD E14\n\n*Processador:* I5-10210U (10ª Geração)\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 240GB\n(Acompanha Fonte)\n\n*POR APENAS R$3.490,00* em até 10x sem juros!",
+    },
+
+    // R$4.490,00
     {
       title: "(NT0039) NOTEBOOK HP ZBOOK - XEON E-2176",
       image: "HPZBOOK.png",
