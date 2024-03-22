@@ -61,14 +61,7 @@
       text: "💻 NOTEBOOK DELL LATITUDE\n\n*Processador:* i7 6ª GERAÇÃO\n*Memória RAM:* 8GB\n*Armazenamento:* SSD 256GB\n\nDE ~R$3.390,00~ *POR APENAS R$2.890,00* em até 10x sem juros!",
     },
 
-    // R$3.190,00
-    {
-      title: "(NT0039)LENOVO I7-8 - 8GB - NVME - 512GB",
-      image: "i7_8_512.png",
-      text: "💻 NOTEBOOK LENOVO THINKPAD\n\n*Processador:* i7 8ª GERAÇÃO\n*Memória RAM:* 8GB\n*Armazenamento:* NVME 512GB\n\nDE ~R$3.690,00~ *POR APENAS R$3.190,00* em até 10x sem juros!",
-    },
-
-    // R$3.3290,00
+    // R$3.290,00
     {
       title: "(NT0039)NOTEBOOK THINKPAD T490",
       image: "THINKPAD-T490_i7-8.png",
