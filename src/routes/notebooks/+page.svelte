@@ -29,7 +29,7 @@
     {
       title: "(NT0066)NOTEBOOK LENOVO IDEAPAD B320-14IKB",
       image: "IDEAPAD-B320_I3-6.png",
-      text: "💻 NOTEBOOK LENOVO IDEAPAD B320-14IKB\n\n*Processador:* I3-6006U (6ª Geração)\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD de 204GB\n(Acompanha Fonte)\n\n*POR APENAS R$1.490,00* em até 10x sem juros!",
+      text: "💻 NOTEBOOK LENOVO IDEAPAD B320-14IKB\n\n*Processador:* I3-6006U (6ª Geração)\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD de 240GB\n(Acompanha Fonte)\n\n*POR APENAS R$1.490,00* em até 10x sem juros!",
     },
 
     // R$1.890,00
