@@ -81,13 +81,6 @@
       image: "THINKPAD-E14_i5-10.png",
       text: "💻 NOTEBOOK THINKPAD E14\n\n*Processador:* I5-10210U (10ª Geração)\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 240GB\n(Acompanha Fonte)\n\n*POR APENAS R$3.490,00* em até 10x sem juros!",
     },
-
-    // R$4.490,00
-    {
-      title: "(NT0039) NOTEBOOK HP ZBOOK - XEON E-2176",
-      image: "HPZBOOK.png",
-      text: "💻 NOTEBOOK HP ZBOOK\n\n*Processador:* XEON E-2176\n*Memória RAM:* 16GB (DDR4)\n*Armazenamento:*SSD 256GB\n*Placa de Vídeo:* NVIDIA QUADRO P600 \n\nDE ~R$5.490,00~ *POR APENAS R$4.990,00* em até 10x sem juros!",
-    },
   ];
 
   function copyToClipboard(product: { text: string }) {
