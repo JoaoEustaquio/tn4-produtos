@@ -20,7 +20,7 @@
     {
       title: "Nº5 - i3 de 10ª + RX 550 4GB",
       image: "i312+1650.png",
-      text: "💥 LEAGUE OF LEGENDS\n🌎 MINECAFT\n🟥 ROBLOX\n🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n\n*Processador:* I3 DE 10ªG\n*Placa Mãe:* H510PM (LGA 1200)\n*Memória RAM:* 2x8GB(16GB) DDR4\n*Placa de Vídeo:* RX 550 4GB\n*Armazenamento:* SSD DE 480GB\n*Gabinete:* GAMER GAMER C/LED RGB FRONTAL\n*Fonte:* 500W\n\n*R$ 2.990,00* em até 10x sem juros!",
+      text: "💥 LEAGUE OF LEGENDS\n🌎 MINECAFT\n🟥 ROBLOX\n🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n\n*Processador:* I3 DE 10ªG\n*Placa Mãe:* H510PM (LGA 1200)\n*Memória RAM:* 2x8GB(16GB) DDR4\n*Placa de Vídeo:* RX 550 4GB\n*Armazenamento:* SSD DE 240GB\n*Gabinete:* GAMER GAMER C/LED RGB FRONTAL\n*Fonte:* 500W\n\n*R$ 2.990,00* em até 10x sem juros!",
     },
     {
       title: "Nº6 - i5 de 12ª + GTX 1650 4GB",
