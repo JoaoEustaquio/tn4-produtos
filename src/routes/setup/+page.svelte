@@ -33,6 +33,11 @@
       text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 CSGO 2\n🔫 WARZONE\n🦙 FORTNITE\n\n*Placa Mãe:* A520\n*Processador:* RYZEN 5 4500\n*Memória RAM:* 2x8GB(16GB) DDR4\n*Placa de Vídeo:* GTX 1650 4GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER C/ 3 FANS RGB RGB FRONTAIS\n*Fonte:* 500W\n+ Monitor de 17' POL. *NOVO*\n+ Kit Gamer(Teclado, Mouse, Mousepad e Headset)\n\nPOR APENAS *R$ 4.160,00* em até 10x sem juros!"
     },
     {
+      title: "🖱SETUP GAMER RYZEN 5 5600",
+      image: "5600G.RTX3050.png",
+      text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 5600\n*Placa Mãe:* A520\n*Memória RAM:* 16GB DDR4\n*Placa de Vídeo:* RTX 3050 6GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER C/ 3 FANS RGB FRONTAIS\n*Fonte:* 500W\n+ Monitor de 19' Pol. 75Htz\n+ + Kit Gamer(Teclado, Mouse, Mousepad e Headset)\n\nPOR APENAS *R$ 5.790,00* em até 10x sem juros!",
+    },
+    {
       title: "🖱SETUP GAMER RYZEN 5 4500",
       image: "4500.RX580.png",
       text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 CSGO 2\n🔫 WARZONE\n🦙 FORTNITE\n\n*Placa Mãe:* Duex B550\n*Processador:* RYZEN 5 4500\n*Memória RAM:* 2x8GB(16GB) DDR4 RISE MODE 3200Mhz\n*Placa de Vídeo:* RX 580 8GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER Fortrek C/ 3 FANS RGB FRONTAIS Controláveis\n*Fonte:* 500W Branca\n+ Monitor de 27' POL. 165Gtz *BRANCO*\n+ Kit Gamer(Teclado, Mouse, Mousepad e Headset)\n\nPOR APENAS *R$ 8.490,00* em até 10x sem juros!"
