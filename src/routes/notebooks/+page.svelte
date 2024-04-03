@@ -53,13 +53,6 @@
       text: "💻 NOTEBOOK DELL LATITUDE\n\n*Processador:* i7 6ª GERAÇÃO\n*Memória RAM:* 8GB\n*Armazenamento:* SSD 256GB\n\nDE ~R$3.390,00~ *POR APENAS R$2.890,00* em até 10x sem juros!",
     },
 
-    // R$3.290,00
-    {
-      title: "(NT0039)NOTEBOOK THINKPAD T490",
-      image: "THINKPAD-T490_i7-8.png",
-      text: "💻 NOTEBOOK THINKPAD T490\n\n*Processador:* I7-8665U (8ª Geração)\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 240GB\n(Acompanha Fonte)\n\n*POR APENAS R$3.290,00* em até 10x sem juros!",
-    },
-
     // R$3.390,00
     {
       title: "(NT0068)NOTEBOOK THINKPAD E490",
