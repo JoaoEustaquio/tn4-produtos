@@ -39,14 +39,6 @@
       text: "💻 NOTEBOOK HP CORE 240 G6\n\n*Processador:* I5-7200U (7ª Geração)\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD de 240GB\n(Acompanha Fonte)\n\n*POR APENAS R$1.890,00* em até 10x sem juros!",
     },
 
-
-    // R$2.390,00
-    {
-      title: "(NT0061)HP PROBOOK 440 G5",
-      image: "PROBOOK-440-G5_I5-8.png",
-      text: "💻 NOTEBOOK HP PROBOOK 440 G5\n\n*Processador:* I5-8250U (8ª Geração)\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD de 240GB\n(Acompanha Fonte)\n\n*POR APENAS R$2.390,00* em até 10x sem juros!",
-    },
-
     // R$2.590,00
     {
       title: "(NT0022)LENOVO I7-4",

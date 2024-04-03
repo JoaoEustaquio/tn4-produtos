@@ -28,9 +28,9 @@
       text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* I5-12400F (12ª Geração)\n*Placa Mãe:* H610 (LGA 1700)\n*Memória RAM:* 16GB DDR4 3200Mhz FURY BEAST RGB\n*Placa de Vídeo:* GTX 1650 4GB\n*Armazenamento:* NVME 256GB\n*Gabinete:* GAMER HAYOM C/ 4 FANS RGB\n*Fonte:* 500W\n\n*R$ 4.590,00* em até 10x sem juros!",
     },
     {
-      title: "Nº7 - i5 de 12ª + RTX 4060 8GB ",
+      title: "(PC0006)Nº7 - i5 de 12ª + RTX 4060 8GB ",
       image: "I5-12+RTX4060.png",
-      text: "🚘FORZA HORIZON\n🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* I5-12400F (12ª Geração)\n*Placa Mãe:*ASROCK B660M PHANTOM GAMING (LGA 1700)\n*Memória RAM:* 1x16GB DDR4 3200Mhz FURY BEAST RGB\n*WATER COOLER* PCYES VISION C/ DISPLAY LED PERSONALIZAVEL RGB\n*Placa de Vídeo*: RTX 4060 GALAX 8GB 1-CLICK 2X\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER AQUÁRIO C/ 4 FANS RGB\n*Fonte:* 700W\n\n*R$ 8.890,00* em até 10x sem juros!",
+      text: "🚘FORZA HORIZON\n🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* I5-12400F (12ª Geração)\n*Placa Mãe:*ASROCK B660M PHANTOM GAMING (LGA 1700)\n*Memória RAM:* 1x16GB DDR4 3200Mhz FURY BEAST RGB\n*WATER COOLER* PCYES VISION C/ DISPLAY LED PERSONALIZAVEL RGB\n*Placa de Vídeo*: RTX 4060 GALAX 8GB 1-CLICK 2X\n*Armazenamento:* SSD 512GB REDRAGON\n*Gabinete:* GAMER AQUÁRIO C/ 4 FANS RGB\n*Fonte:* 700W\n\n*R$ 8.890,00* em até 10x sem juros!",
     },
   ];
 
