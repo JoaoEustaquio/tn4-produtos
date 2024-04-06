@@ -13,6 +13,7 @@
         { title: "(LC0074) GAMER Bluecase 27' *CURVO* 165Hz", price: "R$ 1.590,00" },
         { title: "(LC0063) MONITOR GAMER HUSKY CURVO STORM 27' POL. LED 165hz", price: "R$ R$1.690,00" },
         { title: "(LC0039) GAMER DUEX 27' *CURVO* 240Hz", price: "R$ R$1.790,00" },
+        { title: "(LC0037) MONITOR GAMER REDRAGON AMBER 27' POL, CURVO, 165HZ", price: "R$ R$1.790,00" },
         { title: "(LC0051M) GAMER MANCER VALAK 32' CURVO 165HZ", price: "R$ R$2.190,00" },
     ]
 
