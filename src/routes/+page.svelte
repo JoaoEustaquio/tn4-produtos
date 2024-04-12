@@ -19,7 +19,6 @@
     const gpus = [
         { title: "RX 550 4GB", price: "R$ 790,00" },
         { title: "GTX 1650 4GB VENTUS", price: "R$ 1.290,00" },
-        { title: "RX 580 8GB", price: "R$ 1.590,00" },
         { title: "RTX 3050 6GB", price: "R$ 1.990,00" },
         { title: "RTX 3060 12GB", price: "R$ 2.590,00" },
         { title: "RTX 4060 8GB", price: "R$ 2.790,00" },
