@@ -57,6 +57,13 @@
       image: "N8-AMD.png",
       text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 4500\n*Placa Mãe:* B550 DUEX\n*Memória RAM:* 2X8GB DDR4 RISE MODE 320Mhz\n*Water Cooler* Rise Mode Aura ICE RGB C/ VISOR LCD PERSONALIZAVEL*\n*Placa de Vídeo:* GTX 1650 4GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER Fortrek Cruiser C/ 3 FANS Controláveis\n*Fonte:* 500W *BRANCA*\n\nPOR APENAS *R$ 5.690,00* em até 10x sem juros!",
     },
+
+    // R$ 6.690,00
+    {
+      title: "Nº9 - RYZEN 5600 + RTX 3060 12GB",  
+      image: "N9-AMD.png",
+      text: "🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n🪓 God Of War\n🔫 Resident Evil 4 Remake\n\n*Processador:* RYZEN 5 5600\n*Placa Mãe:* Biostar B450MX\n*Memória RAM:* 1x16GB DDR4 Fury Beast RGB 320Mhz\n*AIR Cooler* RGB\n*Placa de Vídeo:* RTX 3060 12GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER TGT C/ 3 FANS Controláveis\n*Fonte:* 550W 80PLUS\n\nPOR APENAS *R$ 6.690,00* em até 10x sem juros!",
+    },
   ];
 
   function copyToClipboard(product: { text: string }) {
