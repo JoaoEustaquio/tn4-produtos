@@ -23,10 +23,17 @@
       text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE(Gráficos Baixos)\n\n*Processador:* I7 de 3ª Geração\n*Placa Mãe:* H61 (LGA 1155)\n*Memória RAM:* 2x8GB(16GB)\n*Air Cooler* RGB\n*Placa de Vídeo:* RX 550 4GB\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER HAYOM C/ LED RGB\n*Fonte:* 500W\n\n*R$ 2.190,00* em até 10x sem juros!",
     },
 
+    // R$4.390,00
+    {
+      title: "Nº4 - i5 de 13ª + GTX 1650 4GB",
+      image: "N4-INTEL.png",
+      text: "🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* I5-13100F (13ª Geração)\n*Placa Mãe:* H610 (LGA 1700)\n*Memória RAM:* 2x8GB DDR4\n*Placa de Vídeo:* GTX 1650 4GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER PCYES BOLTER WHITE GHOST C/3 FANS\n*Fonte:* 500W\n\n*R$ 4.390,00* em até 10x sem juros!",
+    },
+
     // R$4.590,00
     {
-      title: "Nº4 - i5 de 12ª + GTX 1650 4GB",
-      image: "N4-Intel.png",
+      title: "Nº5 - i5 de 12ª + GTX 1650 4GB",
+      image: "N5-Intel.png",
       text: "🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* I5-12400F (12ª Geração)\n*Placa Mãe:* H610 (LGA 1700)\n*Memória RAM:* 16GB DDR4 3200Mhz FURY BEAST RGB\n*Placa de Vídeo:* GTX 1650 4GB\n*Armazenamento:* NVME 256GB\n*Gabinete:* GAMER C/ 4 FANS RGB\n*Fonte:* 500W\n\n*R$ 4.590,00* em até 10x sem juros!",
     },
 
