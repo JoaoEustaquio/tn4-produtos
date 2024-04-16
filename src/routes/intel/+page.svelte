@@ -25,16 +25,16 @@
 
     // R$4.390,00
     {
-      title: "Nº4 - i5 de 13ª + GTX 1650 4GB",
+      title: "Nº4 - i3 de 13ª + GTX 1650 4GB",
       image: "N4-INTEL.png",
-      text: "🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* I5-13100F (13ª Geração)\n*Placa Mãe:* H610 (LGA 1700)\n*Memória RAM:* 2x8GB DDR4\n*Placa de Vídeo:* GTX 1650 4GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER PCYES BOLTER WHITE GHOST C/3 FANS\n*Fonte:* 500W\n\n*R$ 4.390,00* em até 10x sem juros!",
+      text: "🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* I3-13100F (13ª Geração)\n*Placa Mãe:* H610 (LGA 1700)\n*Memória RAM:* 2x8GB DDR4\n*Placa de Vídeo:* GTX 1650 4GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER PCYES BOLTER WHITE GHOST C/3 FANS\n*Fonte:* 500W\n\n*R$ 4.390,00* em até 10x sem juros!",
     },
 
-    // R$4.590,00
+    // R$4.390,00
     {
       title: "Nº5 - i5 de 12ª + GTX 1650 4GB",
       image: "N5-Intel.png",
-      text: "🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* I5-12400F (12ª Geração)\n*Placa Mãe:* H610 (LGA 1700)\n*Memória RAM:* 16GB DDR4 3200Mhz FURY BEAST RGB\n*Placa de Vídeo:* GTX 1650 4GB\n*Armazenamento:* NVME 256GB\n*Gabinete:* GAMER C/ 4 FANS RGB\n*Fonte:* 500W\n\n*R$ 4.590,00* em até 10x sem juros!",
+      text: "🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* I5-12400F (12ª Geração)\n*Placa Mãe:* H610 (LGA 1700)\n*Memória RAM:* 16GB DDR4 3200Mhz FURY BEAST RGB\n*Placa de Vídeo:* RTX 3050 6GB\n*Armazenamento:* NVME 256GB\n*Gabinete:* GAMER C/ 4 FANS RGB\n*Fonte:* 500W\n\n*R$ 4.390,00* em até 10x sem juros!",
     },
 
     // R$8.890,00

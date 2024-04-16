@@ -27,7 +27,7 @@
     {
       title: "Nº4 - RYZEN 4500 + GTX 1650",
       image: "N4-AMD.png",
-      text: "🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 4500\n*Placa Mãe:* A520\n*Memória RAM:* 2x8GB DDR4\n*Placa de Vídeo:* GTX 1650 4GB\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER Hellix RGB\n*Fonte:* 500W\n\nPOR APENAS *R$ 3.690,00* em até 10x sem juros!",
+      text: "🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 4500\n*Placa Mãe:* A520\n*Memória RAM:* 2x8GB DDR4\n*Placa de Vídeo:* GTX 1650 4GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER Hellix RGB\n*Fonte:* 500W\n\nPOR APENAS *R$ 3.690,00* em até 10x sem juros!",
     },
 
     // R$ 4.590,00
