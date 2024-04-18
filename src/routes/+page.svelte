@@ -8,7 +8,7 @@
         { title: "(LC0071) 21.5' 75Hz Bluecase", price: "R$ 650,00" },
         { title: "(LC0072) 23.6' 75Hz Bluecase", price: "R$ 790,00" },
         { title: "(LC0066) MONITOR GAMER BLUECASE 23,6' POL. 75Hz CURVO OPTIGAMER", price: "R$ R$1.090,00" },
-        { title: "(LC0067) 24' 144Hz", price: "R$ 1.190,00" },
+        { title: "(LC0067) MONITOR GAMER BLUECASE24' 144Hz", price: "R$ 1.190,00" },
         { title: "(LC0074) GAMER Bluecase 27' *CURVO* 165Hz", price: "R$ 1.590,00" },
         { title: "(LC0063) MONITOR GAMER HUSKY CURVO STORM 27' POL. LED 165hz", price: "R$ R$1.690,00" },
         { title: "(LC0039) GAMER DUEX 27' *CURVO* 240Hz", price: "R$ R$1.790,00" },
