@@ -26,7 +26,7 @@
     // R$2.590,00
     {
       title: "Nº3 - SETUP Athlon 3000G + Monitor 20 + KIT GAMER - R$2.390,00",
-      image: ".png",
+      image: "N3-SETUP.png",
       text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 CSGO/VALORANT\n\n*Processador:* Athlon 3000G\n*Placa Mãe:* A320\n*Placa de Vídeo*: VEGA 3 (INTEGRADA)\n*Memória RAM:* 2x8GB DDR4 (16GB)\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER HAYOM C/ LED RGB\n*Fonte:* 500W\n\n +*KIT GAMER:* 🖥️ Monitor 20' POL. *SEMINOVO*, ⌨️ TECLADO, 🖱️ MOUSE, MOUSEPAD E 🎧 HEADSET\n\n*R$ 2.390,00* em até 10x sem juros!",
     },
 
