@@ -5,10 +5,12 @@
     const monitors = [
         { title: "(LC0009) 17' 60Hz 3GREEN", price: "R$ 390,00" },
         { title: "(LC0042) 19' 75Hz Bluecase", price: "R$ 490,00" },
+        { title: "(LC0009G) 19' 75Hz 3GREEN", price: "R$ 499,99" },
         { title: "(LC0071) 21.5' 75Hz Bluecase", price: "R$ 650,00" },
         { title: "(LC0072) 23.6' 75Hz Bluecase", price: "R$ 790,00" },
         { title: "(LC0066) MONITOR GAMER BLUECASE 23,6' POL. 75Hz CURVO OPTIGAMER", price: "R$ R$1.090,00" },
         { title: "(LC0067) MONITOR GAMER BLUECASE 24' 144Hz", price: "R$ 1.190,00" },
+        { title: "(LC0055) MONITOR GAMER GRASEP 23.8' 165Hz", price: "R$ 1.390,00" },
         { title: "(LC0074) GAMER Bluecase 27' *CURVO* 165Hz", price: "R$ 1.590,00" },
         { title: "(LC0063) MONITOR GAMER HUSKY CURVO STORM 27' POL. LED 165hz", price: "R$ R$1.690,00" },
         { title: "(LC0039) GAMER DUEX 27' *CURVO* 240Hz", price: "R$ R$1.790,00" },
