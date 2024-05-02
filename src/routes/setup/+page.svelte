@@ -58,11 +58,11 @@
       text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 CSGO 2\n🔫 WARZONE\n🦙 FORTNITE\n\n*Placa Mãe:* A520\n*Processador:* RYZEN 5 4500\n*Memória RAM:* 2x8GB(16GB) DDR4\n*Placa de Vídeo:* GTX 1650 4GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER C/ 3 FANS RGB RGB FRONTAIS\n*Fonte:* 500W\n+ Monitor de 17' POL. *NOVO*\n+ Kit Gamer(Teclado, Mouse, Mousepad e Headset)\n\nPOR APENAS *R$ 4.260,00* em até 10x sem juros!"
     },
 
-    // R$7.390,00
+    // R$7.990,00
     {
       title: "Nº9 - 🖱SETUP GAMER RYZEN 5 5600",
       image: "N9-SETUP.png",
-      text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 5600\n*Placa Mãe:* B450MX\n*Memória RAM:* 1x16GB DDR4 Fury Beast RGB\n*Placa de Vídeo:* RTX 3060 12GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER C/ 3 FANS RGB FRONTAIS\n*Fonte:* 550W 80PLUS\n+ Monitor de 19' Pol. 75Htz\n+ + Kit Gamer(Teclado, Mouse, Mousepad e Headset)\n\nPOR APENAS *R$ 7.390,00* em até 10x sem juros!",
+      text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 5600\n*Placa Mãe:* B450MX\n*Memória RAM:* 1x16GB DDR4 Fury Beast RGB\n*Placa de Vídeo:* RTX 3060 12GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER C/ 3 FANS RGB FRONTAIS\n*Fonte:* 550W 80PLUS\n+ Monitor de 19' Pol. 75Htz\n+ + Kit Gamer(Teclado, Mouse, Mousepad e Headset)\n\nPOR APENAS *R$ 7.990,00* em até 10x sem juros!",
     },
 
     // R$8.190,00
