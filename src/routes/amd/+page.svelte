@@ -23,11 +23,11 @@
       text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE(GRÁFICOS Médios/Baixos)\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Placa Mãe:* A520\n*Processador:* RYZEN 5 5600G\n*Memória RAM:* 2x8GB(16GB) DDR4\n*Placa de Vídeo:* VEGA 7 (INTEGRADO)\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER C/ LED Fronta RGB\n*Fonte:* 500W\n\nDE ~R$ 2.990,00~ POR APENAS *R$ 2.690,00* em até 10x sem juros!",
     },
     
-    // R$ 3.690,00
+    // R$ 3.790,00
     {
       title: "Nº4 - RYZEN 4500 + GTX 1650",
       image: "AMD-3690.png",
-      text: "🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 4500\n*Placa Mãe:* A520\n*Memória RAM:* 2x8GB MANCER 2666Mhz DDR4\n*Placa de Vídeo:* GTX 1650 4GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER Hellix RGB\n*Fonte:* 500W\n\nPOR APENAS *R$ 3.690,00* em até 10x sem juros!",
+      text: "🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 4500\n*Placa Mãe:* A520\n*Memória RAM:* 2x8GB MANCER 2666Mhz DDR4\n*Placa de Vídeo:* GTX 1650 4GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER Hellix RGB\n*Fonte:* 500W\n\nPOR APENAS *R$ 3.790,00* em até 10x sem juros!",
     },
 
     // R$ 4.590,00
