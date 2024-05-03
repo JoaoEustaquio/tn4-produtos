@@ -62,7 +62,7 @@
     {
       title: "Nº9 - 🖱SETUP GAMER RYZEN 5 4500",
       image: "SETUP-11190.png",
-      text: "💥 FREE FIRE\n🌎 ARK SURVIVE\n🔫 GTA RP\n🔫 VALORANT\n🔫 CSGO 2\n🔫 WARZONE\n🦙 FORTNITE\n\n*Placa Mãe:* Duex B550\n*Processador:* RYZEN 5 4500\n*Memória RAM:* 2x8GB(16GB) DDR4 RISE MODE 3200Mhz\n*Placa de Vídeo:* RTX 3050 6GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER Fortrek C/ 3 FANS RGB FRONTAIS Controláveis\n*Fonte:* 500W Branca\n+ 🖥️ Monitor de 27' POL. REDRAGON 180Gtz *BRANCO* PLANO\n+ Kit Gamer(Teclado, Mouse e Headset)\n\nPOR APENAS *R$ 11.190,00* em até 10x sem juros!"
+      text: "💥 FREE FIRE\n🌎 ARK SURVIVE\n🔫 GTA RP\n🔫 VALORANT\n🔫 CSGO 2\n🔫 WARZONE\n🦙 FORTNITE\n\n*Placa Mãe:* Duex B550\n*Processador:* RYZEN 5 4500\n*Memória RAM:* 2x8GB(16GB) DDR4 RISE MODE 3200Mhz\n*Placa de Vídeo:* RTX 3050 6GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER Fortrek C/ 3 FANS RGB FRONTAIS Controláveis\n*Fonte:* 500W Branca\n+ 🖥️ Monitor de 27' POL. REDRAGON 180Gtz *BRANCO* PLANO & MONITOR 23,6'' BLUECASE CURVO 100Htz(Acompanha SUPORTE P/2 MONITOR EVOLUT)\n+ Kit Gamer(Teclado, Mouse e Headset)\nSUPORTE MESA C/LED HUB USB 3.0\n\nPOR APENAS *R$ 11.190,00* em até 10x sem juros!"
     },
   ]
 
