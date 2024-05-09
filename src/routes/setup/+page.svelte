@@ -51,23 +51,30 @@
       text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 CSGO 2\n🔫 WARZONE\n🦙 FORTNITE\n\n*Placa Mãe:* A520\n*Processador:* RYZEN 5 4500\n*Memória RAM:* 2x8GB(16GB) DDR4\n*Placa de Vídeo:* GTX 1650 4GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER C/ 3 FANS RGB RGB FRONTAIS\n*Fonte:* 500W\n+ 🖥️ Monitor de 17' POL. *NOVO*\n+ Kit Gamer(Teclado, Mouse, Mousepad e Headset)\n\nPOR APENAS *R$ 4.260,00* em até 10x sem juros!"
     },
 
+    // R$ 5.290,00
+    {
+      title: "Nº8 - SETUP RYZEN 4500 + RTX 3050 6GB",
+      image: "SETUP-5290.png",
+      text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* RYZEN 5 4500\n*Placa Mãe:* A520\n*Memória RAM:* 16GB DDR4 2666Hz\n*Placa de Vídeo:* RTX 3050 6GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER C/ 3 FANS RGB FRONTAIS\n*Fonte:* 500W\n +🖥 MONITOR (LC0042) 19' 75Hz Bluecase\n + KIT Gamer Completo(Teclado, Headset, Mouse e Mousepad)\n\nPOR APENAS *R$ 5.290,00* em até 10x sem juros!",
+    },
+
     // R$7.990,00
     {
-      title: "Nº8 - 🖱SETUP GAMER RYZEN 5 5600",
+      title: "Nº9 - 🖱SETUP GAMER RYZEN 5 5600",
       image: "SETUP-7990.png",
       text: "💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 5600\n*Placa Mãe:* B450MX\n*Memória RAM:* 1x16GB DDR4 Fury Beast RGB\n*Placa de Vídeo:* RTX 3060 12GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER C/ 3 FANS RGB FRONTAIS\n*Fonte:* 550W 80PLUS\n+ 🖥️ Monitor de 19' Pol. 75Htz\n+ + Kit Gamer(Teclado, Mouse, Mousepad e Headset)\n\nPOR APENAS *R$ 7.990,00* em até 10x sem juros!",
     },
 
     // R$11.190,00
     {
-      title: "Nº9 - 🖱SETUP GAMER RYZEN 5 4500",
+      title: "Nº10 - 🖱SETUP GAMER RYZEN 5 4500",
       image: "SETUP-11190.png",
       text: "💥 FREE FIRE\n🌎 ARK SURVIVE\n🔫 GTA RP\n🔫 VALORANT\n🔫 CSGO 2\n🔫 WARZONE\n🦙 FORTNITE\n\n*Placa Mãe:* Duex B550\n*Prcessador:* RYZEN 5 4500\n*Memória RAM:* 2x8GB(16GB) DDR4 RISE MODE 3200Mhz\n*Placa de Vídeo:* RTX 3050 6GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER Fortrek C/ 3 FANS RGB FRONTAIS Controláveis\n*Fonte:* 500W Branca\n+ 🖥️ Monitor de 27' POL. REDRAGON 180Gtz *BRANCO* PLANO & MONITOR 23,6'' BLUECASE CURVO 100Htz(Acompanha SUPORTE P/2 MONITOR EVOLUT)\n+ Kit Gamer(Teclado, Mouse e Headset)\nSUPORTE MESA C/LED HUB USB 3.0\n\nPOR APENAS *R$ 11.190,00* em até 10x sem juros!"
     },
 
     // R$11.490,00
     {
-      title: "Nº10 - SETUP GAMER RYZEN 5 5500 COMPLETO",
+      title: "Nº11 - SETUP GAMER RYZEN 5 5500 COMPLETO",
       image: "SETUP-11490.png",
       text: "🪓 God Of War\n🌎 ARK SURVIVE\n🟥 GTA RP\n🔫 VALORANT\n🔫 CSGO 2\n🔫 WARZONE\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 5500\n*Placa Mãe:*  B450 ASUS - 4 BANCOS MEMORIA\n*Memória RAM:* 2x8GB DDR4 REDRAGON  3200Mhz\n*WATER COOLER 240MM*\n*Placa de Vídeo:* RTX 4060Ti 8GB INNO3D\n*Armazenamento:* NVME 512GB\n*Gabinete* GAMER NZXT 2 FANS BLACK\n*Fonte:* 700W 80PLUS\n\n+ 🖥️ Monitor REDRAGON 27' POL 165hz CURVO\n\n+*KIT GAMER:*\n- TECLADO REDRAGON FIZZ PRO 60% (COM KEYCAPS VERMELHAS)\n- MOUSE GAMER AOC AGM700\n- HEADSET REDRAGON MINOS BLACK\n- MICROFONE REDRAGON BLAZAR\n- MOUSEPAD FORTREK COURO\n\nPOR APENAS R$ 11.490,00 em até 10x sem juros!"
     },
