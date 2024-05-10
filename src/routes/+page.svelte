@@ -22,6 +22,7 @@
 
     const gpus = [
         { title: "RX 550 4GB", price: "R$ 790,00" },
+        { title: "RADEON RX 560 4GB GDDR5 128 BITS - PCWINMAX", price: "R$ 1,090,99" },
         { title: "GTX 1650 4GB VENTUS", price: "R$ 1.290,00" },
         { title: "RTX 3050 6GB", price: "R$ 1.990,00" },
         { title: "RTX 3060 12GB", price: "R$ 2.490,00" },
