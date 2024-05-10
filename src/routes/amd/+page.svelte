@@ -36,33 +36,33 @@
       image: "AMD-4590.png",
       text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n  LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* RYZEN 5 4500\n*Placa Mãe:* A520\n*Memória RAM:* 16GB DDR4 2666Hz\n*Placa de Vídeo:* RTX 3050 6GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER C/ 3 FANS RGB FRONTAIS\n*Fonte:* 500W\n\nPOR APENAS *R$ 4.590,00* em até 10x sem juros!",
     },
+    
+    // R$ 4.790,00
+    {
+      title: "Nº6 - RYZEN 5500 + GTX 3050",
+      image: "AMD-4790.png",
+      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n  FREE FIRE\n🌎 ARK SURVIVE\n🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 5500\n*Placa Mãe:* B450 Challenger\n*Memória RAM:* 2x8GB DDR4 MANCER BANSHEE 2666Mhz\n*Placa de Vídeo:* RTX 3050 6GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER PCYES SET BLACK VULCAN\n*Fonte:* 500W\n\nPOR APENAS *R$ 4.790,00* em até 10x sem juros!",
+    },
 
     // R$ 5.190,00
     {
-      title: "Nº6 - (PC0003)RYZEN 5600 + RTX 3050",
+      title: "Nº7 - (PC0003)RYZEN 5600 + RTX 3050",
       image: "(AMD)PC0003.png",
       text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n  LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 5600\n*Placa Mãe:* A520\n*Memória RAM:* 16GB DDR4\n*Placa de Vídeo:* RTX 3050 6GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER C/ 3 FANS RGB FRONTAIS\n*Fonte:* 500W\n\nPOR APENAS *R$ 5.190,00* em até 10x sem juros!",
     },
 
     // R$ 5.390,00
     {
-      title: "Nº7 - RYZEN 4500 + RTX 4060 8GB 2X",
+      title: "Nº8 - RYZEN 4500 + RTX 4060 8GB 2X",
       image: "AMD-5390.png",
       text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n  LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* RYZEN 5 4500\n*Placa Mãe:* B550M Biostar\n*Memória RAM:* 1x16GB DDR4 Fury Beast Black\n*Placa de Vídeo:* RTX 3050 6GB\n*Armazenamento:* SSD de 480GB\n*Gabinete* GAMER AQUÁRIO C/ 3 FANS\n*Fonte:* 500W\n\nPOR APENAS *R$ 5.390,00* em até 10x sem juros!",
     },
 
     // R$ 5.690,00
     {
-      title: "Nº8 - RYZEN 4500 + 1650 4GB WHITE",  
+      title: "Nº9 - RYZEN 4500 + 1650 4GB WHITE",  
       image: "AMD-N5690.png",
       text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n  LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 4500\n*Placa Mãe:* B550 DUEX\n*Memória RAM:* 2X8GB DDR4 RISE MODE 320Mhz\n*Water Cooler* Rise Mode Aura ICE RGB C/ VISOR LCD PERSONALIZAVEL*\n*Placa de Vídeo:* GTX 1650 4GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER Fortrek Cruiser C/ 3 FANS Controláveis\n*Fonte:* 500W *BRANCA*\n\nPOR APENAS *R$ 5.690,00* em até 10x sem juros!",
-    },
-
-    // R$ 6.390,00
-    {
-      title: "Nº9 - RYZEN 5500 + GTX 3050",
-      image: "AMD-6390.png",
-      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n  FREE FIRE\n🌎 ARK SURVIVE\n🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 5500\n*Placa Mãe:* B450 Challenger\n*Memória RAM:* 2x8GB DDR4 MANCER BANSHEE 2666Mhz\n*Placa de Vídeo:* RTX 3050 6GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER PCYES SET BLACK VULCAN\n*Fonte:* 500W\n\nPOR APENAS *R$ 6.390,00* em até 10x sem juros!",
     },
 
     // R$ 6.690,00
