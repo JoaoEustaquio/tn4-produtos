@@ -32,7 +32,7 @@
 
     // R$2.990,00
     {
-      title: "Nº5 - ()🖥🖱SETUP GAMER RYZEN 5 4600G",
+      title: "Nº5 - (PC0031)🖥🖱SETUP GAMER RYZEN 5 4600G",
       image: "PC0014.png",
       text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n 💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 CSGO 2\n🔫 WARZONE(GRÁFICOS Médios/Baixos)\n🦙 FORTNITE\n\n*Placa Mãe:* A520\n*Processador:* RYZEN 5 4600G\n*Memória RAM:* 2x8GB(16GB) DDR4\n*Placa de Vídeo:* VEGA 7 (INTEGRADO)\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER C/ LED RGB FRONTAIS\n*Fonte:* 500W\n+ 🖥️ Monitor de 17' POL. 60Htz\n+ Kit Gamer(Teclado, Mouse, Mousepad e Headset)\n\nPOR APENAS *R$ 2.990,00* em até 10x sem juros!"
     },
