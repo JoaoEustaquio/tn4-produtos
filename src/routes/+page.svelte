@@ -3,21 +3,22 @@
     import IconCopy from "$lib/icons/copy.svelte"
     
     const monitors = [
-        { title: "(LC0009) 17' 60Hz 3GREEN", price: "R$ 390,00" },
-        { title: "(LC0042) 19' 75Hz Bluecase", price: "R$ 490,00" },
-        { title: "(LC0009G) 19' 75Hz 3GREEN", price: "R$ 499,99" },
-        { title: "(LC0071) 21.5' 75Hz Bluecase", price: "R$ 650,00" },
-        { title: "(LC0072) 23.6' 75Hz Bluecase", price: "R$ 790,00" },
-        { title: "(LC0066) MONITOR GAMER BLUECASE 23,6' POL. 75Hz CURVO OPTIGAMER", price: "R$ R$1.090,00" },
-        { title: "(LC0066P) MONITOR GAMER BLUECASE 23,8' POL. 100Hz CURVO OPTIGAMER *PRETO*", price: "R$ R$1.090,00" },
-        { title: "(LC0066B) MONITOR GAMER BLUECASE 23,8' POL. 100Hz CURVO OPTIGAMER *BRANCO*", price: "R$ R$1.190,00" },
-        { title: "(LC0067) MONITOR GAMER BLUECASE 24' 144Hz", price: "R$ 1.190,00" },
-        { title: "(LC0055) MONITOR GAMER GRASEP 23.8' 165Hz", price: "R$ 1.390,00" },
-        { title: "(LC0074) GAMER Bluecase 27' *CURVO* 165Hz", price: "R$ 1.590,00" },
-        { title: "(LC0063) MONITOR GAMER HUSKY CURVO STORM 27' POL. LED 165hz", price: "R$ R$1.690,00" },
-        { title: "(LC0037) MONITOR GAMER REDRAGON AMBER 27' POL, CURVO, 165HZ", price: "R$ R$1.790,00" },
-        { title: "(LC0075) MONITOR GAMER REDRAGON SURTR 27 POL., 180HZ, BRANCO", price: "R$ R$1.890,00" },
-        { title: "(LC0051M) GAMER MANCER VALAK 32' CURVO 165HZ", price: "R$ R$2.190,00" },
+        { title: "3GREEN 17' 60Hz (LC0009) ", price: "R$ 390,00" },
+        { title: "3GREEN 19' 75Hz (LC0009G)", price: "R$ 499,99" },
+        { title: "Bluecase 23.6' 75Hz (LC0072)", price: "R$ 790,00" },
+        { title: "Grasep 21,5' 75Hz (LC0055G)", price: "R$ 790,00" },
+        { title: "3GREEN 24' POL 75HTZ VERMELHO (LC0009T)", price: "R$ 990,00" },
+        { title: "HQ ROSA 24' POL CURVO 75HTZ RGB TRASEIRO (LC0090)", price: "R$ R$1.050,00" },
+        { title: "GAMER BLUECASE 23,6' POL. 75Hz CURVO OPTIGAMER (LC0066)", price: "R$ R$1.090,00" },
+        { title: "GAMER BLUECASE 23,8' POL. 100Hz CURVO OPTIGAMER *PRETO* (LC0066P)", price: "R$ R$1.090,00" },
+        { title: "GAMER BLUECASE 23,8' POL. 100Hz CURVO OPTIGAMER *BRANCO* (LC0066B)", price: "R$ R$1.190,00" },
+        { title: "GAMER BLUECASE 24' 144Hz (LC0067)", price: "R$ 1.190,00" },
+        { title: "GAMER GRASEP 23.8' 165Hz (LC0055)", price: "R$ 1.390,00" },
+        { title: "GAMER Bluecase 27' *CURVO* 165Hz (LC0074)", price: "R$ 1.590,00" },
+        { title: "GAMER HUSKY CURVO STORM 27' POL. LED 165hz (LC0063)", price: "R$ R$1.690,00" },
+        { title: "GAMER DUEX CURVO 27 POL. 240HZ (LC0039)", price: "R$ R$1.790,00" },
+        { title: "GAMER REDRAGON SURTR 27 POL., 180HZ, BRANCO (LC0075)", price: "R$ R$1.890,00" },
+        { title: "GAMER MANCER VALAK 32' CURVO 165HZ (LC0051M) ", price: "R$ R$2.190,00" },
     ]
 
     const gpus = [
