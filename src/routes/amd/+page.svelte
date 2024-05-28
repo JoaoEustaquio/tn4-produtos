@@ -32,9 +32,9 @@
 
     // R$ 3.790,00
     {
-      title: "Nº5 - RYZEN 4500 + GTX 1650",
+      title: "Nº5 - RYZEN 4500 + RX 580 8GB",
       image: "AMD-3490.png",
-      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* 💥 FREE FIRE \n 🌎 MINECRAFT \n 🟥 ROBLOX \n 🚔 GTA RP \n 🔫 CSGO/VALORANT \n🦙 FORTNITE\n\n*Processador:* RYZEN 5 4500\n*Placa Mãe:* A520\n*Memória RAM:* 2x8GB MANCER 2666Mhz DDR4\n*Placa de Vídeo:* GTX 1650 4GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER Hellix RGB\n*Fonte:* 500W\n\nPOR APENAS *R$ 3.790,00* em até 10x sem juros!",
+      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* 💥 FREE FIRE \n 🌎 MINECRAFT \n 🟥 ROBLOX \n 🚔 GTA RP \n 🔫 CSGO/VALORANT \n🦙 FORTNITE\n\n*Processador:* RYZEN 5 4500\n*Placa Mãe:* A520\n*Memória RAM:* 2x8GB MANCER 2666Mhz DDR4\n*Placa de Vídeo:* RX 580 8GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER Hellix RGB\n*Fonte:* 500W\n\nPOR APENAS *R$ 3.790,00* em até 10x sem juros!",
     },    
 
     // R$ 4.590,00
@@ -46,9 +46,9 @@
     
     // R$ 4.790,00
     {
-      title: "Nº7 - RYZEN 5500 + GTX 3050",
+      title: "Nº7 - RYZEN 5500 + RX 580 8GB",
       image: "AMD-4790.png",
-      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n  💥 FREE FIRE\n🌎 ARK SURVIVE\n🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 5500\n*Placa Mãe:* B450 Challenger\n*Memória RAM:* 2x8GB DDR4 MANCER BANSHEE 2666Mhz\n*Placa de Vídeo:* RTX 3050 6GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER PCYES SET BLACK VULCAN\n*Fonte:* 500W\n\nPOR APENAS *R$ 4.790,00* em até 10x sem juros!",
+      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n  💥 FREE FIRE\n🌎 ARK SURVIVE\n🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 5500\n*Placa Mãe:* B450 Challenger\n*Memória RAM:* 2x8GB DDR4 MANCER BANSHEE 2666Mhz\n*Placa de Vídeo:* RX 580 8GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER PCYES SET BLACK VULCAN\n*Fonte:* 500W\n\nPOR APENAS *R$ 4.790,00* em até 10x sem juros!",
     },
 
     // R$ 5.190,00
@@ -69,7 +69,7 @@
     {
       title: "Nº10 - RYZEN 4500 + 1650 4GB WHITE",  
       image: "AMD-5690.png",
-      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n  💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 4500\n*Placa Mãe:* B550 DUEX\n*Memória RAM:* 2X8GB DDR4 RISE MODE 320Mhz\n*Water Cooler* Rise Mode Aura ICE RGB C/ VISOR LCD PERSONALIZAVEL*\n*Placa de Vídeo:* GTX 1650 4GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER C/ 3 FANS Controláveis\n*Fonte:* 500W *BRANCA*\n\nPOR APENAS *R$ 5.690,00* em até 10x sem juros!",
+      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n  💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 4500\n*Placa Mãe:* B550 DUEX\n*Memória RAM:* 2X8GB DDR4 RISE MODE 320Mhz\n*Water Cooler* Rise Mode Aura ICE RGB C/ VISOR LCD PERSONALIZAVEL*\n*Placa de Vídeo:* RX 580 8GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER C/ 3 FANS Controláveis\n*Fonte:* 500W *BRANCA*\n\nPOR APENAS *R$ 5.690,00* em até 10x sem juros!",
     },
 
     // R$ 6.690,00
