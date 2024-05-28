@@ -23,18 +23,18 @@
       text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n  LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE(Gráficos Baixos)\n\n*Processador:* I7 de 3ª Geração\n*Placa Mãe:* H61 (LGA 1155)\n*Memória RAM:* 1x8GB(8GB)\n*Air Cooler* RGB\n*Placa de Vídeo:* RX 550 4GB\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER HAYOM C/ LED RGB\n*Fonte:* 500W\n\n*R$ 2.190,00* em até 10x sem juros!",
     },
 
-    // R$4.390,00
-    {
-      title: "Nº4 - i3 de 13ª + RX 580 8GB",
-      image: "N4-INTEL.png",
-      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n 🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* I3-13100F (13ª Geração)\n*Placa Mãe:* H610 (LGA 1700)\n*Memória RAM:* 2x8GB DDR4\n*Placa de Vídeo:* RX 580 8GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER PCYES BOLTER WHITE GHOST C/3 FANS\n*Fonte:* 500W\n\n*R$ 4.390,00* em até 10x sem juros!",
-    },
-
     // R$4.590,00
     {
       title: "Nº5 - i5 de 12ª + RX 580 8GB",
       image: "N5-Intel.png",
       text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n 🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* I5-12400F (12ª Geração)\n*Placa Mãe:* H610 (LGA 1700)\n*Memória RAM:* 16GB DDR4 3200Mhz FURY BEAST RGB\n*Placa de Vídeo:* RX 580 8GB\n*Armazenamento:* NVME 256GB\n*Gabinete:* GAMER C/ 4 FANS RGB\n*Fonte:* 500W\n\n*R$ 4.590,00* em até 10x sem juros!",
+    },
+    
+    // R$4.990,00
+    {
+      title: "Nº4 - i3 de 13ª + RTX 3050 6GB",
+      image: "N4-INTEL.png",
+      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n 🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* I3-13100F (13ª Geração)\n*Placa Mãe:* H610 (LGA 1700)\n*Memória RAM:* 2x8GB DDR4\n*Placa de Vídeo:* RTX 3050 6GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER PCYES BOLTER WHITE GHOST C/3 FANS\n*Fonte:* 500W\n\n*R$ 4.990,00* em até 10x sem juros!",
     },
 
     // R$8.890,00
