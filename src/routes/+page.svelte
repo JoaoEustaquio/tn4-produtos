@@ -7,7 +7,6 @@
         { title: "3GREEN 19' 75Hz (LC0009G)", price: "R$ 499,99" },
         { title: "Bluecase 23.6' 75Hz (LC0072)", price: "R$ 790,00" },
         { title: "Grasep 21,5' 75Hz (LC0055G)", price: "R$ 790,00" },
-        { title: "3GREEN 24' POL 75HTZ VERMELHO (LC0009T)", price: "R$ 990,00" },
         { title: "HQ ROSA 24' POL CURVO 75HTZ RGB TRASEIRO (LC0090)", price: "R$ R$1.050,00" },
         { title: "GAMER BLUECASE 23,6' POL. 75Hz CURVO OPTIGAMER (LC0066)", price: "R$ R$1.090,00" },
         { title: "GAMER BLUECASE 23,8' POL. 100Hz CURVO OPTIGAMER *PRETO* (LC0066P)", price: "R$ R$1.090,00" },
