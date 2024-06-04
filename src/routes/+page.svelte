@@ -17,6 +17,7 @@
         { title: "GAMER HUSKY CURVO STORM 27' POL. LED 165hz (LC0063)", price: "R$ R$1.690,00" },
         { title: "GAMER DUEX CURVO 27 POL. 240HZ (LC0039)", price: "R$ R$1.790,00" },
         { title: "GAMER REDRAGON SURTR 27 POL., 180HZ, BRANCO (LC0075)", price: "R$ R$1.890,00" },
+        { title: "GAMER ASROCK PhANTOM GAMING, 27 Pol, Curvo (LC0076)", price: "R$ R$1.890,00" },
         { title: "GAMER MANCER VALAK 32' CURVO 165HZ (LC0051M) ", price: "R$ R$2.190,00" },
     ]
 
