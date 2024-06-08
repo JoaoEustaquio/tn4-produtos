@@ -79,11 +79,11 @@
       text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n 🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n🪓 God Of War\n🔫 Resident Evil 4 Remake\n\n*Processador:* RYZEN 5 5600\n*Placa Mãe:* Biostar B450MX\n*Memória RAM:* 1x16GB DDR4 Fury Beast RGB 320Mhz\n*AIR Cooler* RGB\n*Placa de Vídeo:* RTX 3060 12GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER TGT C/ 3 FANS Controláveis\n*Fonte:* 550W 80PLUS\n\nPOR APENAS *R$ 6.690,00* em até 10x sem juros!",
     },
 
-    // R$ 8.190,00
+    // R$ 7.590,00
     {
-      title: "Nº12 - RYZEN 5500 + RTX 4060TI 8GB",  
+      title: "Nº12 - RYZEN 5500 + RTX 4060 8GB",  
       image: "AMD-8190.png",
-      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n 🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n🪓 God Of War\n🔫 Resident Evil 4 Remake\n\n*Processador:* RYZEN 5 5500\n*Placa Mãe:*  B450 ASUS - 4 BANCOS MEMORIA\n*Memória RAM:* 2x8GB DDR4 REDRAGON  3200Mhz\n*WATER COOLER 240MM*\n*Placa de Vídeo:* RTX 4060Ti 8GB INNO3D\n*Armazenamento:* NVME 512GB\n*Gabinete:* GAMER NZXT 2 FANS BLACK\n*Fonte:* 700W 80PLUS\n\nPOR APENAS *R$ 8.190,00* em até 10x sem juros!",
+      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n 🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n🪓 God Of War\n🔫 Resident Evil 4 Remake\n\n*Processador:* RYZEN 5 5500\n*Placa Mãe:*  B450 ASUS - 4 BANCOS MEMORIA\n*Memória RAM:* 2x8GB DDR4 REDRAGON  3200Mhz\n*WATER COOLER 240MM*\n*Placa de Vídeo:* RTX 4060 8GB\n*Armazenamento:* NVME 512GB\n*Gabinete:* GAMER NZXT 2 FANS BLACK\n*Fonte:* 700W 80PLUS\n\nPOR APENAS *R$ 7.590,00* em até 10x sem juros!",
     },
   ];
 
