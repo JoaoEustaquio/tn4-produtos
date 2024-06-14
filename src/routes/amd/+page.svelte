@@ -23,25 +23,25 @@
       text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n  💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE(GRÁFICOS Médios/Baixos)\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Placa Mãe:* A520\n*Processador:* RYZEN 5 5600G\n*Memória RAM:* 2x8GB(16GB) DDR4\n*Placa de Vídeo:* VEGA 7 (INTEGRADO)\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER C/ 4FANS RGB \n*Fonte:* 500W\n\nDE ~R$ 2.990,00~ POR APENAS *R$ 2.690,00* em até 10x sem juros!",
     },
 
-    // R$ 4.390,00
-    {
-      title: "Nº4 - RYZEN 5500 + RX 580 8GB",
-      image: "AMD-4790.png",
-      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n  💥 FREE FIRE\n🌎 ARK SURVIVE\n🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 5500\n*Placa Mãe:* B450 Challenger\n*Memória RAM:* 2x8GB DDR4 MANCER BANSHEE 2666Mhz\n*Placa de Vídeo:* RX 580 8GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER PCYES SET BLACK VULCAN\n*Fonte:* 500W\n\nPOR APENAS *R$ 4.390,00* em até 10x sem juros!",
-    },
-
     // R$ 3.490,00
     {
-      title: "Nº5 - RYZEN 4500 + RX 560",
+      title: "Nº4 - RYZEN 4500 + RX 560",
       image: "AMD-3790.png",
       text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n 🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 4500\n*Placa Mãe:* A520\n*Memória RAM:* 2x8GB 2666Mhz DDR4 (16GB)\n*Placa de Vídeo:* RX 560 4GB\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER HAYOM C/3FANS RGB\n*Fonte:* 500W\n\nPOR APENAS *R$ 3.490,00* em até 10x sem juros!",
     },
 
     // R$ 3.890,00
     {
-      title: "Nº6 - RYZEN 4500 + RX 580 8GB",
+      title: "Nº5 - RYZEN 4500 + RX 580 8GB",
       image: "AMD-3490.png",
       text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* 💥 FREE FIRE \n 🌎 MINECRAFT \n 🟥 ROBLOX \n 🚔 GTA RP \n 🔫 CSGO/VALORANT \n🦙 FORTNITE\n\n*Processador:* RYZEN 5 4500\n*Placa Mãe:* A520\n*Memória RAM:* 2x8GB MANCER 2666Mhz DDR4\n*Placa de Vídeo:* RX 580 8GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER C/3FANS RGB\n*Fonte:* 500W\n\nPOR APENAS *R$ 3.890,00* em até 10x sem juros!",
+    },
+
+    // R$ 4.390,00
+    {
+      title: "Nº6 - RYZEN 5500 + RX 580 8GB",
+      image: "AMD-4790.png",
+      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n  💥 FREE FIRE\n🌎 ARK SURVIVE\n🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 5500\n*Placa Mãe:* B450 Challenger\n*Memória RAM:* 2x8GB DDR4 MANCER BANSHEE 2666Mhz\n*Placa de Vídeo:* RX 580 8GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER PCYES SET BLACK VULCAN\n*Fonte:* 500W\n\nPOR APENAS *R$ 4.390,00* em até 10x sem juros!",
     },
 
     // R$ 4.590,00
