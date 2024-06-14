@@ -29,6 +29,7 @@
         { title: "RTX 3050 6GB", price: "R$ 1.990,00" },
         { title: "RTX 3060 12GB", price: "R$ 2.490,00" },
         { title: "RTX 4060 8GB", price: "R$ 2.790,00" },
+        { title: "RTX 4070 12GB", price: "R$ 5.890,00" },
     ]
 
     function copyToClipboard(product: { text: string }) {
