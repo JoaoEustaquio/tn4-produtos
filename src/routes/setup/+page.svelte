@@ -44,11 +44,11 @@
       text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n 💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 CSGO 2\n🔫 WARZONE(GRÁFICOS Médios/Baixos)\n🦙 FORTNITE\n\n*Placa Mãe:* A520\n*Processador:* RYZEN 5 5600G\n*Memória RAM:* 2x8GB(16GB) DDR4\n*Placa de Vídeo:* VEGA 7 (INTEGRADO)\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER C/ 4 FANS RGB\n*Fonte:* 500W\n+ 🖥️ Monitor de 17' POL. 60Htz\n+ Kit Gamer(Teclado, Mouse, Mousepad e Headset)\n\nPOR APENAS *R$ 3.290,00* em até 10x sem juros!"
     },
 
-    // R$4.260,00
+    // R$4.360,00
     {
       title: "Nº7 - (PC0004)🖱SETUP GAMER RYZEN 5 4500",
       image: "SETUP-4260.png",
-      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n 💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 CSGO 2\n🔫 WARZONE\n🦙 FORTNITE\n\n*Placa Mãe:* A520\n*Processador:* RYZEN 5 4500\n*Memória RAM:* 2x8GB(16GB) DDR4\n*Placa de Vídeo:* RX 580 8GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER C/ 3FANS RGB\n*Fonte:* 500W\n+ 🖥️ Monitor de 17' POL. *NOVO*\n+ Kit Gamer(Teclado, Mouse, Mousepad e Headset)\n\nPOR APENAS *R$ 4.260,00* em até 10x sem juros!"
+      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n 💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 CSGO 2\n🔫 WARZONE\n🦙 FORTNITE\n\n*Placa Mãe:* A520\n*Processador:* RYZEN 5 4500\n*Memória RAM:* 2x8GB(16GB) DDR4\n*Placa de Vídeo:* RX 580 8GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER C/ 3FANS RGB\n*Fonte:* 500W\n+ 🖥️ Monitor de 17' POL. *NOVO*\n+ Kit Gamer(Teclado, Mouse, Mousepad e Headset)\n\nPOR APENAS *R$ 4.360,00* em até 10x sem juros!"
     },
 
     // R$ 5.490,00 Restore
