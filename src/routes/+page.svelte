@@ -3,14 +3,11 @@
     import IconCopy from "$lib/icons/copy.svelte"
     
     const monitors = [
-        { title: "3GREEN 17' 60Hz (LC0009) ", price: "R$ 390,00" },
-        { title: "3GREEN 19' 75Hz (LC0009G)", price: "R$ 499,99" },
         { title: "3Green 20' 75Hz (LC0010)", price: "R$ 499,00" },
         { title: "HQ ROSA 24' POL CURVO 75HTZ RGB TRASEIRO (LC0090)", price: "R$ R$1.050,00" },
         { title: "GAMER BLUECASE 23,6' POL. 75Hz CURVO OPTIGAMER (LC0066)", price: "R$ R$1.090,00" },
         { title: "GAMER BLUECASE 23,8' POL. 100Hz CURVO OPTIGAMER *PRETO* (LC0066P)", price: "R$ R$1.090,00" },
         { title: "GAMER BLUECASE 23,8' POL. 100Hz CURVO OPTIGAMER *BRANCO* (LC0066B)", price: "R$ R$1.190,00" },
-        { title: "GAMER GRASEP 23.8' 165Hz (LC0055)", price: "R$ 1.390,00" },
         { title: "GAMER Bluecase 27' *CURVO* 165Hz (LC0074)", price: "R$ 1.590,00" },
         { title: "GAMER HUSKY CURVO STORM 27' POL. LED 165hz (LC0063)", price: "R$ R$1.690,00" },
         { title: "GAMER DUEX CURVO 27 POL. 240HZ (LC0039)", price: "R$ R$1.790,00" },
