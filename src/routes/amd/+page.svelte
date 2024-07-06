@@ -58,23 +58,16 @@
       text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n  💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🚔 GTA 5/RP\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 5600\n*Placa Mãe:* A520\n*Memória RAM:* 16GB DDR4\n*Placa de Vídeo:* RTX 3050 6GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER C/ 4FANS RGB \n*Fonte:* 500W\n\nPOR APENAS *R$ 5.190,00* em até 10x sem juros!",
     },
 
-    // R$ 6.390,00
-    {
-      title: "Nº9 - FULL WHITE RTX 3050 6GB",
-      image: "AMD-5690.png",
-      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n  💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🚔 GTA 5/RP\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 4500\n*Placa Mãe:* B550 DUEX\n*Memória RAM:* 2x8GB(16GB) DDR4 3200Mhz *BRANCA*\n*Water Cooler* Rise Mode Aura ICE RGBC 240MM C/ VISOR DE TEMPERATURA*\n*Placa de Vídeo:* RTX 3050 6GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER C/ 3 FANS Controláveis\n*Fonte:* 500W *BRANCA*\n\nPOR APENAS *R$ 6.390,00* em até 10x sem juros!",
-    },
-
     // R$ 6.690,00
     {
-      title: "Nº10 - RYZEN 5600 + RTX 3060 12GB",
+      title: "Nº9 - RYZEN 5600 + RTX 3060 12GB",
       image: "AMD-6690.png",
       text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n 🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n🪓 God Of War\n🔫 Resident Evil 4 Remake\n\n*Processador:* RYZEN 5 5600\n*Placa Mãe:* Biostar B450MX\n*Memória RAM:* 1x16GB DDR4 Fury Beast RGB 320Mhz\n*AIR Cooler* RGB\n*Placa de Vídeo:* RTX 3060 12GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER TGT C/ 3 FANS Controláveis\n*Fonte:* 550W 80PLUS\n\nPOR APENAS *R$ 6.690,00* em até 10x sem juros!",
     },
 
     // R$ 7.590,00
     {
-      title: "Nº11 - RYZEN 5500 + RTX 4060 8GB",
+      title: "Nº10 - RYZEN 5500 + RTX 4060 8GB",
       image: "AMD-8190.png",
       text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n 🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n🪓 God Of War\n🚔 GTA 5/RP\n🔫 Resident Evil 4 Remake\n\n*Processador:* RYZEN 5 5500\n*Placa Mãe:*  B450 ASUS - 4 BANCOS MEMORIA\n*Memória RAM:* 2x8GB DDR4 REDRAGON  3200Mhz\n*WATER COOLER 240MM*\n*Placa de Vídeo:* RTX 4060 8GB\n*Armazenamento:* NVME 512GB\n*Gabinete:* GAMER NZXT 2 FANS BLACK\n*Fonte:* 700W 80PLUS\n\nPOR APENAS *R$ 7.590,00* em até 10x sem juros!",
     },
