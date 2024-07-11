@@ -25,16 +25,16 @@
 
     // R$ 3.490,00
     {
-      title: "Nº4 - RYZEN 4500 + RX 560",
+      title: "Nº4 - RYZEN 3600 + RX 560",
       image: "AMD-3790.png",
-      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n 🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n🚔 GTA 5/RP\n\n*Processador:* RYZEN 5 4500\n*Placa Mãe:* A520\n*Memória RAM:* 2x8GB 2666Mhz DDR4 (16GB)\n*Placa de Vídeo:* RX 560 4GB\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER HAYOM C/3FANS RGB\n*Fonte:* 500W\n\nPOR APENAS *R$ 3.490,00* em até 10x sem juros!",
+      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n 🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n🚔 GTA 5/RP\n\n*Processador:* RYZEN 5 3600\n*Placa Mãe:* A520\n*Memória RAM:* 2x8GB 2666Mhz DDR4 (16GB)\n*Placa de Vídeo:* RX 560 4GB\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER HAYOM C/3FANS RGB\n*Fonte:* 500W\n\nPOR APENAS *R$ 3.490,00* em até 10x sem juros!",
     },
 
     // R$ 3.890,00
     {
-      title: "Nº5 - RYZEN 4500 + RX 580 8GB",
+      title: "Nº5 - RYZEN 3600 + RX 580 8GB",
       image: "AMD-3490.png",
-      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* 💥 FREE FIRE \n 🌎 MINECRAFT \n 🟥 ROBLOX \n🚔 GTA 5/RP\n 🔫 CSGO/VALORANT \n🦙 FORTNITE\n\n*Processador:* RYZEN 5 4500\n*Placa Mãe:* A520\n*Memória RAM:* 2x8GB MANCER 2666Mhz DDR4\n*Placa de Vídeo:* RX 580 8GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER C/3FANS RGB\n*Fonte:* 500W\n\nPOR APENAS *R$ 3.890,00* em até 10x sem juros!",
+      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* 💥 FREE FIRE \n 🌎 MINECRAFT \n 🟥 ROBLOX \n🚔 GTA 5/RP\n 🔫 CSGO/VALORANT \n🦙 FORTNITE\n\n*Processador:* RYZEN 5 3600\n*Placa Mãe:* A520\n*Memória RAM:* 2x8GB MANCER 2666Mhz DDR4\n*Placa de Vídeo:* RX 580 8GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER C/3FANS RGB\n*Fonte:* 500W\n\nPOR APENAS *R$ 3.890,00* em até 10x sem juros!",
     },
 
     // R$ 4.390,00
@@ -46,9 +46,9 @@
 
     // R$ 4.590,00
     {
-      title: "Nº7 - RYZEN 4500 + RTX 3050 6GB",
+      title: "Nº7 - RYZEN 3600 + RTX 3050 6GB",
       image: "AMD-4590.png",
-      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n  💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🚔 GTA 5/RP\n🔫 CSGO 2\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* RYZEN 5 4500\n*Placa Mãe:* A520\n*Memória RAM:* 16GB DDR4 2666Hz\n*Placa de Vídeo:* RTX 3050 6GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER C/ 4FANS RGB \n*Fonte:* 500W\n\nPOR APENAS *R$ 4.590,00* em até 10x sem juros!",
+      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n  💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🚔 GTA 5/RP\n🔫 CSGO 2\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* RYZEN 5 3600\n*Placa Mãe:* A520\n*Memória RAM:* 16GB DDR4 2666Hz\n*Placa de Vídeo:* RTX 3050 6GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER C/ 4FANS RGB \n*Fonte:* 500W\n\nPOR APENAS *R$ 4.590,00* em até 10x sem juros!",
     },
 
     // R$ 5.190,00
