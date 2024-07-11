@@ -55,6 +55,8 @@
     <div>
         <a href="/notebooks">💻 Notebooks</a>
         <span> | </span>
+        <a href="/office">⚙Office⚙</a>
+        <span> | </span>
         <a href="/amd">🔴AMD🔴</a>
         <span> | </span>
         <a href="/intel">🔹Intel🔹</a>
