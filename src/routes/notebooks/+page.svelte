@@ -11,37 +11,30 @@
     //   text: "💻 NOTEBOOK ...\n\n*Processador:* \n*Memória RAM:* \n*Armazenamento:*\n(Acompanha Fonte)\n\n*POR APENAS R$0.000,00* em até 10x sem juros!",
     // },
 
-    // R$1.890,00
-    {
-      title: "Nº1 - (NT0067)NOTEBOOK HP CORE 240 G6",
-      image: "HP-CORE-240_I5-7.png",
-      text: "💻 NOTEBOOK HP CORE 240 G6\n\n*Processador:* I5-7200U (7ª Geração)\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD de 240GB\n(Acompanha Fonte)\n\n*POR APENAS R$1.890,00* em até 10x sem juros!",
-    },
-
     // R$2.890,00
     {
-      title: "Nº2 - (NT0046)DELL I7-6 - 8GB - SSD256",
+      title: "Nº1 - (NT0046)DELL I7-6 - 8GB - SSD256",
       image: "i7_8_256.png",
       text: "💻 NOTEBOOK DELL LATITUDE\n\n*Processador:* i7 6ª GERAÇÃO\n*Memória RAM:* 8GB\n*Armazenamento:* SSD 256GB\n\nDE ~R$3.390,00~ *POR APENAS R$2.890,00* em até 10x sem juros!",
     },
 
     // R$3.290,00
     {
-      title: "Nº3 - (NT0064)NOTEBOOK LENOVO IDEAPAD ",
+      title: "Nº2 - (NT0064)NOTEBOOK LENOVO IDEAPAD ",
       image: "LENOVO-ideapad_I7-8.png",
       text: "💻 NOTEBOOK LENOVO IDEAPAD\n\n*Processador:* i7 8ª GERAÇÃO\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 240GB\n(Acompanha Fonte)\n\n*POR APENAS R$3.290,00* em até 10x sem juros!",
     },
 
     // R$3.390,00
     {
-      title: "Nº4 - (NT0068)NOTEBOOK THINKPAD E490",
+      title: "Nº3 - (NT0068)NOTEBOOK THINKPAD E490",
       image: "THINKPAD-E490_i7-8.png",
       text: "💻 NOTEBOOK THINKPAD E490\n\n*Processador:* i7-8565U (8ª Geração)\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 240GB\n*Placa de Vídeo*: RX 550X 2GB\n(Acompanha Fonte)\n\n*POR APENAS R$3.390,00* em até 10x sem juros!",
     },
 
     // R$3.490,00
     {
-      title: "Nº5 - (NT0065)NOTEBOOK THINKPAD E14",
+      title: "Nº4 - (NT0065)NOTEBOOK THINKPAD E14",
       image: "THINKPAD-E14_i5-10.png",
       text: "💻 NOTEBOOK THINKPAD E14\n\n*Processador:* I5-10210U (10ª Geração)\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 240GB\n(Acompanha Fonte)\n\n*POR APENAS R$3.490,00* em até 10x sem juros!",
     },
