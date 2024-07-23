@@ -3,6 +3,7 @@
     import IconCopy from "$lib/icons/copy.svelte"
     
     const monitors = [
+        { title: "BLUECASE 19' POL. 75Hz (LC0042)", price: "R$ R$550,00" },
         { title: "3GREEN 24' POL. 75Hz (LC0014)", price: "R$ R$990,00" },
         { title: "GAMER BLUECASE 23,6' POL. 75Hz CURVO OPTIGAMER (LC0066)", price: "R$ R$1.090,00" },
         { title: "GAMER BLUECASE 23,8' POL. 100Hz CURVO OPTIGAMER *PRETO* (LC0066P)", price: "R$ R$1.090,00" },
