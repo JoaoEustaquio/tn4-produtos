@@ -31,13 +31,6 @@
       image: "THINKPAD-E490_i7-8.png",
       text: "💻 NOTEBOOK THINKPAD E490\n\n*Processador:* i7-8565U (8ª Geração)\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 240GB\n*Placa de Vídeo*: RX 550X 2GB\n(Acompanha Fonte)\n\n*POR APENAS R$3.390,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão (Débito ou Crédito) em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
     },
-
-    // R$3.490,00
-    {
-      title: "Nº4 - (NT0065)NOTEBOOK THINKPAD E14",
-      image: "THINKPAD-E14_i5-10.png",
-      text: "💻 NOTEBOOK THINKPAD E14\n\n*Processador:* I5-10210U (10ª Geração)\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 240GB\n(Acompanha Fonte)\n\n*POR APENAS R$3.490,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão (Débito ou Crédito) em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
-    },
   ];
 
   function copyToClipboard(product: { text: string }) {
