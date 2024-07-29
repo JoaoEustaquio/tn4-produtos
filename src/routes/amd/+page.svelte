@@ -27,7 +27,7 @@
     {
       title: "Nº4 - RYZEN 5700G",
       image: "AMD-3290.png",
-      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n 🚔 GTA 5/RP\n💥 LEAGUE OF LEGENDS\n🌎 ARK (Grâficos Médios/Baixos)\n⚽ EA FC 24\n🔫 VALORANT\n🔫 WARZONE (Grâficos Médios/Baixos)\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 5700G\n*Placa Mãe:* A520\n*Memória RAM:* 2x8GB 2666Mhz DDR4 (16GB)\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER C/4 FANS RGB\n*Fonte:* 500W\n\nDE ~R$3.690,00~ POR APENAS *R$ 3.290,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão - Débito *á vista* ou Crédito em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
+      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n 🚔 GTA 5/RP\n💥 LEAGUE OF LEGENDS\n🌎 ARK (Grâficos Médios/Baixos)\n⚽ EA FC 24\n🔫 VALORANT\n🔫 WARZONE (Grâficos Médios/Baixos)\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 7 5700G\n*Placa Mãe:* A520\n*Memória RAM:* 2x8GB 2666Mhz DDR4 (16GB)\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER C/4 FANS RGB\n*Fonte:* 500W\n\nDE ~R$3.690,00~ POR APENAS *R$ 3.290,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão - Débito *á vista* ou Crédito em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
     },
 
     // R$ 3.490,00
