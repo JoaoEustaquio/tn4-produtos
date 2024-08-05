@@ -13,14 +13,14 @@
     {
       title: "Nº2 (PC0017) PC GAMER RYZEN 4600G",
       image: "(AMD)PC0017.png",
-      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE (GRÁFICOS Médios/Baixos)\n🔫 CSGO 2\n🦙 FORTNITE\n🚔 GTA 5/RP\n\n*Placa Mãe:* A520\n*Processador:* RYZEN 5 4600G\n*Memória RAM:* 2x8GB(16GB) DDR4\n*Placa de Vídeo:* VEGA 7 (INTEGRADO)\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER C/ 4FANS RGB \n*Fonte:* 500W\n\nPOR APENAS *R$ 2.390,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão - Débito *á vista* ou Crédito em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
+      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n 🚔 GTA 5/RP\n💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE (GRÁFICOS Médios/Baixos)\n🔫 CSGO 2\n🦙 FORTNITE\n🚔 GTA 5/RP\n\n*Placa Mãe:* A520\n*Processador:* RYZEN 5 4600G\n*Memória RAM:* 2x8GB(16GB) DDR4\n*Placa de Vídeo:* VEGA 7 (INTEGRADO)\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER C/ 4FANS RGB \n*Fonte:* 500W\n\nPOR APENAS *R$ 2.390,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão - Débito *á vista* ou Crédito em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
     },
 
     // R$ 2.690,00
     {
       title: "Nº3 - (PC0001) GAMER RYZEN 5600G",
       image: "(AMD)PC0001.png",
-      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n  💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE(GRÁFICOS Médios/Baixos)\n🔫 CSGO 2\n🦙 FORTNITE\n🚔 GTA 5/RP\n\n*Placa Mãe:* A520\n*Processador:* RYZEN 5 5600G\n*Memória RAM:* 2x8GB(16GB) DDR4\n*Placa de Vídeo:* VEGA 7 (INTEGRADO)\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER C/ 4FANS RGB \n*Fonte:* 500W\n\nDE ~R$ 2.990,00~ POR APENAS *R$ 2.690,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão - Débito *á vista* ou Crédito em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
+      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n 🚔 GTA 5/RP\n  💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE(GRÁFICOS Médios/Baixos)\n🔫 CSGO 2\n🦙 FORTNITE\n🚔 GTA 5/RP\n\n*Placa Mãe:* A520\n*Processador:* RYZEN 5 5600G\n*Memória RAM:* 2x8GB(16GB) DDR4\n*Placa de Vídeo:* VEGA 7 (INTEGRADO)\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER C/ 4FANS RGB \n*Fonte:* 500W\n\nDE ~R$ 2.990,00~ POR APENAS *R$ 2.690,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão - Débito *á vista* ou Crédito em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
     },
 
     // R$ 3.290,00
@@ -69,7 +69,7 @@
     {
       title: "Nº10 - RYZEN 5600 + RTX 3060 12GB",
       image: "AMD-6690.png",
-      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n 🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n🪓 God Of War\n🔫 Resident Evil 4 Remake\n\n*Processador:* RYZEN 5 5600\n*Placa Mãe:* Biostar B450MX\n*Memória RAM:* 1x16GB DDR4 Fury Beast RGB 320Mhz\n*AIR Cooler* RGB\n*Placa de Vídeo:* RTX 3060 12GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER TGT C/ 3 FANS Controláveis\n*Fonte:* 550W 80PLUS\n\nPOR APENAS *R$ 6.690,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão - Débito *á vista* ou Crédito em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
+      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n 🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n🪓 God Of War\n🔫 Resident Evil 4 Remake\n 🚔 GTA 5/RP\n\n*Processador:* RYZEN 5 5600\n*Placa Mãe:* Biostar B450MX\n*Memória RAM:* 1x16GB DDR4 Fury Beast RGB 320Mhz\n*AIR Cooler* RGB\n*Placa de Vídeo:* RTX 3060 12GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER TGT C/ 3 FANS Controláveis\n*Fonte:* 550W 80PLUS\n\nPOR APENAS *R$ 6.690,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão - Débito *á vista* ou Crédito em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
     },
 
     // R$ 7.590,00
