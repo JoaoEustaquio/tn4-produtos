@@ -5,13 +5,11 @@
     const monitors = [
         { title: "BLUECASE 19' POL. 75Hz (LC0042)", price: "R$ R$550,00" },
         { title: "3GREEN 24' POL. 75Hz (LC0014)", price: "R$ R$990,00" },
-        { title: "GAMER BLUECASE 23,6' POL. 75Hz CURVO OPTIGAMER (LC0066)", price: "R$ R$1.090,00" },
         { title: "GAMER BLUECASE 23,8' POL. 100Hz CURVO OPTIGAMER *PRETO* (LC0066P)", price: "R$ R$1.090,00" },
         { title: "GAMER BLUECASE 23,8' POL. 100Hz CURVO OPTIGAMER *BRANCO* (LC0066B)", price: "R$ R$1.190,00" },
         { title: "GAMER DUEX CURVO 24 POL. 165HZ (LC0018)", price: "R$ R$1.190,00" },
         { title: "GAMER DUEX CURVO 31,5 POL. 75HZ (LC0017)", price: "R$ R$1.190,00" },
         { title: "GAMER Bluecase 27' *CURVO* 165Hz (LC0074)", price: "R$ 1.590,00" },
-        { title: "GAMER HUSKY CURVO STORM 27' POL. LED 165hz (LC0063)", price: "R$ R$1.690,00" },
         { title: "GAMER DUEX CURVO 27 POL. 240HZ (LC0039)", price: "R$ R$1.790,00" },
         { title: "GAMER REDRAGON SURTR 27 POL., 180HZ, BRANCO (LC0075)", price: "R$ R$1.890,00" },
         { title: "GAMER ASROCK PhANTOM GAMING, 27 Pol, Curvo (LC0076)", price: "R$ R$1.890,00" },
