@@ -78,6 +78,13 @@
       image: "AMD-8190.png",
       text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n 🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n🪓 God Of War\n🚔 GTA 5/RP\n🔫 Resident Evil 4 Remake\n\n*Processador:* RYZEN 5 5500\n*Placa Mãe:*  B450 ASUS - 4 BANCOS MEMORIA\n*Memória RAM:* 2x16GB DDR4 REDRAGON  3200Mhz\n*WATER COOLER 240MM*\n*Placa de Vídeo:* RTX 4060 8GB\n*Armazenamento:* NVME 512GB\n*Gabinete:* GAMER NZXT 2 FANS BLACK\n*Fonte:* 700W 80PLUS\n\nPOR APENAS *R$ 7.890,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão - Débito *á vista* ou Crédito em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
     },
+
+    // R$ 7.590,00
+    {
+      title: "Nº12",
+      image: "RYZEN5700X.png",
+      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n 🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n🪓 God Of War\n🚔 GTA 5/RP\n🔫 Resident Evil 4 Remake\n\n*Processador:* RYZEN 5 5700X\n*Placa Mãe:*  B450M STEEL LEGEND\n*Memória RAM:* 2x8GB DDR4 3200Mhz\n*WATER COOLER GAMDIAS AURA 240MM*\n*Placa de Vídeo:* RTX 4060 8GB\n*Armazenamento:* NVME 512GB\n*Gabinete:* GAMER PCYES FORCEFIELD BLACK VULCAN *C/6 FANS*\n*Fonte:* 600W 80PLUS\n\nPOR APENAS *R$ 8.690,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão - Débito *á vista* ou Crédito em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
+    },
   ];
 
   function copyToClipboard(product: { text: string }) {
