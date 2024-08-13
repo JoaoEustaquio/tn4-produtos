@@ -15,7 +15,7 @@
     {
       title: "Nº1 - (NT0046)DELL I7-6 - 8GB - SSD256",
       image: "i7_8_256.png",
-      text: "💻 NOTEBOOK DELL LATITUDE\n\n*Processador:* i7 6ª GERAÇÃO\n*Memória RAM:* 8GB\n*Armazenamento:* SSD 256GB\n\nDE ~R$3.390,00~ *POR APENAS R$2.890,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão (Débito ou Crédito) em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
+      text: "💻 NOTEBOOK DELL LATITUDE\n\n*Processador:* i7 6ª GERAÇÃO\n*Memória RAM:* 8GB\n*Armazenamento:* SSD 256GB\n\nDE ~R$3.390,00~ *POR APENAS R$2.590,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão (Débito ou Crédito) em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
     },
 
     // R$3.290,00
