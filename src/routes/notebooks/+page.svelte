@@ -22,7 +22,7 @@
     {
       title: "Nº2 - (NT0064)NOTEBOOK LENOVO IDEAPAD ",
       image: "LENOVO-ideapad_I7-8.png",
-      text: "💻 NOTEBOOK LENOVO IDEAPAD\n\n*Processador:* i7 8ª GERAÇÃO\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 240GB\n(Acompanha Fonte)\n\n*POR APENAS R$3.290,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão (Débito ou Crédito) em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
+      text: "💻 NOTEBOOK LENOVO IDEAPAD\n\n*Processador:* i7 8ª GERAÇÃO\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 240GB\n(Acompanha Fonte)\n\nDE ~R$3.290,00~ POR APENAS *R$2.690,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão (Débito ou Crédito) em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
     },
 
     // R$3.390,00
