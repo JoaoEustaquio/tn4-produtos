@@ -4,6 +4,7 @@
     
     const monitors = [
         { title: "BLUECASE 19' POL. 75Hz (LC0042)", price: "R$ R$550,00" },
+        { title: "VXPRO 21,5' POL. 75Hz (LC0019)", price: "R$ R$690,00" },
         { title: "3GREEN 24' POL. 75Hz (LC0014)", price: "R$ R$990,00" },
         { title: "GAMER BLUECASE 23,8' POL. 100Hz CURVO OPTIGAMER *BRANCO* (LC0066B)", price: "R$ R$1.190,00" },
         { title: "GAMER DUEX CURVO 24 POL. 165HZ (LC0018)", price: "R$ R$1.190,00" },
