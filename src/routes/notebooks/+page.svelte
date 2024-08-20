@@ -11,37 +11,30 @@
     //   text: "💻 NOTEBOOK ...\n\n*Processador:* \n*Memória RAM:* \n*Armazenamento:*\n(Acompanha Fonte)\n\n*POR APENAS R$0.000,00* em até 10x sem juros!",
     // },
 
-    // R$1.490,00
-    {
-      title: "Nº1 - (NT00) THINKPAD T440S",
-      image: "THINKPAD-T440S.png",
-      text: "💻 NOTEBOOK LENOVO THINKPAD T440S\n\n*Processador:* i5 de 4ª GERAÇÃO\n*Memória RAM:* 8GB\n*Armazenamento:* SSD 240GB\n\nPOR APENAS R$1.490,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão (Débito ou Crédito) em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
-    },
-
     // R$1.590,00
     {
-      title: "Nº2 - (NT00) NOTEBOOK DELL LATITUDE",
+      title: "Nº1 - (NT00) NOTEBOOK DELL LATITUDE",
       image: "DELL-1590.png",
       text: "💻 NOTEBOOK DELL LATITUDE\n\n*Processador:* i5 de 5ª GERAÇÃO\n*Memória RAM:* 8GB\n*Armazenamento:* SSD 240GB\n\nPOR APENAS R$1.590,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão (Débito ou Crédito) em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
     },
 
     // R$2.890,00
     {
-      title: "Nº3 - (NT0046)DELL I7-6 - 8GB - SSD256",
+      title: "Nº2 - (NT0046)DELL I7-6 - 8GB - SSD256",
       image: "i7_8_256.png",
       text: "💻 NOTEBOOK DELL LATITUDE\n\n*Processador:* i7 6ª GERAÇÃO\n*Memória RAM:* 8GB\n*Armazenamento:* SSD 256GB\n\nDE ~R$3.390,00~ *POR APENAS R$2.590,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão (Débito ou Crédito) em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
     },
 
     // R$3.290,00
     {
-      title: "Nº4 - (NT0064)NOTEBOOK LENOVO IDEAPAD ",
+      title: "Nº3 - (NT0064)NOTEBOOK LENOVO IDEAPAD ",
       image: "LENOVO-ideapad_I7-8.png",
       text: "💻 NOTEBOOK LENOVO IDEAPAD\n\n*Processador:* i7 8ª GERAÇÃO\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 240GB\n(Acompanha Fonte)\n\nDE ~R$3.290,00~ POR APENAS *R$2.690,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão (Débito ou Crédito) em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
     },
 
     // R$3.390,00
     {
-      title: "Nº5 - (NT0068)NOTEBOOK THINKPAD E490",
+      title: "Nº4 - (NT0068)NOTEBOOK THINKPAD E490",
       image: "THINKPAD-E490_i7-8.png",
       text: "💻 NOTEBOOK THINKPAD E490\n\n*Processador:* i7-8565U (8ª Geração)\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 240GB\n*Placa de Vídeo*: RX 550X 2GB\n(Acompanha Fonte)\n\nDE ~R$3.390,00~ POR APENAS *R$2.890,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão (Débito ou Crédito) em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
     },
