@@ -65,30 +65,37 @@
       text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n  💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🚔 GTA 5/RP\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 5600\n*Placa Mãe:* A520\n*Memória RAM:* 16GB DDR4\n*Placa de Vídeo:* RTX 3050 6GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER C/ 4FANS RGB \n*Fonte:* 500W\n\nPOR APENAS *R$ 5.190,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão - Débito *á vista* ou Crédito em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
     },
 
+    // R$ 5.590,00
+    {
+      title: "Nº10 - RYZEN 5500 + RX 580 MANCE",
+      image: "AMD-5590.png",
+      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n💥 GTA RP\n🌎 MINECRAFT\n🔫 VALORANT\n🔫 WARZONE\n🚔 GTA 5/RP\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 5500\n*Placa Mãe:* DUEX B550ZG WHITE\n*Memória RAM:* 2x8GB XPG SPECTRIX WHITE RGB DDR4 (16GB)\n*Placa de Vídeo:* RX 580 8GB\n*Water Cooler*: GAMDIAS AURA GL240 WHITE\n*Armazenamento:* SSD 480GB\n*Gabinete:* FORTREK CRUISER WHITE C/3 FANS ARGB\n*Fonte:* 500W *BRANCA*\n\nPOR APENAS *R$ 5.590,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão - Débito *á vista* ou Crédito em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
+    },
+
      // R$ 6.090,00
      {
-      title: "Nº10 - RYZEN 3700x + GTX 1650 4GB",
+      title: "Nº11 - RYZEN 3700x + GTX 1650 4GB",
       image: "AMD-6090.png",
       text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n💥 LEAGUE OF LEGENDS\n🌎 MINECRAF\n⚽ EAFC 23E\n🔫 VALORANT\n🔫 WARZONE\n🦙 FORTNITE\n\n*Processador:* RYZEN 7 3700x\n*Placa Mãe:* B450MX-S\n*Memória RAM:* 2x8GB 3200MHZ RGB DDR4 (16GB)\n*Water Cooler:* ONE POWER SPECTRA 360mm\n*Placa de Vídeo:* GTX 1650 4GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* PCYES SET WHITE GHOST\n*Fonte:* 600w 80PLUS\n\nPOR APENAS *R$ 6.090,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão - Débito *á vista* ou Crédito em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
     },
 
     // R$ 6.690,00
     {
-      title: "Nº11 - RYZEN 5600 + RTX 3060 12GB",
+      title: "Nº12 - RYZEN 5600 + RTX 3060 12GB",
       image: "AMD-6690.png",
       text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n 🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n🪓 God Of War\n🔫 Resident Evil 4 Remake\n 🚔 GTA 5/RP\n\n*Processador:* RYZEN 5 5600\n*Placa Mãe:* Biostar B450MX\n*Memória RAM:* 1x16GB DDR4 Fury Beast RGB 320Mhz\n*AIR Cooler* RGB\n*Placa de Vídeo:* RTX 3060 12GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER TGT C/ 3 FANS Controláveis\n*Fonte:* 550W 80PLUS\n\nPOR APENAS *R$ 6.690,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão - Débito *á vista* ou Crédito em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
     },
 
     // R$ 7.590,00
     {
-      title: "Nº12 - RYZEN 5500 + RTX 4060 8GB",
+      title: "Nº13 - RYZEN 5500 + RTX 4060 8GB",
       image: "AMD-8190.png",
       text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n 🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n🪓 God Of War\n🚔 GTA 5/RP\n🔫 Resident Evil 4 Remake\n\n*Processador:* RYZEN 5 5500\n*Placa Mãe:*  B450 ASUS - 4 BANCOS MEMORIA\n*Memória RAM:* 2x16GB DDR4 REDRAGON  3200Mhz\n*WATER COOLER 240MM*\n*Placa de Vídeo:* RTX 4060 8GB\n*Armazenamento:* NVME 512GB\n*Gabinete:* GAMER NZXT 2 FANS BLACK\n*Fonte:* 700W 80PLUS\n\nPOR APENAS *R$ 7.890,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão - Débito *á vista* ou Crédito em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
     },
 
     // R$ 7.590,00
     {
-      title: "Nº13",
+      title: "Nº14 - Ryzen 5700X + RTX 4060 ",
       image: "RYZEN5700X.png",
       text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n 🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n🪓 God Of War\n🚔 GTA 5/RP\n🔫 Resident Evil 4 Remake\n\n*Processador:* RYZEN 7 5700X\n*Placa Mãe:*  B450M STEEL LEGEND\n*Memória RAM:* 2x8GB DDR4 3200Mhz\n*WATER COOLER GAMDIAS AURA 240MM*\n*Placa de Vídeo:* RTX 4060 8GB\n*Armazenamento:* NVME 512GB\n*Gabinete:* GAMER PCYES FORCEFIELD BLACK VULCAN *C/6 FANS*\n*Fonte:* 600W 80PLUS\n\nPOR APENAS *R$ 8.690,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão - Débito *á vista* ou Crédito em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
     },
