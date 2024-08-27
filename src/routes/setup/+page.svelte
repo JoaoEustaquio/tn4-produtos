@@ -6,7 +6,7 @@
     {
       title: "Nº1 - (PC0013)i5 3ªSETUP COMPLETO R$1.690,00",
       image: "PC0013.png",
-      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n 💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 FREE FIRE(Gráfico Baixo, SMART GAGA)\n\n*Processador:* I5 de 3ª Geração\n*Placa Mãe:* H61 (LGA 1155)\n*Memória RAM:* 1x8GB(8GB)\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER C/ LED RGB\n*Fonte:* 500W\n\n +*KIT GAMER:* 🖥️ Monitor 19' Pol. Seminovo , ⌨️ TECLADO, 🖱️ MOUSE, MOUSEPAD 🎧 HEADSET\n\n*R$ 1.690,00* em até 10x sem juros!",
+      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n 💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n\n*Processador:* I5 de 3ª Geração\n*Placa Mãe:* H61 (LGA 1155)\n*Memória RAM:* 1x8GB(8GB)\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER C/ LED RGB\n*Fonte:* 500W\n\n +*KIT GAMER:* 🖥️ Monitor 19' Pol. Seminovo , ⌨️ TECLADO, 🖱️ MOUSE, MOUSEPAD 🎧 HEADSET\n\n*R$ 1.690,00* em até 10x sem juros!",
     },
 
     // R$2.290,00
