@@ -11,7 +11,6 @@
         { title: "GAMER DUEX CURVO 31,5 POL. 75HZ (LC0017)", price: "R$ R$1.190,00" },
         { title: "GAMER Bluecase 27' *CURVO* 165Hz (LC0074)", price: "R$ 1.590,00" },
         { title: "GAMER DUEX CURVO 27 POL. 240HZ (LC0039)", price: "R$ R$1.790,00" },
-        { title: "GAMER REDRAGON SURTR 27 POL., 180HZ, BRANCO (LC0075)", price: "R$ R$1.890,00" },
         { title: "GAMER ASROCK PhANTOM GAMING, 27 Pol, Curvo (LC0076)", price: "R$ R$1.890,00" },
         { title: "GAMER MANCER VALAK 32' CURVO 165HZ (LC0051M) ", price: "R$ R$2.190,00" },
     ]
