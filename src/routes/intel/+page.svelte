@@ -34,7 +34,7 @@
     {
       title: "Nº5 - (PC0040)i5 de 6ª + RX 560",
       image: "i5-3590.png",
-      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n🌎 MINECRAFT\n🟥 ROBLOX\n🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n\n*Processador:* Processador:* I5-6600 (6ª Geração)\n*Placa Mãe:* H110\n*Memória RAM:* 2x8 (16GB) DDR4 3200Mhz\n*Placa de Vídeo:* RX 560 4GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER MINI AQUARIO C/3FANS\n*Fonte:* 500W\n\n*R$ 3.590,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão - Débito á vista ou Crédito em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
+      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n🌎 MINECRAFT\n🟥 ROBLOX\n🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n\n*Processador:* Processador:* I5-6600 (6ª Geração)\n*Placa Mãe:* H110\n*Memória RAM:* 2x8(16GB) DDR4\n*Placa de Vídeo:* RX 560 4GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER MINI AQUARIO C/3FANS\n*Fonte:* 500W\n\n*R$ 3.590,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão - Débito á vista ou Crédito em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
     },
 
     // R$4.290,00
