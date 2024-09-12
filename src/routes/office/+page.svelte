@@ -4,9 +4,9 @@
   const products = [
     // R$ 1.790,00
     {
-      title: "(DT0087)Nº1 Thinkcentre M910",
-      image: ".png",
-      text: "*Placa Mãe:* \n*Processador:* Intel i7 de i7ª Geração\n*Memória RAM:* \n*Armazenamento:* SSD 240GB\n\n*R$ * em até 10x sem juros!",
+      title: "Nº1 - (DT0087)Thinkcentre M910",
+      image: "DT0087.png",
+      text: "*Placa Mãe:* \n*Processador:* Intel i7 de i6ª Geração\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 240GB\n*Fonte:* 500W 80PLUS Platinum\n\nDe ~R$1.990,00~ Por apenas *R$1.690,00*em até 10x sem juros!",
     },
   ];
 
