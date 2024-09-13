@@ -11,6 +11,13 @@
     //   text: "💻 NOTEBOOK ...\n\n*Processador:* \n*Memória RAM:* \n*Armazenamento:*\n(Acompanha Fonte)\n\n*POR APENAS R$0.000,00* em até 10x sem juros!",
     // },
 
+    // R$1.390,00
+    {
+      title: "(CODE)LENOVO THINKPAD T440s ",
+      image: "T440s.png",
+      text: "💻 NOTEBOOK LENOVO THINKPAD T440s\n\n*Processador:* i5 de 4ª Geração\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 120GB\n(Acompanha Fonte)\n\n*POR APENAS R$1.390,00* em até 10x sem juros!",
+    },
+
 
     // R$2.890,00
     {
