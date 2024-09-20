@@ -3,15 +3,11 @@
     import IconCopy from "$lib/icons/copy.svelte"
     
     const monitors = [
-        { title: "BLUECASE 19' POL. 75Hz (LC0042)", price: "R$ R$550,00" },
+        { title: "BLUECASE 19' POL. 75Hz (LC0042)", price: "R$ R$590,00" },
         { title: "VXPRO 21,5' POL. 75Hz (LC0019)", price: "R$ R$690,00" },
         { title: "3GREEN 24' POL. 75Hz (LC0014)", price: "R$ R$990,00" },
         { title: "GAMER BLUECASE 23,8' POL. 100Hz CURVO OPTIGAMER *BRANCO* (LC0066B)", price: "R$ R$1.190,00" },
-        { title: "GAMER DUEX CURVO 24 POL. 165HZ (LC0018)", price: "R$ R$1.190,00" },
         { title: "GAMER DUEX CURVO 31,5 POL. 75HZ (LC0017)", price: "R$ R$1.190,00" },
-        { title: "GAMER Bluecase 27' *CURVO* 165Hz (LC0074)", price: "R$ 1.590,00" },
-        { title: "GAMER DUEX CURVO 27 POL. 240HZ (LC0039)", price: "R$ R$1.790,00" },
-        { title: "GAMER ASROCK PhANTOM GAMING, 27 Pol, Curvo (LC0076)", price: "R$ R$1.890,00" },
         { title: "GAMER MANCER VALAK 32' CURVO 165HZ (LC0051M) ", price: "R$ R$2.190,00" },
     ]
 
