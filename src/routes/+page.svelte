@@ -62,7 +62,7 @@
         <span> | </span>
         <a href="/setup">⌨🖱 Setup Completo</a>
         <span> | </span>
-        <a href="/setup">🖌 Setup Personalizado</a>
+        <a href="/setupCustom">🖌 Setup Personalizado</a>
         <span> | </span>
         <a href="/frete">🚚 Medidas Frete</a>
     </div>      
