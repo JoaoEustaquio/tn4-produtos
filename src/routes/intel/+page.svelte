@@ -48,7 +48,7 @@
     {
       title: "Nº7 - i3 de 13ª + GTX 1650 4GB",
       image: "N4-INTEL.png",
-      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n 🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* I3-13100F (13ª Geração)\n*Placa Mãe:* H610 (LGA 1700)\n*Memória RAM:* 2x8GB DDR4\n*Placa de Vídeo:* GTX 1650 4GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* HAYOM BRANCO C/3 FANS\n*Fonte:* 500W\n\n*R$ 4.390,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão - Débito á vista ou Crédito em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
+      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n 🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* I3-13100F (13ª Geração)\n*Placa Mãe:* H610 (LGA 1700)\n*Memória RAM:* 2x8GB DDR4\n*Placa de Vídeo:* rtx 3050 6GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* HAYOM BRANCO C/3 FANS\n*Fonte:* 500W\n\n*R$ 4.990,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão - Débito á vista ou Crédito em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
     },
 
     // R$4.590,00
