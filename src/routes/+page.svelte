@@ -15,6 +15,7 @@
     ]
 
     const gpus = [
+        { title: "GT 730 4GB", price: "R$ 490,00" },
         { title: "RX 550 4GB", price: "R$ 790,00" },
         { title: "RADEON RX 560 4GB GDDR5 128 BITS - PCWINMAX", price: "R$ 1,090,99" },
         { title: "RX 580 BRX 8GB", price: "R$ 1.290,00" },
