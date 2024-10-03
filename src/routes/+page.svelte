@@ -60,7 +60,9 @@
         <span> | </span>
         <a href="/intel">🔹Intel🔹</a>
         <span> | </span>
-        <a href="/setup">Setup Completo</a>
+        <a href="/setup">⌨🖱 Setup Completo</a>
+        <span> | </span>
+        <a href="/setup">🖌 Setup Personalizado</a>
         <span> | </span>
         <a href="/frete">🚚 Medidas Frete</a>
     </div>      
