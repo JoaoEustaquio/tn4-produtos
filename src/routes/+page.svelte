@@ -65,6 +65,8 @@
         <span> | </span>
         <a href="/setupCustom">🖌 Setup Personalizado</a>
         <span> | </span>
+        <a href="/pcCustom">🖌 PCs Personalizado</a>
+        <span> | </span>
         <a href="/frete">🚚 Medidas Frete</a>
     </div>      
 
