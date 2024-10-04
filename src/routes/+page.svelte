@@ -20,7 +20,7 @@
         { title: "RADEON RX 560 4GB GDDR5 128 BITS - PCWINMAX", price: "R$ 1,090,99" },
         { title: "RX 580 BRX 8GB", price: "R$ 1.290,00" },
         { title: "GTX 1650 4GB VENTUS", price: "R$ 1.290,00" },
-        { title: "RTX 3050 6GB", price: "R$ 1.990,00" },
+        { title: "RTX 3050 6GB", price: "R$ 1.890,00" },
         { title: "RTX 3060 12GB", price: "R$ 2.490,00" },
         { title: "RTX 4060 8GB", price: "R$ 2.790,00" },
         { title: "RTX 3060 TI PLUS 8GB GALAX, GDDR6X, 256BITS ", price: "R$3.390,00" },
