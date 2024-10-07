@@ -39,7 +39,7 @@
 
     // R$4.290,00
     {
-      title: "Nº6 - I3-10100F + RX 560 4GB",
+      title: "Nº6 - (PC0050)I3-10100F + RX 560 4GB",
       image: "INTEL-4290.png",
       text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n💥 FREE FIRE\n🔫 CSGO/VALORANT\n🔫 WARZONE\n🦙 FORTNITE\n🚔 GTA 5/RP\n\n*Processador:* I3-10100F (10ª Geração)\n*Placa Mãe:*ASROCK H510M\n*Memória RAM:* 2x8GB DDR4(16GB)\n*Placa de Vídeo:* RX 560 4GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER C/3FANS RGB\n*Fonte:* 500W\n\n*R$ 4.290,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão - Débito á vista ou Crédito em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
     },
