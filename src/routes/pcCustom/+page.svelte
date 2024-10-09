@@ -47,7 +47,7 @@
     // R$ 8.590,00
     {
       title: "Nº7 - Ryzen 5500 + RTX 3060TI + WATER COOLER DEEPCOOL",
-      image: "AMD5500 + 3060.png",
+      image: "AMD5500+3060.png",
       text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n  💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🚔 GTA 5/RP\n🔫 CSGO 2\n🦙 FORTNITE\n🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* RYZEN 5 5500\n*Placa Mãe:* ASUS B450M TUF GAMING\n*Memória RAM:* 2x16 REDRAGON SOLAR RGB 3600Mhz (32GB) DDR4\n*WATER COOLER DEEPCOOL CASTLE 240 V2 RGB*\n*Placa de Vídeo:* RTX 3060TI 3X RGB 8GB\n*Armazenamento:* SSD NVME M.2 512GB\n*Gabinete:* GAMER C/ 2FANS RGB\n*Fonte:* 700W 80PLUS\n\nPOR APENAS *R$ 8.590,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão - Débito á vista ou Crédito em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
     },
 
