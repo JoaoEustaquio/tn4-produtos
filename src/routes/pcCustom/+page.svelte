@@ -17,11 +17,11 @@
     },
 
 
-    // R$5.790,00
+    // R$6.390,00
     {
       title: "Nº3- I5 DE 10ª + RTX 3050 + GABINETE STORM-Z",
       image: "SETUP - N10.png",
-      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n 🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* I5-10400F (10ª Geração)\n*Placa Mãe:* B560-PRO MSI (LGA 1200)\n*Memória RAM:* 2x8GB DDR4 FURY BEAST 3200MHZ (16GB)\n*Placa de Vídeo:* RTX 3050 6GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* STORM-Z SHARP\n*Fonte:* 500W PFV ATIVO\n\n*R$ 5.790,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão - Débito á vista ou Crédito em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
+      text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n 🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* I5-10400F (10ª Geração)\n*Placa Mãe:* B560-PRO MSI (LGA 1200)\n*Memória RAM:* 2x8GB DDR4 FURY BEAST 3200MHZ (16GB)\n*Placa de Vídeo:* RTX 3050 6GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* STORM-Z SHARP\n*Fonte:* 500W PFV ATIVO\n\n*R$ 6.390,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão - Débito á vista ou Crédito em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
     },
 
     // R$ 7.590,00
