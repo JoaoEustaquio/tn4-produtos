@@ -15,14 +15,14 @@
     {
       title: "Nº1 - (NT0002)LENOVO THINKPAD T440s ",
       image: "T440s.png",
-      text: "💻 NOTEBOOK LENOVO THINKPAD T440s\n\n*Processador:* i5 de 4ª Geração\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 120GB\n(Acompanha Fonte)\n\n*POR APENAS R$1.390,00* em até 10x sem juros!",
+      text: "💻 NOTEBOOK LENOVO THINKPAD T440s\n\n*Processador:* i5 de 4ª Geração\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 120GB\n(Acompanha Fonte)\n\n*POR APENAS R$1.390,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão - Débito á vista ou Crédito em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
     },
 
     // R$1.590,00
     {
       title: "Nº2 - (NT0021)HP ULTRABOOK 840 ",
       image: "NT0021.png",
-      text: "💻 NOTEBOOK HP ULTRABOOK 840\n\n*Processador:* i5 de 4ª Geração\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 120GB\n(Acompanha Fonte)\n\n*POR APENAS R$1.590,00* em até 10x sem juros!",
+      text: "💻 NOTEBOOK HP ULTRABOOK 840\n\n*Processador:* i5 de 4ª Geração\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 120GB\n(Acompanha Fonte)\n\n*POR APENAS R$1.590,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão - Débito á vista ou Crédito em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
     },
 
     // R$2.590,00
