@@ -21,7 +21,7 @@
     // R$1.590,00
     {
       title: "Nº2 - (NT0021)HP ULTRABOOK 840 ",
-      image: ".png",
+      image: "NT0021.png",
       text: "💻 NOTEBOOK HP ULTRABOOK 840\n\n*Processador:* i5 de 4ª Geração\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 120GB\n(Acompanha Fonte)\n\n*POR APENAS R$1.590,00* em até 10x sem juros!",
     },
 
