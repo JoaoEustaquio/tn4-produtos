@@ -26,7 +26,7 @@
     // R$ 6.490,00
     {
       title: "Nº4 - (PC0036) PC GAMER RYZEN 5600 + RTX 3050",
-      image: "6490.png",
+      image: "PC0036.png",
       text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n  💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🚔 GTA 5/RP\n🔫 CSGO 2\n🦙 FORTNITE\n🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* RYZEN 5 5600\n*Placa Mãe:* B450MX-S\n*Memória RAM:* 2x8 XPG DG50 BRANCA RGB(16GB) DDR4\n*Water Cooler:* EVOLUT LUMINI FULL RGB WHITE\n*Placa de Vídeo:* RTX 3050 6GB\n*Armazenamento:* SSD NVME 512GB\n*Gabinete:* GAMER PCYES BOLTER WHITE GHOST C/3FANS RGB\n*Fonte:* 500W WHITE\n\nPOR APENAS *R$ 6.490,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão - Débito á vista ou Crédito em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
     },
 
