@@ -46,8 +46,8 @@
 
     // R$ 4.490,00
     {
-      title: "Nº7 - RYZEN 4500 + RTX 3050 6GB",
-      image: "AMD-4590.png",
+      title: "Nº7 - (PC0062) RYZEN 4500 + RTX 3050 6GB",
+      image: "PC0062.png",
       text: "*UMA BASE DO QUE RODARIA NO COMPUTADOR:* \n  💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🚔 GTA 5/RP\n🔫 CSGO 2\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* RYZEN 5 4500\n*Placa Mãe:* A520\n*Memória RAM:* 16GB DDR4 2666Hz\n*Placa de Vídeo:* RTX 3050 6GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER C/ 4FANS RGB \n*Fonte:* 500W\n\nPOR APENAS *R$ 4.490,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão - Débito á vista ou Crédito em até *10x SEM JUROS*\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
     },
 
