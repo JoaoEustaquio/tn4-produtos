@@ -11,7 +11,7 @@
 
      // R$ 5.390,00
      {
-      title: "Nº2 -i5 de 12ªG + RX 580",
+      title: "Nº2 - (PC0059) i5 de 12ªG + RX 580",
       image: "Custom5390.png",
       text: "*Máquina ideal para Jogos como:*\n🚔 GTA 5/RP\n🔫 CSGO 2\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* I5-12400F (12ª Geração)\n*DUEX H610 WHITE (LGA 1700)\n*Memória RAM:* 2x8GB FNX 3200Mhz (16GB) DDR4\n*Air Cooler:* PCYES FROST PULSE WHITE GHOST\n*Placa de Vídeo:* RX 580 8GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* HAYOM 1793 BRANCO C/ 3 FANS RGB\n*Fonte:* 500W TRS\n\nPOR APENAS *R$ 5.390,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n💳 Cartão - Débito à vista ou Crédito em até 10x SEM JUROS\n🔥 Não perca essa chance de melhorar seu setup e jogar com qualidade! 🔥\n",
     },
