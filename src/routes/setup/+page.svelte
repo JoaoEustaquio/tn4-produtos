@@ -25,8 +25,8 @@
 
     // R$2.390,00
     {
-      title: "Nº4 - SETUP Athlon 3000G + Monitor 19 + KIT GAMER - R$2.390,00",
-      image: "SETUP-2390.png", 
+      title: "Nº4 - (PC0064) SETUP Athlon 3000G + Monitor 19 + KIT GAMER - R$2.390,00",
+      image: "PC0064.png", 
       text: "*Setup ideal para Jogos como:* \n 💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 CSGO/VALORANT\n\n*Processador:* Athlon 3000G\n*Placa Mãe:* A320\n*Placa de Vídeo*: VEGA 3 (INTEGRADA)\n*Memória RAM:* 2x8GB DDR4 (16GB)\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER C/ LED RGB\n*Fonte:* 500W\n\n*Kit Gamer Completo que Inclui* 🖥️ Monitor 19' Pol. *Seminovo*, ⌨️ TECLADO, 🖱️ MOUSE, MOUSEPAD E 🎧 HEADSET\n\n*R$ 2.390,00* em até 10x sem juros!\n\n*FFormas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n🔥 Não perca essa chance de melhorar seu setup e jogar com qualidade! 🔥\n\n",
     },
     
