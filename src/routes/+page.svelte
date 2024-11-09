@@ -4,7 +4,6 @@
     
     const monitors = [
         { title: "BLUECASE 19' POL. 75Hz (LC0033)", price: "R$ R$570,00" },    
-        { title: "BLUECASE 19' POL. 75Hz (LC0020)", price: "R$ R$590,00" },
         { title: "BLUECASE 19' BRANCO LED 75Hz (LC0036)", price: "R$ R$600,00" },
         { title: "VXPRO 21,5' POL. 75Hz (LC0019)", price: "R$ R$690,00" },
         { title: "3GREEN 24' POL. 75Hz (LC0014)", price: "R$ R$890,00" },
