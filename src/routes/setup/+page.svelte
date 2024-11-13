@@ -55,7 +55,7 @@
     {
       title: "Nº8 - (PC0004) 🖱SETUP GAMER RYZEN 5 4500",
       image: "PC0004.png",
-      text: "*Setup ideal para Jogos como:* \n 💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 CSGO 2\n🔫 WARZONE\n🦙 FORTNITE\n\n*Placa Mãe:* A520\n*Processador:* RYZEN 5 4500\n*Memória RAM:* 2x8GB(16GB) DDR4\n*Placa de Vídeo:*  RX 580 8GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER C/ 3FANS RGB\n*Fonte:* 500W\n+ 🖥️ Monitor de 19' Pol.\n+ Kit Gamer(Teclado, Mouse, Mousepad e Headset)\n\nPOR APENAS *R$ 4.510,00* em até 10x sem juros!\n\n*FFormas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n🔥 Não perca essa chance de melhorar seu setup e jogar com qualidade! 🔥\n\n"
+      text: "*Setup ideal para Jogos como:* \n 💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 CSGO 2\n🔫 WARZONE\n🦙 FORTNITE\n\n*Placa Mãe:* A520\n*Processador:* RYZEN 5 4500\n*Memória RAM:* 2x8GB(16GB) DDR4\n*Placa de Vídeo:*  RX 570 8GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER C/ 3FANS RGB\n*Fonte:* 500W\n+ 🖥️ Monitor de 19' Pol.\n+ Kit Gamer(Teclado, Mouse, Mousepad e Headset)\n\nPOR APENAS *R$ 4.510,00* em até 10x sem juros!\n\n*FFormas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n🔥 Não perca essa chance de melhorar seu setup e jogar com qualidade! 🔥\n\n"
     },
 
     // R$ 5.440,00 Restore
