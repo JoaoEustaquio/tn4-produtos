@@ -10,6 +10,7 @@
         { title: "GRASEP LED 23.8', 100HZ, 1MS, (LC0021)", price: "R$ R$1.050,00" },
         { title: "MONITOR OFFICE BRIGHT, 27' POL., FULL HD, 5MS, IPS, (LC0077)", price: "R$ R$1.090,00" },
         { title: "GRASEP LED 23.8', 180HZ, 1MS, (LC0022)", price: "R$ R$1.390,00" },
+        { title: "DUEX 32' POL., 75Hz, PLANO (LC0078)", price: "R$ R$1.390,00" },
         { title: "GAMER PRIMETECH ULTRAWIDE 30' CURVO 200HZ (LC0079)", price: "R$ R$2.190,00" },
     ]
 
