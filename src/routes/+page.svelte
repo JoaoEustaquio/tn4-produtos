@@ -10,10 +10,6 @@
         { title: "GRASEP LED 23.8', 100HZ, 1MS, (LC0021)", price: "R$ R$1.050,00" },
         { title: "MONITOR OFFICE BRIGHT, 27' POL., FULL HD, 5MS, IPS, (LC0077)", price: "R$ R$1.090,00" },
         { title: "GRASEP LED 23.8', 180HZ, 1MS, (LC0022)", price: "R$ R$1.390,00" },
-        { title: "BLUECASE NYX 23,8' POL. 100Hz CURVO OPTIGAMER PRETO (LC0030)", price: "R$ R$1.390,00" },
-        { title: "BLUECASE NYX 27' POL. 100Hz CURVO OPTIGAMER BRANCO (LC0029)", price: "R$ R$1.490,00" },
-        { title: "DUEX 27' POL. 240Hz *PLANO* (LC0031)", price: "R$ R$1.590,00" },
-        { title: "GAMER MANCER VALAK 32' CURVO 165HZ (LC0051M)", price: "R$ R$2.190,00" },
         { title: "GAMER PRIMETECH ULTRAWIDE 30' CURVO 200HZ (LC0079)", price: "R$ R$2.190,00" },
     ]
 
