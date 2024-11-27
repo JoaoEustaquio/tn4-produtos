@@ -27,7 +27,7 @@
     {
       title: "Nº4 - Ryzen 5600 + RTX 3060 12GB",
       image: "FORCEFIELD.png",
-      text: "*Máquina ideal para Jogos como:* \n  💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🚔 GTA 5/RP\n🔫 CSGO 2\n🦙 FORTNITE\n🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* RYZEN 7 3700x\n*Placa Mãe:* BIOSTAR B550MX-E PRO\n*Memória RAM:* 16GB DDR4 3200Mhz\n*Water Cooler* Gandias AURA 120mm V2 PRETO\n*Placa de Vídeo:* RTX 3060 12GB\n*Armazenamento:* SSD NVME 512GB\n*Gabinete:* PCYES FORCEFIELD RED MAGMA C/8FANS\n*Fonte:* 700W 80Plus FULL MODULAR\n\nPOR APENAS *R$ 7.190,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n🔥 Não perca essa chance de melhorar seu setup e jogar com qualidade! 🔥\n\n",
+      text: "*Máquina ideal para Jogos como:* \n  💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🚔 GTA 5/RP\n🔫 CSGO 2\n🦙 FORTNITE\n🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* RYZEN 7 3700x\n*Placa Mãe:* BIOSTAR B550MX-E PRO\n*Memória RAM:* 16GB DDR4 3200Mhz\n*Water Cooler* Gandias AURA 120mm V2 PRETO\n*Placa de Vídeo:* RTX 3060 12GB\n*Armazenamento:* SSD NVME 512GB\n*Gabinete:* PCYES FORCEFIELD RED MAGMA C/8FANS\n*Fonte:* 700W 80Plus\n\nPOR APENAS *R$ 7.190,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n🔥 Não perca essa chance de melhorar seu setup e jogar com qualidade! 🔥\n\n",
     },
 
     // R$ 8.590,00
