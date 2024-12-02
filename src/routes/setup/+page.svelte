@@ -71,6 +71,13 @@
       image: "PC0056.png",
       text: "*Setup ideal para Jogos como:* \n 💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* RYZEN 5 5500\n*Placa Mãe:* A520\n*Memória RAM:* 2x8GB (16GB) DDR4\n*Placa de Vídeo:* RTX 3060 12GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER C/3 FANS RGB\n*Fonte:* 500W 80Plus\n +🖥 MONITOR 19' Pol. VX PRO\n + KIT Gamer Completo(Teclado, Headset, Mouse e Mousepad)\n\nPOR APENAS *R$ 6.120,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento \n\n🔥 Não perca essa chance de melhorar seu setup e jogar com qualidade! 🔥\n\n",
     },
+
+    // R$ 10.690,00 Restore
+    {
+      title: "Nº11 - (PC0) SETUP INTEL I5-12400F(12º Geração)",
+      image: ".png",
+      text: "*Setup ideal para Jogos como:* \n🚘FORZA HORIZON\n🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* Intel i5-12400F (12ª Geração)\n*Placa Mãe:* ASROCK B660M PHANTOM GAMING (LGA 1700)\n*Memória RAM:* 2x8GB DDR4 3200Mhz FURY BEAST BLACK\n*Water Cooler:* PCYES SANGE FRIO 120mm\n*Placa de Vídeo:* RTX 4060 GALAX 8GB 1-CLICK 2X\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER AQUÁRIO C/ 4 FANS RGB\n*Fonte:* 700W 80PLUS\n +🖥️ Monitor Primetek Ultrawide 30' pol 200hz\n + KIT Gamer PRO\nTeclado Mecânico Full Size Draxen DN201\nMouse Draxen DN60\nMousepad XL\nHeadset Draxen DN103 Preto\n\nPOR APENAS *R$ 6.120,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento \n\n🔥 Não perca essa chance de melhorar seu setup e jogar com qualidade! 🔥\n\n",
+    },
   ]
 
   function copyToClipboard(product: { text: string }) {
