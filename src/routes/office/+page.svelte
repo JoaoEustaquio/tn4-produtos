@@ -13,7 +13,7 @@
     {
       title: "Nº2 - (DT0007)Lenovo Thinkcentre S510",
       image: "DT0007.png",
-      text: "*Placa Mãe:* \n*Processador:* Intel i5 de i6ª Geração\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 240GB\nDe ~R$1.190,00~ Por apenas *R$970,00*em até 10x sem juros!",
+      text: "*Placa Mãe:* \n*Processador:* Intel i5 de 7ª Geração\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 240GB\nPor apenas *R$1.190,00*em até 10x sem juros!",
     },
 
     // R$ 1.790,00
