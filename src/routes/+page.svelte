@@ -3,6 +3,7 @@
     import IconCopy from "$lib/icons/copy.svelte"
     
     const monitors = [
+        { title: "Monitor LG Seminovo 19'' (LC0032) ", price: "R$ R$390,00" },  
         { title: "BLUECASE 19' POL. 75Hz (LC0033)", price: "R$ R$570,00" },    
         { title: "BLUECASE 19' BRANCO LED 75Hz (LC0036)", price: "R$ R$600,00" },
         { title: "VXPRO 21,5' POL. 75Hz (LC0019)", price: "R$ R$690,00" },
