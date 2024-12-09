@@ -36,6 +36,13 @@
       image: "PC0067.png",
       text: "*Setup ideal para Jogos como:*\n🚘FORZA HORIZON\n🚔 GTA 5/RP\n🔫 CSGO 2\VALORANT\n🦙 FORTNITE\n🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Placa Mãe:* ASROCK B660M PHANTOM\n*Processador:* I5-12400F(10º GEN)\n*Memória RAM:* 2x8GB DDR4 FURY BEAST 3200MHZ *(16GB)*\n*Placa de Vídeo:* RTX 4060 GALAX 8GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER AQUÁRIO C/4 FANS RGB\n*Fonte:* 700W 80PLUS\n+ 🖥️ Monitor  PRIMETEK ULTRAWIDE 30' POL, 200HZ\n+ Kit Mecânico PRO DRAXEN (Teclado Mecânico DN201, Mouse DN60, Headset DN103, Mousepad XL)\n\nPOR APENAS *R$10.690,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento \n\n🔥 Não perca essa chance de melhorar seu setup e jogar com qualidade! 🔥\n\n"
     },
+
+    // R$13.990,00
+    {
+      title: "Nº5 - () SETUP RYZEN 5500, 32GB DE RAM DDR4, RTX 3060 TI + KIT PERIFÉRICO STREAMER",
+      image: "13990.png",
+      text: "*Setup ideal para Jogos como:*\n🚔 GTA 5/RP\n🔫 CSGO 2\VALORANT\n🦙 FORTNITE\n🐎 Red Dead Redemption 2\n🗡 Elden Ring\n\n*Placa Mãe:* ASUS B450M TUF GAMING\n*Processador:* RYZEN 5 5500\n*Memória RAM:* 2x16 REDRAGON SOLAR RGB*(32GB)*\n*Water Cooler* PCYES VISION 240MM C/ VISOR LCD\n*Placa de Vídeo:* RTX 3060TI 3X RGB 8GB\n*Armazenamento:* SSD NVME M.2 500GB\n*Gabinete:* NZXT C/ 2FANS BLACK\n*Fonte:* 700W 80PLUS\n+ Placa PCI-E 2xUSB 3.0\n\n + 🖥️ MONITOR GRASEP GAMER 23,8' 180Hz & MONITOR VX PRO 21,5' 75HZ\n+ SUPORTE P/2 MONITORES MANUAL\n + TECLADO REDRAGON SINDRI\n + MOUSE REDRAGON CENTROPHORUS 2\n + HEADSET REDRAGON CARMEN\n + MOUSEPAD FORTREK SPEED XL\n + MICROFONE REDRAGON BLAZAR\n + WEB CAM PCYES RAZA 1080p \n\nPOR APENAS *R$13.990,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento \n\n🔥 Não perca essa chance de melhorar seu setup e jogar com qualidade! 🔥\n\n"
+    },
   ]
 
   function copyToClipboard(product: { text: string }) {
