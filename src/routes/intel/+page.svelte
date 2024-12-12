@@ -39,9 +39,9 @@
 
     // R$4.290,00
     {
-      title: "Nº6 - (PC0050)I3-10100F + RX 560 4GB",
+      title: "Nº6 - (PC0050)I3-10100F + RX 580 8GB",
       image: "PC0050.png",
-      text: "*Máquina ideal para Jogos como:* \n💥 FREE FIRE\n🔫 CSGO/VALORANT\n🔫 WARZONE\n🦙 FORTNITE\n🚔 GTA 5/RP\n\n*Processador:* I3-10100F (10ª Geração)\n*Placa Mãe:*ASROCK H510M\n*Memória RAM:* 2x8GB DDR4(16GB)\n*Placa de Vídeo:* RX 560 4GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER C/3FANS RGB\n*Fonte:* 500W\n\n*R$ 4.290,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento \n\n🔥 Não perca essa chance de melhorar seu setup e jogar com qualidade! 🔥\n\n",
+      text: "*Máquina ideal para Jogos como:* \n💥 FREE FIRE\n🔫 CSGO/VALORANT\n🔫 WARZONE\n🦙 FORTNITE\n🚔 GTA 5/RP\n\n*Processador:* I3-10100F (10ª Geração)\n*Placa Mãe:* H510M\n*Memória RAM:* 2x8GB DDR4(16GB)\n*Placa de Vídeo:* RX 580 8GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER C/3FANS RGB\n*Fonte:* 500W\n\n*R$ 4.290,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento \n\n🔥 Não perca essa chance de melhorar seu setup e jogar com qualidade! 🔥\n\n",
     },
 
     // R$4.590,00
