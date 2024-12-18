@@ -4,7 +4,7 @@
   const products = [
     // R$ 4.790,00
     {
-      title: "Nº1 - (PC00) i3 de 10ªG, RX 580, Gabinete Lion",
+      title: "Nº1 - (PC0028) i3 de 10ªG, RX 580, Gabinete Lion",
       image: "PC0.png",
       text: "*Máquina ideal para Jogos como:*\n🔫 VALORANT\n🔫 WARZONE\n🚔 GTA 5/RP\n🔫 CSGO 2\n🦙 FORTNITE\n🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* I3-10100F (10ª Geração)\n*Placa Mãe: H510M DUEX\n*Memória RAM:* 2x8GB DDR4 XPG 3200MHZ WHITE(16GB)\n*Air Cooler:*DEX DX-2012 ARGB\n*Placa de Vídeo:* RX 580 8GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* MYMAX LION ROSA C/1 FAN ARGB E LED\n*Fonte:* 500W 80plus\n\nPOR APENAS *R$ 4.790,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento \n\n🔥 Não perca essa chance de melhorar seu setup e jogar com qualidade! 🔥\n\n",
     },
