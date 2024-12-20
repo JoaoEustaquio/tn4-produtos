@@ -32,9 +32,9 @@
 
     // R$3.590
     {
-      title: "Nº5 - (PC0040)i5 de 7ªGEN + RX 560",
+      title: "Nº5 - (PC0040)i5-7400(7ªGEN) + RX 560",
       image: "PC0040.png",
-      text: "*Máquina ideal para Jogos como:* \n🌎 MINECRAFT\n🟥 ROBLOX\n🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n\n*Processador:* Processador:* I5 de 6ªGEN\n*Placa Mãe:* H110\n*Memória RAM:* 2x8(16GB) DDR4\n*Placa de Vídeo:* GTX 1650 4GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER MINI AQUARIO C/3FANS\n*Fonte:* 500W\n\n*R$ 3.890,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento \n\n🔥 Não perca essa chance de melhorar seu setup e jogar com qualidade! 🔥\n\n",
+      text: "*Máquina ideal para Jogos como:* \n🌎 MINECRAFT\n🟥 ROBLOX\n🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n\n*Processador:* Processador:* I5-7400 (7ªGEN)\n*Placa Mãe:* H110\n*Memória RAM:* 2x8(16GB) DDR4\n*Placa de Vídeo:* GTX 1650 4GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER MINI AQUARIO C/3FANS\n*Fonte:* 500W\n\n*R$ 3.890,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento \n\n🔥 Não perca essa chance de melhorar seu setup e jogar com qualidade! 🔥\n\n",
     },
 
     // R$4.290,00
