@@ -25,7 +25,6 @@
         { title: "GTX 1650 VENTUS 4GB", price: "R$ 1.290,00" },
         { title: "RX 580 8GB", price: "R$ 1.350,00" },
         { title: "RTX 3050 6GB", price: "R$ 1.890,00" },
-        { title: "RTX 3060 12GB", price: "R$ 2.590,00" },
         { title: "RTX 4060 8GB INNO3D COMPACT", price: "R$ 2.890,00" },
         { title: "RTX 4060 8GB ZOTAC DUAL FAN", price: "R$ 2.990,00" },
     ]
