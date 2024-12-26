@@ -8,11 +8,14 @@
         { title: "BLUECASE 19' BRANCO LED 75Hz (LC0036)", price: "R$600,00" },
         { title: "VXPRO 21,5' POL. 75Hz (LC0019)", price: "R$690,00" },
         { title: "3GREEN 24' POL. 75Hz (LC0014)", price: "R$890,00" },
+        { title: "MONITOR OFFICE BRIGHT, 24' POL., FULL HD, 5MS (LC0077)", price: "R$890,00" },
         { title: "GRASEP LED 23.8', 100HZ, 1MS, (LC0021)", price: "R$1.050,00" },
         { title: "OFFICE BRIGHT, 27' POL., FULL HD, 5MS, IPS, (LC0077)", price: "R$1.090,00" },
         { title: "BLUECASE OPTIGAMER FHD 23.8', 100HZ, 5MS, CURVO (LC0066)", price: "R$1.090,00" },
         { title: "GRASEP LED 23.8', 180HZ, 1MS, (LC0022)", price: "R$1.390,00" },
         { title: "DUEX 32' POL., 75Hz, PLANO (LC0078)", price: "R$1.390,00" },
+        { title: "DUEX BLACK 27'POL. LED, 165HZ, 2K (LC0091)", price: "R$1.690,00"},
+        { title: "DUEX BLACK 27'POL. LED, 240HZ, 2K (LC0092)", price: "R$1.890,00"},
         { title: "GAMER PRIMETECH ULTRAWIDE 30' CURVO 200HZ (LC0079)", price: "R$2.190,00" },
     ]
 
