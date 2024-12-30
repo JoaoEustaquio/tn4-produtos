@@ -25,6 +25,8 @@
         { title: "RX 580 8GB BIOSTAR", price: "R$ 1.350,00" },
         { title: "RTX 3050 6GB MSI VENTUS", price: "R$ 1.890,00" },
         { title: "RTX 3060 12GB MSI VENTUS", price: "R$ 2.590,00" },
+        { title: "RTX 4060 8GB INNO3D COMPACT", price: "R$ 2.890,00" },
+        { title: "RTX 4060 8GB ZOTAC TWIN EDGE", price: "R$ 2.990,00" },
     ]
 
     function copyToClipboard(product: { text: string }) {
