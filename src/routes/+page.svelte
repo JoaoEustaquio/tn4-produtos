@@ -22,7 +22,7 @@
         { title: "GT 730 4GB REVENGER", price: "R$ 490,00" },
         { title: "RX 550 4GB BIOSTAR", price: "R$ 790,00" },
         { title: "GTX 1650 4GB MSI VENTUS", price: "R$ 1.290,00" },
-        { title: "RX 580 8GB BIOSTAR", price: "R$ 1.350,00" },
+        { title: "RX 580 8GB", price: "R$ 1.290,00" },
         { title: "RTX 3060 12GB MSI VENTUS", price: "R$ 2.590,00" },
         { title: "RTX 4060 8GB INNO3D COMPACT", price: "R$ 2.890,00" },
         { title: "RTX 4060 8GB ZOTAC TWIN EDGE", price: "R$ 2.990,00" },
