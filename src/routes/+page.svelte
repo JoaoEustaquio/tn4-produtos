@@ -15,7 +15,6 @@
         { title: "DUEX 32' POL., 75Hz, PLANO (LC0078)", price: "R$1.390,00" },
         { title: "DUEX BLACK 27'POL. LED, 165HZ, 2K (LC0091)", price: "R$1.690,00"},
         { title: "DUEX BLACK 27'POL. LED, 240HZ, 2K (LC0092)", price: "R$1.890,00"},
-        { title: "GAMER PRIMETECH ULTRAWIDE 30' CURVO 200HZ (LC0079)", price: "R$2.190,00" },
     ]
 
     const gpus = [
