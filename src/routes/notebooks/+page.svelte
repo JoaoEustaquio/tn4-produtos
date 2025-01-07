@@ -11,6 +11,13 @@
     //   text: "💻 NOTEBOOK ...\n\n*Processador:* \n*Memória RAM:* \n*Armazenamento:*\n(Acompanha Fonte)\n\n*POR APENAS R$0.000,00* em até 10x sem juros!",
     // },
 
+    // R$0.000,00
+    {
+      title: "(NT0047)NOTEBOOK DELL INSPIRON 3501",
+      image: "NT0047.png",
+      text: "💻 NOTEBOOK DELL INSPIRON 3501 \n\n*Processador:* PENTIUM GOLD 7505\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 256GB\n(Acompanha Fonte)\n\n*POR APENAS R$1.190,00* em até 10x sem juros!",
+    },
+
     // R$2.590,00
     {
       title: "Nº1 - (NT0046)DELL I7-6 - 8GB - SSD256",
