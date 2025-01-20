@@ -69,7 +69,6 @@
         <span> | </span>
         <a href="/pcCustom">🖌 PCs Personalizado</a>
         <span> | </span>
-        <a href="/frete">🚚 Medidas Frete</a>
     </div>      
 
     <div class="grid grid-cols-2 gap-4 mb-8">
