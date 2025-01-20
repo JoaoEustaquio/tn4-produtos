@@ -5,11 +5,25 @@
   const intel = [
     { code: "PO0002", title: "Intel Core I5-3470 (3ªGEN)", price: "R$220,00" },
     { code: "PO0133", title: "Intel Core I7-3770 (3ªGEN)", price: "R$570,00" },
+    { code: "PO0122", title: "Intel Core I7-4770 (4ªGEN)", price: "R$590,00" },
+    { code: "PO0075", title: "Intel Core I3-10100F (10ªGEN)", price: "R$790,00" },
+    { code: "PO0029", title: "Intel Core I5-9600K (9ªGEN)", price: "R$850,00" },
+    { code: "PO0069", title: "Intel Core I5-10400F (10ªGEN)", price: "R$990,00" },
+    { code: "PO0031", title: "Intel Core I7-8700 (8ªGEN)", price: "R$1.190,00" },
+    { code: "PO0072", title: "Intel Core I7-6700 (6ªGEN)", price: "R$1.290,00" },
+    { code: "PO0078", title: "Intel Core I5-12400F (12ªGEN)", price: "R$1.390,00" },
+    { code: "PO0032", title: "Intel Core I7-9700 (9ªGEN)", price: "R$1.690,00" },
 ];
 
   const amd = [
     { code: "PO0040", title: "ATHLON 3000G", price: "R$600,00" },
     { code: "PO0035", title: "AMD Ryzen 5 4500", price: "R$890,00" },
+    { code: "PO0058", title: "AMD Ryzen 5 5500", price: "R$990,00" },
+    { code: "PO0056B", title: "AMD Ryzen 5 5600G", price: "R$1.250,00" },
+    { code: "PO0057B", title: "AMD Ryzen 5 5600", price: "R$1.390,00" },
+    { code: "PO0055", title: "AMD Ryzen 5 5600GT", price: "R$1.490,00" },
+    { code: "PO0050", title: "AMD Ryzen 5 3700X", price: "R$1.490,00" },
+    { code: "PO0063", title: "AMD Ryzen 5 5700G", price: "R$1.750,00" },
   ];
 
   function copyToClipboard(product: { text: string }) {
