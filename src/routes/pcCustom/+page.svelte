@@ -37,23 +37,16 @@
       text: "*Máquina ideal para Jogos como:* \n  💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🚔 GTA 5/RP\n🔫 CSGO 2\n🦙 FORTNITE\n🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* RYZEN 7 3700x\n*Placa Mãe:* BIOSTAR B550MX-E PRO\n*Memória RAM:* 16GB DDR4 3200Mhz\n*Water Cooler* Gandias AURA 120mm V2 PRETO\n*Placa de Vídeo:* RTX 3060 12GB\n*Armazenamento:* SSD NVME 512GB\n*Gabinete:* PCYES FORCEFIELD RED MAGMA C/8FANS\n*Fonte:* 700W 80Plus\n\nPOR APENAS *R$ 7.190,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento \n\n🔥 Não perca essa chance de melhorar seu setup e jogar com qualidade! 🔥\n\n",
     },
 
-    // R$ 8.390,00
-    {
-      title: "Nº6 - (PC00) Ryzen 5600, 2x16GB DDR4, RTX 3060 12GB, WATER COOLER E GABINETE GAMER",
-      image: "8390.png",
-      text: "*Máquina ideal para Jogos como:* \n 🚔 GTA 5/RP\n💥 LEAGUE OF LEGENDS\n🟥 ROBLOX\n🌎 MINECRAFT\n🚗 FORZA HORIZON\n🔫 VALORANT\n🔫 WARZONE(GRÁFICOS Médios/Baixos)\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 5600\n*Placa Mãe:* A520 ASUS TUF GAMING\n*Memória RAM:* 2x16GB 3200MHZ FURY BEAST RGB\n*Water Cooler* ONE POWER ESPECTRA 360mm\n*Placa de Vídeo:* RTX 3060 12GB MSI VENTUS\n*Armazenamento:* SSD NVME 1TB\n*Gabinete:* GAMDIAS ATLAS M1 BRANCO C/ VISOR E 3FANS\n*Fonte:* TAICON 700W 80PLUS\n\nPOR APENAS *R$ 8.390,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento \n\n🔥 Não perca essa chance de melhorar seu setup e jogar com qualidade! 🔥\n\n",
-    },
-
     // R$ 8.590,00
     {
-      title: "Nº7 - Ryzen 5500 + RTX 3060TI + WATER COOLER PCYES VISION",
+      title: "Nº6 - Ryzen 5500 + RTX 3060TI + WATER COOLER PCYES VISION",
       image: "AMD5500+3060.png",
       text: "*Máquina ideal para Jogos como:* \n  💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🚔 GTA 5/RP\n🔫 CSGO 2\n🦙 FORTNITE\n🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* RYZEN 5 5500\n*Placa Mãe:* ASUS B450M TUF GAMING\n*Memória RAM:* 2x16 REDRAGON SOLAR RGB 3600Mhz (32GB) DDR4\n*WATER COOLER PCYES VISION 240MM C/ VISOR LCD*\n*Placa de Vídeo:* RTX 3060TI 3X RGB 8GB\n*Armazenamento:* SSD NVME M.2 500GB\n*Gabinete:* GAMER C/ 2FANS RGB\n*Fonte:* 700W 80PLUS\n+ PLACA PCI-E 2xUSB 3.0\n\nPOR APENAS *R$ 9.990,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento \n\n🔥 Não perca essa chance de melhorar seu setup e jogar com qualidade! 🔥\n\n",
     },
 
     // R$8.890,00
     {
-      title: "Nº8 - (PC0006)i5 de 12ª + RTX 4060 8GB ",
+      title: "Nº7 - (PC0006)i5 de 12ª + RTX 4060 8GB ",
       image: "PC0006.png",
       text: "*Máquina ideal para Jogos como:* \n 🚘FORZA HORIZON\n🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* I5-12400F (12ª Geração)\n*Placa Mãe:*ASROCK B660M PHANTOM GAMING (LGA 1700)\n*Memória RAM:* 2x8GB 3200Mhz DDR4 FURY BEAST BLACK (16GB)\n*Water Cooler:* PCYES SANGE FRIO 120mm\n*Placa de Vídeo*: RTX 4060 8GB INNO3D 1X COMPACT\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER AQUÁRIO C/ 4 FANS RGB\n*Fonte:* 700W\n\n*R$ 7.890,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento \n\n🔥 Não perca essa chance de melhorar seu setup e jogar com qualidade! 🔥\n\n",
     },
