@@ -26,7 +26,7 @@
     // R$6.790,00
     {
       title: "Nº4 - (PC0076) Ryzen 5600 + RTX 3050 GALAX",
-      image: "PC0076",
+      image: "PC0076.png",
       text: "*Máquina ideal para Jogos como:* \n 🚘FORZA HORIZON\n🚔 GTA 5/RP\n🔫 WARZONE/BLACK OPS 6\n🐎Red Dead Redemption 2\n\n*Processador:* RYZEN 5 5600\n*Placa Mãe:* DUEX B550ZGS\n*Memória RAM:* 2x8GB DDR4 3200Mhz PCYES UDIMM BRANCA\n*Water Cooler:*PCYES SANGE FRIO3 BRANCO 120mm\n*Armazenamento:* SSD NVME 512GB\n*Placa de Vìdeo:* RTX 3050 GALAX 6GB\n*Gabinete:* EROCOOL AERO ONE BRANCO \n*Fonte:* 500w WHITE\n\n*R$ 6.790,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento \n\n🔥 Não perca essa chance de melhorar seu setup e jogar com qualidade! 🔥\n\n",
     },
 
