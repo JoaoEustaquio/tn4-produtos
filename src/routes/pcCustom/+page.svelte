@@ -44,11 +44,11 @@
       text: "*Máquina ideal para Jogos como:* \n  💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🚔 GTA 5/RP\n🔫 CSGO 2\n🦙 FORTNITE\n🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* RYZEN 7 3700x\n*Placa Mãe:* BIOSTAR B550MX-E PRO\n*Memória RAM:* 16GB DDR4 3200Mhz\n*Water Cooler* Gandias AURA 120mm V2 PRETO\n*Placa de Vídeo:* RTX 3060 12GB\n*Armazenamento:* SSD NVME 512GB\n*Gabinete:* PCYES FORCEFIELD RED MAGMA C/8FANS\n*Fonte:* 700W 80Plus\n\nPOR APENAS *R$ 7.190,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento \n\n🔥 Não perca essa chance de melhorar seu setup e jogar com qualidade! 🔥\n\n",
     },
 
-    // R$ 8.590,00
+    // R$ 7.890,00
     {
-      title: "Nº7 - Ryzen 5500 + RTX 3060TI + WATER COOLER PCYES VISION",
+      title: "Nº7 - Ryzen 5500 + RTX 3050 + WATER COOLER PCYES VISION",
       image: "AMD5500+3060.png",
-      text: "*Máquina ideal para Jogos como:* \n  💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🚔 GTA 5/RP\n🔫 CSGO 2\n🦙 FORTNITE\n🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* RYZEN 5 5500\n*Placa Mãe:* ASUS B450M TUF GAMING\n*Memória RAM:* 2x16 REDRAGON SOLAR RGB 3600Mhz (32GB) DDR4\n*WATER COOLER PCYES VISION 240MM C/ VISOR LCD*\n*Placa de Vídeo:* RTX 3060TI 3X RGB 8GB\n*Armazenamento:* SSD NVME M.2 500GB\n*Gabinete:* GAMER C/ 2FANS RGB\n*Fonte:* 700W 80PLUS\n+ PLACA PCI-E 2xUSB 3.0\n\nPOR APENAS *R$ 9.990,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento \n\n🔥 Não perca essa chance de melhorar seu setup e jogar com qualidade! 🔥\n\n",
+      text: "*Máquina ideal para Jogos como:* \n  💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🚔 GTA 5/RP\n🔫 CSGO 2\n🦙 FORTNITE\n🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* RYZEN 5 5500\n*Placa Mãe:* B550MX-E PRO\n*Memória RAM:* 2x8 REDRAGON MAGMA RGB 3200Mhz (16GB) DDR4\n*WATER COOLER PCYES VISION 240MM C/ VISOR LCD*\n*Placa de Vídeo:* RTX 3050 6GB\n*Armazenamento:* SSD NVME M.2 1TB\n*Gabinete:* GAMER C/ 2FANS RGB\n*Fonte:* 700W 80PLUS\n+ PLACA PCI-E 2xUSB 3.0\n\nPOR APENAS *R$ 7.890,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento \n\n🔥 Não perca essa chance de melhorar seu setup e jogar com qualidade! 🔥\n\n",
     },
 
     // R$8.890,00
