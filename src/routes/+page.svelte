@@ -4,6 +4,7 @@
     
     const monitors = [
         { code: "LC0032", title: "SEMINOVO 19' POL. *SORTIDO*", price: "R$390,00" },  
+        { code: "LC0015", title: "MYMAX 19' POL., ROXO, LED", price: "R$550,00" },
         { code: "LC0033", title: "BLUECASE 19' POL. 75Hz", price: "R$570,00" },
         { code: "LC0010", title: "3GREEN 20' POL, LED, 2MS, 75HZ", price: "R$630,00" },    
         { code: "LC0019", title: "VX PRO 21.5' POL., LED, 60HZ, 8MS", price: "R$690,00" },
