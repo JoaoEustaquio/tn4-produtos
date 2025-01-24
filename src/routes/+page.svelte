@@ -3,18 +3,18 @@
     import IconCopy from "$lib/icons/copy.svelte"
     
     const monitors = [
-        { title: "MONITOR SEMINOVO 19' POL. *SORTIDO* (LC0032) ", price: "R$390,00" },  
-        { title: "BLUECASE 19' POL. 75Hz (LC0033)", price: "R$570,00" },
-        { title: "MONITOR 3GREEN 20' LED 75Hz, (LC0010)", price: "R$630,00" },    
-        { title: "VXPRO 21,5' POL. 75Hz (LC0019)", price: "R$690,00" },
-        { title: "3GREEN 24' POL. 75Hz (LC0014)", price: "R$890,00" },
-        { title: "MONITOR OFFICE BRIGHT, 24' POL., FULL HD, 5MS (LC0077)", price: "R$890,00" },
-        { title: "OFFICE BRIGHT, 27' POL., FULL HD, 5MS, IPS, (LC0077)", price: "R$1.090,00" },
-        { title: "BLUECASE OPTIGAMER FHD 23.8', 100HZ, 5MS, CURVO (LC0066)", price: "R$1.090,00" },
-        { title: "GRASEP LED 23.8', 180HZ, 1MS, (LC0022)", price: "R$1.390,00" },
-        { title: "DUEX 32' POL., 75Hz, PLANO (LC0078)", price: "R$1.390,00" },
-        { title: "MONITOR BLUECASE ARCUS FHD 23.6', 180HZ, CURVO (LC0066)", price: "R$1.490,00" },
-        { title: "DUEX BLACK 27'POL. LED, 165HZ, 2K (LC0091)", price: "R$1.690,00"},
+        { code: "LC0032", title: "MONITOR SEMINOVO 19' POL. *SORTIDO*", price: "R$390,00" },  
+        { code: "LC0033", title: "BLUECASE 19' POL. 75Hz", price: "R$570,00" },
+        { code: "LC0010", title: "MONITOR 3GREEN 20' LED 75Hz", price: "R$630,00" },    
+        { code: "LC0019", title: "VXPRO 21,5' POL. 75Hz", price: "R$690,00" },
+        { code: "LC0014", title: "3GREEN 24' POL. 75Hz", price: "R$890,00" },
+        { code: "LC0093", title: "OFFICE BRIGHT, 24' POL., FULL HD, 5MS", price: "R$850,00" },
+        { code: "LC0077", title: "OFFICE BRIGHT, 27' POL., FULL HD, 5MS, IPS", price: "R$1.090,00" },
+        { code: "LC0066", title: "BLUECASE OPTIGAMER FHD 23.8', 100HZ, 5MS, CURVO", price: "R$1.090,00" },
+        { code: "LC0022", title: "GRASEP LED 23.8', 180HZ, 1MS", price: "R$1.390,00" },
+        { code: "LC0078", title: "DUEX 32' POL., 75Hz, PLANO", price: "R$1.390,00" },
+        { code: "LC0066", title: "MONITOR BLUECASE ARCUS FHD 23.6', 180HZ, CURVO", price: "R$1.490,00" },
+        { code: "LC0091", title: "DUEX BLACK 27'POL. LED, 165HZ, 2K", price: "R$1.690,00"},
     ]
 
     const gpus = [
