@@ -5,7 +5,7 @@
     const monitors = [
         { code: "LC0032", title: "SEMINOVO 19' POL. *SORTIDO*", price: "R$390,00" },  
         { code: "LC0033", title: "BLUECASE 19' POL. 75Hz", price: "R$570,00" },
-        { code: "LC0010", title: "3GREEN 20' LED 75Hz", price: "R$630,00" },    
+        { code: "LC0010", title: "MONITOR 3GREEN 20' POL, LED, 2MS, 75HZ", price: "R$630,00" },    
         { code: "LC0019", title: "VXPRO 21,5' POL. 75Hz", price: "R$690,00" },
         { code: "LC0093", title: "OFFICE BRIGHT, 24' POL., FULL HD, 5MS", price: "R$850,00" },
         { code: "LC0014", title: "3GREEN 24' POL. 75Hz", price: "R$890,00" },
