@@ -13,7 +13,7 @@
         { code: "LC0066", title: "BLUECASE OPTIGAMER FHD 23.8', 100HZ, 5MS, CURVO", price: "R$1.090,00" },
         { code: "LC0022", title: "GRASEP LED 23.8', 180HZ, 1MS", price: "R$1.390,00" },
         { code: "LC0078", title: "DUEX 32' POL., 75Hz, PLANO", price: "R$1.390,00" },
-        { code: "LC0066", title: "BLUECASE ARCUS FHD 23.6', 180HZ, CURVO", price: "R$1.490,00" },
+        { code: "LC0094", title: "BLUECASE ARCUS FHD 23.6', 180HZ, CURVO", price: "R$1.490,00" },
         { code: "LC0091", title: "DUEX BLACK 27'POL. LED, 165HZ, 2K", price: "R$1.690,00"},
     ]
 
