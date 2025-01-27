@@ -2,13 +2,6 @@
   import CopyButton from "$lib/CopyButton.svelte";
 
   const products = [
-    // R$ 499,00
-    {
-      title: "Nº1 - (DT0006E)HP ELITEDESK 705",
-      image: "DT0006E.png",
-      text: "*Placa Mãe:* \n*Processador:* AMD A4\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 120GB\n*Fonte:* 200w 80Plus Gold\nDe ~R$790,00~ Por apenas *R$499,00*em até 10x sem juros!",
-    },
-
     // // R$ 970,00
     // {
     //   title: "Nº2 - (DT0007)Lenovo Thinkcentre S510",
@@ -18,7 +11,7 @@
 
     // R$ 1.790,00
     {
-      title: "Nº2 - (DT0087)Lenovo Thinkcentre M910",
+      title: "Nº1 - (DT0087)Lenovo Thinkcentre M910",
       image: "DT0087.png",
       text: "*Placa Mãe:* \n*Processador:* Intel i7 de 6ª Geração\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 240GB\n*Fonte:* 200w 80PLUS Platinum\n\nDe ~R$1.990,00~ Por apenas *R$1.690,00*em até 10x sem juros!",
     },
