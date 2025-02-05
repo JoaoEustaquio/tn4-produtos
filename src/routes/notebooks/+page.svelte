@@ -28,7 +28,7 @@
     // R$2.690,00
     {
       title: "Nº3 - (NT0048)NOTEBOOK LENOVO THINKPAD T490",
-      image: ".png",
+      image: "NT0048.png",
       text: "💻 NOTEBOOK LENOVO THINKPAD\n\n*Processador:* i7-8665U(8ªGEN)\n*Memória RAM:* 16GB DDR4\n*Armazenamento:* SSD 240GB\n(Acompanha Fonte)\n\nPOR APENAS *R$2.690,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
 
