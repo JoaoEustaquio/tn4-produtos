@@ -38,6 +38,14 @@
       image: "NT0064.png",
       text: "💻 NOTEBOOK LENOVO IDEAPAD\n\n*Processador:* i7 8ª GERAÇÃO\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 240GB\n(Acompanha Fonte)\n\nDE ~R$3.290,00~ POR APENAS *R$2.690,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
+
+    
+    // R$3.390,00
+    {
+      title: "Nº5 - (NT0000) NOTEBOOK DELL LATITUDE 5420",
+      image: "NT0000.png",
+      text: "💻 NOTEBOOK DELL LATITUDE 5420\n\n*Processador:* i7-11857G (11ªGEN)\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 240GB\n(Acompanha Fonte)\n\nPOR APENAS *R$3.390,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+    },
     
   ];
 
