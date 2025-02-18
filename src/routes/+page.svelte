@@ -13,11 +13,16 @@
         { code: "LC0077", title: "OFFICE BRIGHT, 27' POL., FULL HD, 5MS, IPS", price: "R$1.090,00" },
         { code: "LC0066", title: "BLUECASE OPTIGAMER FHD 23.8', 100HZ, 5MS, CURVO", price: "R$1.100,00" },
         { code: "LC0066B", title: "GAMER BLUECASE OPTIGAMER PRO 23,8' POL., BRANCO, CURVO, 100HZ, 5MS", price: "R$1.190,00" },
+        { code: "LC00", title: "BLUECASE ERAS FHD 23.8', 100HZ, CURVO", price: "R$1.190,00" },
+        { code: "LC00", title: "BLUECASE ERAS FHD 23.8', 100HZ, CURVO  *BRANCO*", price: "R$1.290,00" },
         { code: "LC0022", title: "GRASEP LED 23.8'POL., 180HZ, 1MS", price: "R$1.390,00" },
         { code: "LC0078", title: "DUEX 32' POL., 75Hz, PLANO", price: "R$1.390,00" },
         { code: "LC0094", title: "BLUECASE ARCUS FHD 23.6', 180HZ, CURVO", price: "R$1.490,00" },
         { code: "LC0031", title: "DUEX 27' POL. 240HZ", price: "R$1.590,00" },
+        { code: "LC00", title: "BLUECASE ERAS FHD 27', 100HZ, CURVO  *PRETO*", price: "R$1.590,00" },
+        { code: "LC00", title: "BLUECASE ERAS FHD 27', 100HZ, CURVO  *BRANCO *", price: "R$1.690,00" },
         { code: "LC0091", title: "DUEX BLACK 27'POL. LED, 165HZ, 2K", price: "R$1.690,00"},
+        { code: "LC00", title: "GRASEP 30'POL. 2K, 100HZ, ULTRAWIDE", price: "R$1.890,00"},
     ]
 
     const gpus = [
