@@ -25,11 +25,13 @@
         { title: "RX 550 4GB BIOSTAR", price: "R$ 790,00" },
         { title: "GTX 1650 4GB MSI VENTUS", price: "R$ 1.290,00" },
         { title: "RX 580 8GB VX PRO", price: "R$ 1.290,00" },
+        { title: "RX 580 8GB BLUECASE WHITE", price: "R$ 1.390,00" },
         { title: "RTX 3050 6GB ZOTAC LOW PROFILE", price: "R$ 2.090,00" },
-        { title: "RTX 3060 12GB MSI VENTUS", price: "R$ 2.590,00" },
+        { title: "RTX 3060 8GB INNO3D", price: "R$ 2.590,00" },
+        { title: "RTX 3060 12GB GAINWARD PHATOM", price: "R$ 2.690,00" },
         { title: "RTX 4060 8GB INNO3D COMPACT", price: "R$ 2.890,00" },
         { title: "RTX 4060 8GB ZOTAC TWIN EDGE", price: "R$ 2.990,00" },
-        { title: " RTX 4070 SUPER 12GB MSI", price: "R$ 7.290,00" },
+        { title: "RTX 4070 SUPER 12GB MSI", price: "R$ 7.290,00" },
     ]
 
     function copyToClipboard(product: { text: string }) {
