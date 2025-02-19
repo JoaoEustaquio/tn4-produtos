@@ -22,6 +22,13 @@
       image: "DT0087.png",
       text: "*Placa Mãe:* \n*Processador:* Intel i7 de 6ª Geração\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 240GB\n*Fonte:* 200w 80PLUS Platinum\n\nDe ~R$1.990,00~ Por apenas *R$1.690,00*em até 10x sem juros!",
     },
+
+    // R$ 3.590,00
+    {
+      title: "Nº2 - (DT00?)Lenovo Thinkcentre",
+      image: "DT00.png",
+      text: "*Placa Mãe:* \n*Processador:* Intel i7 de 6ª Geração\n*Memória RAM:* 2x8GB(16GB) DDR4\n*Armazenamento:* SSD 240GB\n*Placa De Vídeo:* RTX 3050 6GB Low profile\n*Fonte:* 200w 80PLUS Platinum\n\nPor apenas *R$3.590,00*em até 10x sem juros!",
+    },
   ];
 
   function copyToClipboard(product: { text: string }) {
