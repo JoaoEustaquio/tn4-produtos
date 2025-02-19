@@ -32,9 +32,9 @@
 
     // R$ 7.390,00
     {
-      title: "Nº5 - (PC0055) Ryzen 5600 + RTX 3050 GALAX ",
+      title: "Nº5 - (PC0055) Ryzen 5700X + RTX 3060 8GB",
       image: "Custom7190.png",
-      text: "*Máquina ideal para Jogos como:* \n🚘FORZA HORIZON\n🚔 GTA 5/RP\n🔫 WARZONE/BLACK OPS 6\n🦙 FORTNITE\n🐎Red Dead Redemption 2\n\n*Processador:* RYZEN 5 5600\n*Placa Mãe:* B450M GIGABYTE GAMING\n*Memória RAM:* 2x8GB DDR4 3200Mhz PCYES UDIMM BRANCA\n*Water Cooler* 2x8GB REDRAGON RAGE 16GB DDR4 3200Mhz\n*Placa de Vídeo:* RTX 3050 GALAX 6GB\n*Water Cooler* Gamdias AURA 120mm V2 PRETO\n*Armazenamento:* SSD NVME 500GB\n*Gabinete:* PCYES FORCEFIELD WHITE GHOST C/ 8FANS RGB\n*Fonte:* 500W BRANCA\n\nPOR APENAS *R$ 7.390,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
+      text: "*Máquina ideal para Jogos como:* \n🚘FORZA HORIZON\n🚔 GTA 5/RP\n🔫 WARZONE/BLACK OPS 6\n🦙 FORTNITE\n🐎Red Dead Redemption 2\n\n*Processador:* RYZEN 7 5700X\n*Placa Mãe:* DUEX B550ZGS\n*Memória RAM:* 2x8GB DDR4 3200Mhz XPG D35 WHITE\n*Water Cooler* ACEGEEK WHITE 360MM\n*Placa de Vídeo:* INNO3D RTX 3060 8GB\n*Armazenamento:* SSD NVME 512GB\n*Gabinete:* PCYES FORCEFIELD WHITE GHOST MAX C/3 FANS\n*Fonte:* 700W 80PLUS BRONZE\n\nPOR APENAS *R$ 8.090,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
     },
 
     // R$ 7.790,00
