@@ -2,11 +2,11 @@
   import CopyButton from "$lib/CopyButton.svelte";
 
   const products = [
-    // R$ 1.790,00
+    // R$ 1.990,00
     {
       title: "Nº1 (PC0015) Athlon 3000G",
       image: "PC0015.png",
-      text: "*Máquina ideal para Jogos como:* \n 💥LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 CSGO 2\n\n*Placa Mãe:* A320\n*Processador:* Athlon 3000G\n*Placa de Vídeo* VEGA 3 (INTEGRADA)\n*Memória RAM:* 2x8GB DDR4\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER K-TROK C/2FANS RGB\n*Fonte:* 500W\n\n*R$ 1.890,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n\n",
+      text: "*Máquina ideal para Jogos como:* \n 💥LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 CSGO 2\n\n*Placa Mãe:* A320\n*Processador:* Athlon 3000G\n*Placa de Vídeo* VEGA 3 (INTEGRADA)\n*Memória RAM:* 2x8GB DDR4\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER K-TROK C/2FANS RGB\n*Fonte:* 500W\n\n*R$ 1.990,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n\n",
     },
 
     // // R$ 2.490,00
