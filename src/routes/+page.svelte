@@ -37,6 +37,7 @@
         { title: "RTX 4060 8GB INNO3D COMPACT", price: "R$ 2.890,00" },
         { title: "RTX 4060 8GB ZOTAC TWIN EDGE", price: "R$ 2.990,00" },
         { title: "RTX 4070 SUPER 12GB MSI", price: "R$ 7.290,00" },
+        { title: "RTX 5070TI MSI 16GB", price: "R$ 11.900,00" },
     ]
 
     function copyToClipboard(product: { text: string }) {
