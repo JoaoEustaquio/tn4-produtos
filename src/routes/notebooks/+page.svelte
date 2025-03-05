@@ -11,11 +11,11 @@
     //   text: "💻 NOTEBOOK ...\n\n*Processador:* \n*Memória RAM:* \n*Armazenamento:*\n(Acompanha Fonte)\n\n*POR APENAS R$0.000,00* em até 10x sem juros!",
     // },
     
-    // R$1.390,00
+    // R$1.490,00
     {
       title: "Nº1 - (NT0028)NOTEBOOK LENOVO THINKPAD T450",
       image: "NT0028.png",
-      text: "💻 NOTEBOOK LENOVO THINKPAD T450\n\n*Processador:* i5-5300U(5ªGEN)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n(Acompanha Fonte)\n\n*POR APENAS R$1.390,00* em até 10x sem juros!",
+      text: "💻 NOTEBOOK LENOVO THINKPAD T450\n\n*Processador:* i5 de 6ªGEN\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD NVME 120GB\n(Acompanha Fonte)\n\n*POR APENAS R$1.490,00* em até 10x sem juros!",
     },
 
     // R$2.290,00
