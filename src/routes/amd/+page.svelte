@@ -69,7 +69,7 @@
     {
       title: "Nº7 - (PC0080)Ryzen 7500F + RTX 4060 E GABINETE AQUÁRIO",
       image: "PC0080.png",
-      text: "*Máquina ideal para Jogos como:* \n🚔 GTA 5/RP\n🚗 FORZA HORIZON\n🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 7500F\n*Placa Mãe:* MSI A620M-E\n*Memória RAM:* 2x8(16GB) 5200MHZ DDR4\n*Placa de Vídeo:* RTX 4060 COMPACT 8GB\n*Armazenamento:* SSD NVME 512GB\n*Gabinete:* 'AQUARIO' NINJA BRANCO\n*Fonte:* 550W PCYES ELECTRO 80PLUS\n\nPOR APENAS *R$ 8.290,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
+      text: "*Máquina ideal para Jogos como:* \n🚔 GTA 5/RP\n🚗 FORZA HORIZON\n🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 7500F\n*Placa Mãe:* MSI A620M-E\n*Memória RAM:* 2x8(16GB) 5200MHZ DDR5\n*Placa de Vídeo:* RTX 4060 COMPACT 8GB\n*Armazenamento:* SSD NVME 512GB\n*Gabinete:* 'AQUARIO' NINJA BRANCO\n*Fonte:* 550W PCYES ELECTRO 80PLUS\n\nPOR APENAS *R$ 8.290,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
     },
   ];
 
