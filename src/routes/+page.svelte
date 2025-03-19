@@ -2,6 +2,12 @@
   import CopyButton from "$lib/CopyButton.svelte";
   import IconCopy from "$lib/icons/copy.svelte";
 
+  let open = false;
+
+  function toggle() {
+    open = !open;
+  }
+
   const monitors = [
     { code: "LC0032", title: "SEMINOVO 19' POL. *SORTIDO*", price: "R$390,00" },
     { code: "LC0015", title: "MYMAX 19' POL., ROXO, LED", price: "R$550,00" },
@@ -126,6 +132,34 @@
   }
 </script>
 
+<style>
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
+    z-index: 1;
+    border-radius: 6px;
+  }
+  .dropdown-content a {
+    padding: 10px;
+    text-decoration: none;
+    display: block;
+    color: black;
+  }
+  .dropdown-content a:hover {
+    background-color: #f1f1f1;
+  }
+  .show {
+    display: block;
+  }
+</style>
+
 <svelte:head>
   <title>TN4-TECH PRODUTOS</title>
 </svelte:head>
@@ -146,7 +180,14 @@
     <span> | </span>
     <a href="/pcCustom">🖌 PCs Personalizado</a>
     <span> | </span>
-    <a href="/cpu">Processadores</a>
+    <div class="dropdown">
+      <button on:click={toggle}>↕ Hardware</button>
+      <div class="dropdown-content {open ? 'show' : ''}">
+        <a href="/cpu">Processadores</a>
+        <a href="#">Option 2</a>
+        <a href="#">Option 3</a>
+      </div>
+    </div>
     <span> | </span>
   </div>
 
