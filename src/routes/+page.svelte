@@ -86,18 +86,18 @@
   ];
 
   const gpus = [
-    { title: "GT 730 4GB REVENGER", price: "R$ 490,00" },
-    { title: "RX 550 4GB BIOSTAR", price: "R$ 790,00" },
-    { title: "GTX 1650 4GB MSI VENTUS", price: "R$ 1.290,00" },
-    { title: "RX 580 8GB VX PRO", price: "R$ 1.290,00" },
-    { title: "RX 580 8GB BLUECASE WHITE", price: "R$ 1.390,00" },
-    { title: "RTX 3050 6GB ZOTAC LOW PROFILE", price: "R$ 2.090,00" },
-    { title: "RTX 3060 8GB INNO3D", price: "R$ 2.590,00" },
-    { title: "RTX 3060 12GB GAINWARD PHATOM", price: "R$ 2.690,00" },
-    { title: "RTX 4060 8GB INNO3D COMPACT", price: "R$ 2.890,00" },
-    { title: "RTX 4060 8GB ZOTAC TWIN EDGE", price: "R$ 2.990,00" },
-    { title: "RTX 4070 SUPER 12GB MSI", price: "R$ 7.290,00" },
-    { title: "RTX 5070TI MSI 16GB", price: "R$ 11.900,00" },
+    { code: "VG0039", title: "REVENGER GT 730 4GB", price: "R$ 490,00" },
+    { code: "VG0053", title: "BIOSTAR RX 550 4GB", price: "R$ 790,00" },
+    { code: "VG0073", title: "PCYES RX 570 4GB, 256BITS, GDDR5, PROJETO EDGE", price: "R$ 1.090,00" },
+    { code: "VG0013V", title: "MSI GTX 1650 4GB VENTUS", price: "R$ 1.290,00" },
+    { code: "VG0000", title: "DUEX RX 580 8GB ", price: "R$ 1.290,00" },
+    { code: "VG0000", title: "BLUECASE RX 580 8GB WHITE", price: "R$ 1.390,00" },
+    { code: "VG0000", title: "MANCER RX 580 STREAKY, 8GB,", price: "R$ 1.390,00" },
+    { code: "VG0056", title: "ZOTAC RTX 3050 6GB LOW PROFILE", price: "R$ 2.090,00" },
+    { code: "VG0000", title: "INNO3D RTX 3060 8GB", price: "R$ 2.590,00" },
+    { code: "VG0060", title: "GAINWARD RTX 3060 12GB GHOST", price: "R$ 2.690,00" },
+    { code: "VG0058", title: "MSI RTX 4070 SUPER 12GB", price: "R$ 7.290,00" },
+    { code: "VG0071", title: "MSI RTX 5070TI 16GB", price: "R$ 11.900,00" },
   ];
 
   function copyToClipboard(product: { text: string }) {
@@ -108,7 +108,7 @@
     var finalString = "🎮 PLACAS DE VÍDEO:\n\n";
     gpus.forEach((gpu, i) => {
       finalString +=
-        `*${gpu.title}* por *${gpu.price}*` + (i + 1 < gpus.length ? "\n" : "");
+        `GPU *${gpu.title}* por *${gpu.price}*` + (i + 1 < gpus.length ? "\n" : "");
     });
 
     navigator.clipboard.writeText(finalString);
@@ -196,7 +196,7 @@
         {#each gpus as gpu}
           <tr class="border border-neutral-300">
             <th class="text-left border border-neutral-300 p-2 bg-neutral-100"
-              >{gpu.title}</th
+              >{gpu.code} | {gpu.title}</th
             >
             <td class="p-2 flex justify-between items-center">
               <span>{gpu.price}</span>
