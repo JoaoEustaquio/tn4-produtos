@@ -183,8 +183,8 @@
     <div class="dropdown">
       <button on:click={toggle}>↕ Hardware</button>
       <div class="dropdown-content {open ? 'show' : ''}">
-        <a href="/cpu">Processadores</a>
-        <a href="#">Memória RAM</a>
+        <a href="hardware/cpu">Processadores</a>
+        <a href="hardware/ram">Memória RAM</a>
         <a href="#">Watercooler</a>
         <a href="#">Placa Mãe</a>
       </div>
