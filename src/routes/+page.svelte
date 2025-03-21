@@ -185,8 +185,8 @@
       <div class="dropdown-content {open ? 'show' : ''}">
         <a href="hardware/cpu">Processadores</a>
         <a href="hardware/ram">Memória RAM</a>
-        <a href="">Watercooler</a>
-        <a href="">Placa Mãe</a>
+        <a href="hardware/watercooler">Watercooler</a>
+        <a href="hardware/motherboard">Placa Mãe</a>
       </div>
     </div>
     </div>
