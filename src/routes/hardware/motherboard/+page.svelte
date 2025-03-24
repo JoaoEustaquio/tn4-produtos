@@ -3,31 +3,58 @@
   import IconCopy from "$lib/icons/copy.svelte";
 
   const intel = [
-    { code: "PO0002", title: "Intel Core I5-3470 (3ªGEN)", price: "R$220,00" },
-    { code: "PO0133", title: "Intel Core I7-3770 (3ªGEN)", price: "R$570,00" },
-    { code: "PO0122", title: "Intel Core I7-4770 (4ªGEN)", price: "R$590,00" },
-    { code: "PO0075", title: "Intel Core I3-10100F (10ªGEN)", price: "R$790,00" },
-    { code: "PO0029", title: "Intel Core I5-9600K (9ªGEN)", price: "R$850,00" },
-    { code: "PO0069", title: "Intel Core I5-10400F (10ªGEN)", price: "R$990,00" },
-    { code: "PO0031", title: "Intel Core I7-8700 (8ªGEN)", price: "R$1.190,00" },
-    { code: "PO0072", title: "Intel Core I7-6700 (6ªGEN)", price: "R$1.290,00" },
-    { code: "PO0078", title: "Intel Core I5-12400F (12ªGEN)", price: "R$1.390,00" },
-    { code: "PO0032", title: "Intel Core I7-9700 (9ªGEN)", price: "R$1.690,00" },
+    { code: "PM0000", title: "775 G41 DDR3 TA-PCB001M - LGA 775", price: "R$390,00" },
+    { code: "PM0000", title: "1155 STI", price: "R$480,00" },
+    { code: "PM0000", title: "BLUCASE H110 DDR4 BMBH110-D3HGU - LGA 1151", price: "R$649,99" },
+    { code: "PM0000", title: "BRAZILPC BPC-B75M.2 - LGA 1155", price: "R$479,99" },
+    { code: "PM0000", title: "GMOG H81, LGA 1150, M.2 NVME, 100/100MBPS, MICRO ATX, HDMI, VGA", price: "R$499,99" },
+    { code: "PM0000", title: "IH61-MA5 BULK DDR3 1155P REDE 10/100 AFOX - 16GB / VGA / HDMI", price: "R$539,99" },
+    { code: "PM0000", title: "REVENGER H61/K - LGA1155", price: "R$549,99" },
+    { code: "PM0000", title: "DUEX H61S, LGA 1155(INTEL 3GEN), MATX, DDR3", price: "R$549,90" },
+    { code: "PM0000", title: "TAICON H55 DDR3 TA-PCB004 - LGA 1156 ", price: "R$579,99" },
+    { code: "PM0000", title: "TAICON B75 H61 TA-PCB003M - LGA 1155", price: "R$580,00" },
+    { code: "PM0000", title: "REVENGER H310 - LGA 1151", price: "R$589,99" },
+    { code: "PM0000", title: "LGA 1151 H110", price: "R$590,00" },
+    { code: "PM0000", title: "H610 LGA 1700 REVENGER", price: "R$640,00" },
+    { code: "PM0000", title: "BLUECASE H81 BMBH81-A3HGU - LGA 1150", price: "R$649,99" },
+    { code: "PM0000", title: "GT H310M-T, LGA 1151, DDR4 - TGT-H310M-T", price: "R$690,00" },
+    { code: "PM0000", title: "BRAZILPC A520, AM4, DDR4", price: "R$690,00" },
+    { code: "PM0000", title: "DUEX DX H510 PRO, INTEL LGA 1200, DDR4, mATX - DX H510 PRO", price: "R$730,00" },
+    { code: "PM0000", title: "BIOSTAR H510M, DDR4, INTEL, LGA 1200, M-ATX", price: "R$759,99" },
+    { code: "PM0000", title: "BIOSTAR B560MHP, 2.0, SOCKET 1200", price: "R$789,99" },
+    { code: "PM0000", title: "DUEX H61, WHITE - H610ZG", price: "R$790,00" },
+    { code: "PM0000", title: "BRAZILPC H610M BPC-H610M.2-TG - LGA 1700", price: "R$810,00" },
+    { code: "PM0000", title: "MSI B560M PRO-E, INTEL LGA 1200, MATX, DDR4 ", price: "R$859,99" },
+    { code: "PM0000", title: "BLUECASE BMBH410-D3HGU - LGA 1151", price: "R$889,99" },
+    { code: "PM0000", title: "GIBABYTE B450M GAMING, AM4, 2XDDR4 (MAX 64GB)", price: "R$929,99" },
+
+    
+    { code: "PM0000", title: "LGA 1151 H110", price: "R$590,00" },
+
 ];
 
   const amd = [
-    { code: "PO0040", title: "ATHLON 3000G", price: "R$600,00" },
-    { code: "PO0035", title: "AMD Ryzen 5 4500", price: "R$890,00" },
-    { code: "PO0058", title: "AMD Ryzen 5 5500", price: "R$990,00" },
-    { code: "PO0056B", title: "AMD Ryzen 5 5600G", price: "R$1.250,00" },
-    { code: "PO0057B", title: "AMD Ryzen 5 5600", price: "R$1.390,00" },
-    { code: "PO0055", title: "AMD Ryzen 5 5600GT", price: "R$1.490,00" },
-    { code: "PO0050", title: "AMD Ryzen 5 3700X", price: "R$1.490,00" },
-    { code: "PO0063", title: "AMD Ryzen 5 5700G", price: "R$1.750,00" },
-    { code: "PO00", title: "AMD Ryzen 7 5700X", price: "R$1.890,00" },
-    { code: "PO00", title: "AMD Ryzen 7 5800X", price: "R$2.490,00" },
-    { code: "PO00", title: "AMD Ryzen 7 5700X3D", price: "R$2.590,00" },
-    { code: "PO00", title: "AMD Ryzen 9 5900X", price: "R$2.990,00" },
+    { code: "PM0000", title: "REVENGER A320 - AMD AM4", price: "R$499,99" },
+    { code: "PM0000", title: "REVENGER A520 - AMD AM4", price: "R$599,99" },
+    { code: "PM0000", title: "BLUECASE BMBA780G-A2HG DDR3 - AMD AM3/AM3+", price: "R$609,99" },
+    { code: "PM0000", title: "PCWARE APM-320G DDR4 - AMD AM4", price: "R$629,99" },
+    { code: "PM0000", title: "BIOSTAR AMD B450MHP - AM4 - DDR4", price: "R$689,99" },
+    { code: "PM0000", title: "DUEX B550, M2, AM4 - DX B550ZG-S", price: "R$789,99" },
+    { code: "PM0000", title: "MSI B450M-M PRO - MAX II", price: "R$790,00" },
+    { code: "PM0000", title: "BIOSTAR B450MX-S, SOCKET AM4", price: "R$790,00" },
+    { code: "PM0000", title: "MSI A520M-A PRO", price: "R$790,00" },
+    { code: "PM0000", title: "ASUS PRIME A520M-E - AMD AM4", price: "R$850,00" },
+    { code: "PM0000", title: "BIOSTAR B550MXE PRO DDR4 ", price: "R$949,99" },
+    { code: "PM0000", title: "BLUECASE BMBA88-A2HG DDR3 - FM2/FM2+", price: "R$949,99" },
+    { code: "PM0000", title: "BIOSTAR B550MT, DDR4, SOCKET AM4, MATX", price: "R$949,99" },
+    { code: "PM0000", title: "ASUS TUF GAMING A520M-PLUS II - AMD AM4", price: "R$990,00" },
+    { code: "PM0000", title: "Biostar B650MT, Chipset B650, AMD AM5, MATX, DDR5", price: "R$1.190,00" },
+    { code: "PM0000", title: "GIGABYTE AORUS ELITE B760M, AX, 1.3", price: "R$2.190,00" },
+
+    
+    
+    
+    { code: "PM0000", title: "DUEX B550, M2, AM4 - DX B550ZG-S", price: "R$789,99" },
   ];
 
   function copyToClipboard(product: { text: string }) {
