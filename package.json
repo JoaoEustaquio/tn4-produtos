@@ -29,7 +29,6 @@
   "dependencies": {
     "@sveltejs/vite-plugin-svelte": "^2.5.3",
     "svelte-routing": "^2.0.0",
-    "sveltestrap": "^3.9.1",
     "vercel": "^41.4.1"
   },
   "packageManager": "yarn@2.4.3"
