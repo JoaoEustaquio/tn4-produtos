@@ -67,7 +67,7 @@
 
     // R$9.290,00
     {
-      title: "Nº10 - (PC00) PC GAMER I5-12400F + RTX 4060 8GB PYTHON",
+      title: "Nº10 - (PC0083) PC GAMER I5-12400F + RTX 4060 8GB PYTHON",
       image: "Custom9290.png",
       text: "*Máquina ideal para Jogos como:* \n 🚘FORZA HORIZON\n🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* I5-12400F (12ª Geração)\n*Placa Mãe:* B760M AOURUS ELITE AX WIFI\n*Memória RAM:* RISE MODE 4800MHZ 16GB DDR5\n*Water Cooler:* KALKAN ALPHA 360MM\n*Placa de Vídeo*: GAINWARD PYTHON RTX 4060 8GB\n*Armazenamento:* SSD NVME PRODRIVE 1TB\n*Gabinete:* KALKAN ALFERN\n*Fonte:* TAICON 700W 80PLUS\n\n*R$ 9.290,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
     },
