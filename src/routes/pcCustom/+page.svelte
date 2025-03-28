@@ -30,33 +30,35 @@
       text: "*Máquina ideal para Jogos como:* \n 🚘FORZA HORIZON\n🚔 GTA 5/RP\n🔫 WARZONE/BLACK OPS 6\n🐎Red Dead Redemption 2\n\n*Processador:* RYZEN 5 5600\n*Placa Mãe:* DUEX B550ZGS\n*Memória RAM:* 2x8GB DDR4 3200Mhz PCYES UDIMM BRANCA\n*Water Cooler:*PCYES SANGE FRIO3 BRANCO 120mm\n*Armazenamento:* SSD NVME 512GB\n*Placa de Vìdeo:* RX 580 8GB WHITE\n*Gabinete:* AEROCOOL AERO ONE BRANCO \n*Fonte:* 500w WHITE\n\n*R$ 6.190,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
     },
 
+    
+    // R$ 6.890,00
+    {
+      title: "Nº5 - Ryzen 5500 + RTX 3050 + WATER COOLER PCYES VISION",
+      image: "AMD5500+3060.png",
+      text: "*Máquina ideal para Jogos como:* \n  💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🚔 GTA 5/RP\n🔫 CSGO 2\n🦙 FORTNITE\n🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* RYZEN 5 5500\n*Placa Mãe:* B550MX-E PRO\n*Memória RAM:* 2x8 HIKSEMI FUTURE BLACK 3200Mhz (16GB) DDR4\n*WATER COOLER PCYES VISION 240MM C/ VISOR LCD*\n*Placa de Vídeo:* RX 580 8GB\n*Armazenamento:* SSD NVME M.2 500GB\n*Gabinete:* GAMER C/ 2FANS RGB\n*Fonte:* 700W 80PLUS\n\nPOR APENAS *R$ 6.890,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
+    },
+
     // R$ 7.390,00
     {
-      title: "Nº5 - (PC0055) Ryzen 5700X + RTX 3060 8GB",
+      title: "Nº6 - (PC0055) Ryzen 5700X + RTX 3060 8GB",
       image: "Custom7190.png",
       text: "*Máquina ideal para Jogos como:* \n🚘FORZA HORIZON\n🚔 GTA 5/RP\n🔫 WARZONE/BLACK OPS 6\n🦙 FORTNITE\n🐎Red Dead Redemption 2\n\n*Processador:* RYZEN 7 5700X\n*Placa Mãe:* DUEX B550ZGS\n*Memória RAM:* 2x8GB DDR4 3200Mhz XPG D35 WHITE\n*Water Cooler* ACEGEEK WHITE 360MM\n*Placa de Vídeo:* INNO3D RTX 3060 8GB\n*Armazenamento:* SSD NVME 512GB\n*Gabinete:* PCYES FORCEFIELD WHITE GHOST MAX C/3 FANS\n*Fonte:* 700W 80PLUS BRONZE\n\nPOR APENAS *R$ 8.090,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
     },
 
     // R$ 7.390,00
     {
-      title: "Nº6 - (PC00) Ryzen 5600 + RTX 3060 8GB",
+      title: "Nº7 - (PC00) Ryzen 5600 + RTX 3060 8GB",
       image: "Custom7390.png",
       text: "*Máquina ideal para Jogos como:* \n🚘FORZA HORIZON\n🚔 GTA 5/RP\n🔫 WARZONE/BLACK OPS 6\n🦙 FORTNITE\n🐎Red Dead Redemption 2\n\n*Processador:* RYZEN 5 5600\n*Placa Mãe:* ASUS A520M TUF GAMING PLUS-II\n*Memória RAM:* 2x8GB DDR4 3200Mhz HIKSEMI FUTURE RGB\n*Water Cooler* KALKAN DELTA 360MM\n*Placa de Vídeo:* INNO3D RTX 3060 8GB\n*Armazenamento:* SSD NVME 500GB\n*Gabinete:* DRAXEN ITHNAN BLACK\n*Fonte:* THERMALTAKE 600W 80PLUS\n\nPOR APENAS *R$ 7.390,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
     },
 
     // R$ 7.790,00
     {
-      title: "Nº7 - Ryzen 5600 + RTX 3060 12GB",
+      title: "Nº8 - Ryzen 5600 + RTX 3060 12GB",
       image: "FORCEFIELD.png",
       text: "*Máquina ideal para Jogos como:* \n  💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🚔 GTA 5/RP\n🔫 CSGO 2\n🦙 FORTNITE\n🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* RYZEN 7 3700x\n*Placa Mãe:* B450M GIGABYTE GAMING\n*Memória RAM:* 2x8GB REDRAGON RAGE 16GB DDR4 3200Mhz\n*Water Cooler* Gamdias AURA 120mm V2 PRETO\n*Placa de Vídeo:* RTX 3060 12GB\n*Armazenamento:* SSD NVME 512GB\n*Gabinete:* PCYES FORCEFIELD RED MAGMA C/8FANS\n*Fonte:* 700W 80Plus\n\nPOR APENAS *R$ 7.790,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
     },
 
-    // R$ 7.890,00
-    {
-      title: "Nº8 - Ryzen 5500 + RTX 3050 + WATER COOLER PCYES VISION",
-      image: "AMD5500+3060.png",
-      text: "*Máquina ideal para Jogos como:* \n  💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 WARZONE\n🚔 GTA 5/RP\n🔫 CSGO 2\n🦙 FORTNITE\n🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* RYZEN 5 5500\n*Placa Mãe:* B550MX-E PRO\n*Memória RAM:* 2x8 REDRAGON MAGMA RGB 3200Mhz (16GB) DDR4\n*WATER COOLER PCYES VISION 240MM C/ VISOR LCD*\n*Placa de Vídeo:* RTX 3050 6GB\n*Armazenamento:* SSD NVME M.2 1TB\n*Gabinete:* GAMER C/ 2FANS RGB\n*Fonte:* 700W 80PLUS\n+ PLACA PCI-E 2xUSB 3.0\n\nPOR APENAS *R$ 7.890,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
-    },
 
     // R$8.890,00
     {
