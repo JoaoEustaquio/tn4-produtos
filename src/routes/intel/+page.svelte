@@ -30,44 +30,37 @@
       text: "*Máquina ideal para Jogos como:* \n  LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n\n*Processador:* I7 de 3ª Geração\n*Placa Mãe:* H61 (LGA 1155)\n*Memória RAM:* 2x8GB(16GB)\n*Air Cooler* RGB\n*Placa de Vídeo:* RX 550 4GB\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER C/ LED\n*Fonte:* 500W\n\n*R$ 2.290,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
     },
 
-    // R$3.890
-    {
-      title: "Nº5 - (PC0040) i5-7500(7ªGEN) + RX 550",
-      image: "PC0040.png",
-      text: "*Máquina ideal para Jogos como:* \n🌎 MINECRAFT\n🟥 ROBLOX\n🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n\n*Processador:* Processador:* I5-7500 (7ªGEN)\n*Placa Mãe:* H110\n*Memória RAM:* 2x8(16GB) DDR4\n*Placa de Vídeo:* RX 550 4GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER C/ LED\n*Fonte:* 500W\n\n*R$ 2.990,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
-    },
-
     // R$4.290,00
     {
-      title: "Nº6 - (PC0050) I3-10100F + RX 580 8GB",
+      title: "Nº5 - (PC0050) I3-10100F + RX 580 8GB",
       image: "PC0050.png",
       text: "*Máquina ideal para Jogos como:* \n💥 FREE FIRE\n🔫 CSGO/VALORANT\n🔫 WARZONE\n🦙 FORTNITE\n🚔 GTA 5/RP\n\n*Processador:* I3-10100F (10ª Geração)\n*Placa Mãe:* H510M\n*Memória RAM:* 2x8GB DDR4(16GB)\n*Placa de Vídeo:* RX 580 8GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* HAYOM GB1749 C/4 FANS RGB\n*Fonte:* 500W\n\n*R$ 4.290,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
     },
 
     // R$4.490,00
     {
-      title: "Nº7 - (PC0052) i5 de 10ª + RX 580 8GB",
+      title: "Nº6 - (PC0052) i5 de 10ª + RX 580 8GB",
       image: "PC0052.png",
       text: "*Máquina ideal para Jogos como:* \n💥 FREE FIRE\n🔫 CSGO/VALORANT\n🔫 WARZONE\n🦙 FORTNITE\n🚔 GTA 5/RP\n\n*Processador:* I5-10400F (10ª Geração)\n*Placa Mãe:* H510M (LGA 1200)\n*Memória RAM:* 2x8GB DDR4 (16GB)\n*Placa de Vídeo:* RX 580 8GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* HAYOM GB1749 C/4 FANS RGB\n*Fonte:* 500W\n\n*R$ 4.490,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
     },
 
     // R$4.790,00
     {
-      title: "Nº8 - (PC0051) i5 de 12ª + RX 570 8GB",
+      title: "Nº7 - (PC0051) i5 de 12ª + RX 570 8GB",
       image: "PC0051.png",
       text: "*Máquina idealpara Jogos como:* \n 🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* I5-12400F (12ª Geração)\n*Placa Mãe:* H610 (LGA 1700)\n*Memória RAM:* 2x8GB(16GB) DDR4\n*Placa de Vídeo:* RX 580 8GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* HAYOM GB1749 C/4 FANS RGB\n*Fonte:* 500W\n\n*R$ 4.790,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
     },
 
     // R$4.990,00
     {
-      title: "Nº9 - (PC0074) i5-11400, 16GB DDR4, RTX 3050 6GB E GABINETE GAMER",
+      title: "Nº8 - (PC0074) i5-11400, 16GB DDR4, RTX 3050 6GB E GABINETE GAMER",
       image: "PC0074.png",
       text: "*Máquina ideal para Jogos como:* \n 🚔 GTA RP\n🚗 FORZA HORIZON\n🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n\n*Processador:* I5-11400 (11ª GEN)\n*Placa Mãe:* Q570M D3H DIELBOLD (LGA 1200)\n*Air Cooler:* Hoopson RGB\n*Memória RAM:* 2x8GB 3200MHZ (16GB) DDR4\n*RTX 3050 6GB\n*Armazenamento:* SSD NVME 256GB\n*Gabinete:*  HAYOM GB1725 C/ 3FANS RGB\n*Fonte:*BRIGHT 650W PFC ATIVO\n\n*R$ 4.990,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
     },
 
     // R$6.390,00
     {
-      title: "Nº10 - (PC0026) I7-9700 + RTX 3060",
+      title: "Nº9 - (PC0026) I7-9700 + RTX 3060",
       image: "PC0026.png",
       text: "*Máquina ideal para Jogos como:* \n 🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* i7-9700 (9ºGEN)\n*Placa Mãe:* H310 (LGA 1151)\n*Air Cooler:* Hoopson RGB\n*Memória RAM:* 2x8GB DDR4 (16GB)\n*Placa de Vídeo:* RTX 3060\n*Armazenamento:* SSD NVME 500GB\n*Gabinete:* Gamer Vinik Indux C/3 Fans\n*Fonte:* 700W 80PLUS\n\n*R$ 6.390,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
     },
